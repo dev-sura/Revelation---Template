@@ -1,5 +1,7 @@
 <?php
 session_cache_limiter('nocache');
+
+
 header('Expires: ' . gmdate('r', 0));
 
 header('Content-type: application/json');
@@ -16,22 +18,6 @@ if($to) {
 	$name = $_POST['name'];
 	$email = $_POST['email'];
 	$phone = $_POST['phone'];
-	$subject = $_POST['subject'];
-	
-	$fields = array(
-		0 => array(
-			'text' => 'Name',
-			'val' => $_POST['name']
-		),
-		1 => array(
-			'text' => 'Email address',
-			'val' => $_POST['email']
-		),
-		2 => array(
-			'text' => 'T`H`E`M`E`L`O`C`K`.`C`O`M`',
-			'val' => $_POST['phone']
-		)
-	);
 	
 	$message = "";
 	
