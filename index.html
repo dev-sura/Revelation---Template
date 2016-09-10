@@ -202,7 +202,7 @@
 						<!-- Main Title -->
 						<!-- Adjust the margin-top in css according to content to keep always centered vertically-->
 						<div class="intro-content countdown-wrapper intro-content-slide2">
-							<p class="countdown-title">Remaining time for the event</p>
+							<p class="countdown-title">The Event Will Begin In:</p>
 							<!-- countDown -->
 							<div id="countdown" class="row"></div>
 							<!-- /countDown -->			
@@ -2001,5 +2001,22 @@
 
 <!-- >> /JS
 ============================================================================= -->
+<script>
+$('#countdown').countdown('2016/10/10 8:30:00')
+.on('update.countdown', function(event) {
+  var format = '%H:%M:%S';
+  if(event.offset.totalDays > 0) {
+    format = '%-d %!d ' + format;
+  }
+  if(event.offset.weeks > 0) {
+    format = '%-w %!w ' + format;
+  }
+  $(this).html(event.strftime(format));
+})
+.on('finish.countdown', function(event) {
+  $(this).html('This offer has not expired!')
+    .parent().addClass('disabled');
+});
+</script>
 </body>
 </html>
