@@ -24,7 +24,7 @@
       <li>Finalists will be decided based on number of correct answers.</li>
       <li>Negative marking is there.</li>
     </ul>
-    <p>Prelims:-</p>
+    <p>Finals:-</p>
     <ul>
       <li>Time limit is 20 min</li>
       <li>25 questions on any 2 topics.</li>

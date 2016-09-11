@@ -137,52 +137,6 @@
 									<div class="intro-register-form-text">
 										<p>- Register now -</p>
 									</div>
-									<form class="form" id="intro-register-form" method="">
-
-										<div class="ic-register">						<!-- row -->
-											<div class="row">
-												<!-- col -->
-												<div class="col-sm-4 ic-register-col">
-													<input type="text" class="form-control" placeholder="Your Name" name="if-name" id="if-name"/>
-													<!-- Input icon -->
-													<div class="ic-register-ico">
-														<i class="fa fa-user"></i>
-													</div>
-													<!-- /input-icon -->
-												</div>
-												<!-- /col -->
-												<!-- col -->
-												<div class="col-sm-4 ic-register-col">
-													<input type="text" class="form-control" placeholder="Your Email" name="if-email" id="if-email"/>
-													<!-- Input icon -->
-													<div class="ic-register-ico">
-														<i class="fa fa-envelope"></i>
-													</div>
-													<!-- /input-icon -->
-												</div>
-												<!-- /col -->
-												<!-- col -->
-												<div class="col-sm-4 ic-register-col">
-													<input type="text" class="form-control" placeholder="Your Phone" name="if-phone" id="if-phone"/>
-													<!-- Input icon -->
-													<div class="ic-register-ico">
-														<i class="fa fa-phone"></i>
-													</div>
-													<!-- /input-icon -->
-												</div>
-												<!-- /col -->
-											</div>
-											<!-- /row -->
-											<input type="hidden" value="A New Event Register!" name="subject" id="if-subject">
-										</div>
-
-										<!-- Buttons -->
-										<div class="ic-buttons">
-											<button type="submit" class="btn"><i class="fa fa-paper-plane"></i> &nbsp; register now</button> <a href="https://www.youtube.com/embed/dorZ3vag5PI?autoplay=1" class="fancybox btn"><i class="fa fa-play"></i> &nbsp;Watch Video</a>
-										</div>
-										<!-- /buttons -->
-									</form>
-									<!-- /Register Form -->
 								</div>
 								<!-- /col -->
 							</div>
@@ -246,7 +200,7 @@
 					<!-- Time -->
 					<div class="event-info-col">
 						<div class="event-info-ico"><span class="fa fa-microphone"></span></div>
-						<h3 class="main-title3">On Spot Registration</h3>
+						<h3 class="main-title3">Spot Registration</h3>
 						<p>September 17, <strong>8:30AM </strong> Onwards</p>
 					</div>
 					<!-- /Time -->
