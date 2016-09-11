@@ -1,4 +1,4 @@
-<!-- Blog Posts -->
+
 <?php
 $dbcon1=@mysql_connect("localhost","revelation","revelation123",true);
 	mysql_select_db('revelation',$dbcon1);
@@ -249,8 +249,7 @@ $Name = $_GET['name'];
 										from Afghanistan, Bangladesh, Bhutan, China, Egypt, Ethiopia, France, Indonesia, Kenya, Korea, Liberia, Libya, Mauritius,
 										Nigeria, Oman, Rwanda, Singapore, South Africa, South Korea, Sudan, U.A.E, Thailand, Vietnam, Tanzania, USA, etc.</p>
 							</div>
-							<a href="#section-schedule" class="btn btn-nobg"><i class="fa fa-calendar"></i> See Event Schedule</a> <a href="#section-register" class="btn btn-nobg"><i class="fa fa-paper-plane"></i> Register</a>
-						</div>
+							</div>
 					</div>
 					<!-- /Right Column -->
 				</div>
@@ -333,8 +332,8 @@ $Name = $_GET['name'];
 													<!-- col -->
 													<div class="col-sm-10">
 														<div class="schedule-item-infos">
-															<h4 class="schedule-item-date">9:30 - 11:30</h4>
-															<h3 class="schedule-item-title">Inaugural Function</h3>
+															<h4 class="schedule-item-date">9:30AM</h4>
+															<h3 class="schedule-item-title">Registration</h3>
 															<div class="schedule-item-text">
 																<p>This event marks the beginning of E-Revelation. This event is brought to light by inginting the blaze within us to make the symposium a great hit. We make sure each and every participant who comes to the event goes back with a smile on their face.</p>
 															</div>
@@ -373,10 +372,10 @@ $Name = $_GET['name'];
 													<!-- col -->
 													<div class="col-sm-10">
 														<div class="schedule-item-infos">
-															<h4 class="schedule-item-date">9:30 - 11:30</h4>
-															<h3 class="schedule-item-title">Improving your CSS</h3>
+															<h4 class="schedule-item-date">11.00AM - 11:45AM</h4>
+															<h3 class="schedule-item-title">Counter Srike 1.6</h3>
 															<div class="schedule-item-text">
-																<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.</p>
+																<p>Let's Fight the LAN - Chaos Unchained</p>
 															</div>
 														</div>
 													</div>
@@ -413,10 +412,10 @@ $Name = $_GET['name'];
 													<!-- col -->
 													<div class="col-sm-10">
 														<div class="schedule-item-infos">
-															<h4 class="schedule-item-date">11:30 - 13:00</h4>
-															<h3 class="schedule-item-title">The future of internet</h3>
+															<h4 class="schedule-item-date">11:50AM - 12:30PM</h4>
+															<h3 class="schedule-item-title">FIFA 15</h3>
 															<div class="schedule-item-text">
-																<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.</p>
+																<p>Let's Football, </p>
 															</div>
 														</div>
 													</div>
@@ -453,17 +452,84 @@ $Name = $_GET['name'];
 													<!-- col -->
 													<div class="col-sm-10">
 														<div class="schedule-item-infos">
-															<h4 class="schedule-item-date">14:00 - 16:30</h4>
-															<h3 class="schedule-item-title">The power of networking</h3>
+															<h4 class="schedule-item-date">12:40PM - 1:40PM</h4>
+															<h3 class="schedule-item-title">Lunch Time</h3>
 															<div class="schedule-item-text">
-																<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.</p>
+																<p>Remove the Gaming Stress and Let's give some time to our stomach!.</p>
 															</div>
 														</div>
 													</div>
+													
 													<!-- /col -->
 												</div>
 											</div>
-											<!-- schedule item content -->
+											<div class="schedule-item-content">
+												<div class="row">
+													<!-- col -->
+													<div class="col-sm-2">
+														<div class="schedule-item-img">
+															<img src="img/schedule-img4.jpg" alt="">
+														</div>
+													</div>
+													<!-- /col -->
+													<!-- col -->
+													<div class="col-sm-10">
+														<div class="schedule-item-infos">
+															<h4 class="schedule-item-date">1:40PM - 2:30PM</h4>
+															<h3 class="schedule-item-title">DOTA 2</h3>
+															<div class="schedule-item-text">
+																<p>The Legendry DOTA 2 Comes here. </p>
+															</div>
+														</div>
+													</div>
+													<div class="schedule-item-content">
+												<div class="row">
+													<!-- col -->
+													<div class="col-sm-2">
+														<div class="schedule-item-img">
+															<img src="img/schedule-img4.jpg" alt="">
+														</div>
+													</div>
+													<!-- /col -->
+													<!-- col -->
+													<div class="col-sm-10">
+														<div class="schedule-item-infos">
+															<h4 class="schedule-item-date">2.30PM - 3:15PM</h4>
+															<h3 class="schedule-item-title">Need For Speed - MW</h3>
+															<div class="schedule-item-text">
+																<p>Let's Race! Chase up only on Chaos Unchained.</p>
+															</div>
+														</div>
+													</div>
+													<div class="schedule-item-content">
+												<div class="row">
+													<!-- col -->
+													<div class="col-sm-2">
+														<div class="schedule-item-img">
+															<img src="img/schedule-img4.jpg" alt="">
+														</div>
+													</div>
+													<!-- /col -->
+													<!-- col -->
+													<div class="col-sm-10">
+														<div class="schedule-item-infos">
+															<h4 class="schedule-item-date">3:15PM - 4:00PM</h4>
+															<h3 class="schedule-item-title">Prize Distribution</h3>
+															<div class="schedule-item-text">
+																<p>The most awaited time. Get honoured with Cash.</p>
+															</div>
+														</div>
+													</div>
+													
+													<!-- /col -->
+												</div>
+											</div>
+													<!-- /col -->
+												</div>
+											</div>
+													<!-- /col -->
+												</div>
+											</div>
 										</div>
 									</div>
 								</div>
@@ -949,7 +1015,7 @@ $Name = $_GET['name'];
 				<!-- Section title -->
 				<div class="section-title-wrapper">
 					<h2 class="title-section">Our Team</h2>
-					<p>List of dedicated people who helped us to be this AWESOME!</p>
+					<p><h3>List of dedicated people who helped us to be this AWESOME!</h3></p>
 				</div>
 				<!-- /Section title -->
 				<div class="owl-carousel" id="about-team">
@@ -967,9 +1033,8 @@ $Name = $_GET['name'];
 										<!-- overlay content -->
 										<div class="team-member-find-content">
 											<a href="https://www.facebook.com/Ahmednrda" class="block-link"><span class="fa fa-facebook"></span></a>
-											<a href="#" class="block-link"><span class="fa fa-twitter"></span></a>
 											<a href="mailto:harimanju@live.com" class="block-link"><span class="fa fa-envelope"></span></a>
-											<a href="#" class="block-link"><span class="fa fa-phone"></span></a>
+											<a href="tel: 8807839709" class="block-link"><span class="fa fa-phone"></span></a>
 										</div>
 										<!-- /overlay content -->
 									</div>
@@ -999,10 +1064,9 @@ $Name = $_GET['name'];
 									<div class="team-member-find-overlay">
 										<!-- overlay content -->
 										<div class="team-member-find-content">
-											<a href="#" class="block-link"><span class="fa fa-facebook"></span></a>
-											<a href="#" class="block-link"><span class="fa fa-twitter"></span></a>
-											<a href="#" class="block-link"><span class="fa fa-envelope"></span></a>
-											<a href="#" class="block-link"><span class="fa fa-phone"></span></a>
+											<a href="www.facebook.com/surakshit.kumar" class="block-link"><span class="fa fa-facebook"></span></a>
+											<a href="mail to:inbox.surakshit@gmail.com" class="block-link"><span class="fa fa-envelope"></span></a>
+											<a href="tel: 9840357517" class="block-link"><span class="fa fa-phone"></span></a>
 										</div>
 										<!-- /overlay content -->
 									</div>
@@ -1034,9 +1098,8 @@ $Name = $_GET['name'];
 										<!-- overlay content -->
 										<div class="team-member-find-content">
 											<a href="#" class="block-link"><span class="fa fa-facebook"></span></a>
-											<a href="#" class="block-link"><span class="fa fa-twitter"></span></a>
-											<a href="#" class="block-link"><span class="fa fa-envelope"></span></a>
-											<a href="#" class="block-link"><span class="fa fa-phone"></span></a>
+											<a href="mail to: akash.sanjeev10@gmail.com" class="block-link"><span class="fa fa-envelope"></span></a>
+											<a href="tel: 98941608999" class="block-link"><span class="fa fa-phone"></span></a>
 										</div>
 										<!-- /overlay content -->
 									</div>
@@ -1068,9 +1131,8 @@ $Name = $_GET['name'];
 										<!-- overlay content -->
 										<div class="team-member-find-content">
 											<a href="#" class="block-link"><span class="fa fa-facebook"></span></a>
-											<a href="#" class="block-link"><span class="fa fa-twitter"></span></a>
-											<a href="#" class="block-link"><span class="fa fa-envelope"></span></a>
-											<a href="#" class="block-link"><span class="fa fa-phone"></span></a>
+											<a href="" class="block-link"><span class="fa fa-envelope"></span></a>
+											<a href="tel: 8939425010" class="block-link"><span class="fa fa-phone"></span></a>
 										</div>
 										<!-- /overlay content -->
 									</div>
@@ -1102,9 +1164,8 @@ $Name = $_GET['name'];
 										<!-- overlay content -->
 										<div class="team-member-find-content">
 											<a href="#" class="block-link"><span class="fa fa-facebook"></span></a>
-											<a href="#" class="block-link"><span class="fa fa-twitter"></span></a>
-											<a href="#" class="block-link"><span class="fa fa-envelope"></span></a>
-											<a href="#" class="block-link"><span class="fa fa-phone"></span></a>
+											<a href="mail to: Kunaldhariwal05@gmail.com" class="block-link"><span class="fa fa-envelope"></span></a>
+											<a href="tel: 8122766765" class="block-link"><span class="fa fa-phone"></span></a>
 										</div>
 										<!-- /overlay content -->
 									</div>
@@ -1136,8 +1197,7 @@ $Name = $_GET['name'];
 										<!-- overlay content -->
 										<div class="team-member-find-content">
 											<a href="https://www.facebook.com/MKP.PRABHU.11/" class="block-link"><span class="fa fa-facebook"></span></a>
-											<a href="#" class="block-link"><span class="fa fa-twitter"></span></a>
-											<a href="#" class="block-link"><span class="fa fa-envelope"></span></a>
+											<a href="" class="block-link"><span class="fa fa-envelope"></span></a>
 											<a href="tel:090433 99331" class="block-link"><span class="fa fa-phone"></span></a>
 										</div>
 										<!-- /overlay content -->
@@ -1170,9 +1230,8 @@ $Name = $_GET['name'];
 										<!-- overlay content -->
 										<div class="team-member-find-content">
 											<a href="" class="block-link"><span class="fa fa-facebook"></span></a>
-											<a href="" class="block-link"><span class="fa fa-twitter"></span></a>
-											<a href="" class="block-link"><span class="fa fa-envelope"></span></a>
-											<a href="" class="block-link"><span class="fa fa-phone"></span></a>
+									     	<a href="mail to: sriramakrishna13@gmail.com" class="block-link"><span class="fa fa-envelope"></span></a>
+											<a href="tel: 9710655282" class="block-link"><span class="fa fa-phone"></span></a>
 										</div>
 										<!-- /overlay content -->
 									</div>
@@ -1236,8 +1295,8 @@ $Name = $_GET['name'];
 
 				<!-- Section title -->
 				<div class="section-title-wrapper">
-					<h2 class="title-section">Prices</h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio at mollitia, nam obcaecati veniam provident laboriosam harum ab quod beatae explicabo, dicta voluptates natus sed aspernatur sapiente, nostrum iste quis.</p>
+					<h2 class="title-section">Staffs</h2>
+					<p><h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio at mollitia, nam obcaecati veniam provident laboriosam harum ab quod beatae explicabo, dicta voluptates natus sed aspernatur sapiente, nostrum iste quis.</h3></p>
 				</div>
 				<!-- /Section title -->
 
