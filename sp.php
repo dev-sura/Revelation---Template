@@ -13,11 +13,10 @@
 			<li>No Internet connection will be provided.</li>
 			<li><strong>Parameters for judging:</strong>
 			<ul>
-				<li>Visual appeal</li>
-				<li>Efficiency of the page</li>
-				<li>File size</li>
-        <li>User engagement</li>
-        <li>The Developed site must be responsive</li>
+				<li>Visual appeal.</li>
+				<li>Efficiency of the page.</li>
+        <li>User engagement.</li>
+        <li>The Developed site must be responsive.</li>
         <li>No Participants are allowed to insert any Removable Media, If found the participant will be disqualified.</li>
 			</ul> </li>
 		</ul>
