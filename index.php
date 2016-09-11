@@ -336,7 +336,7 @@ $Name = $_GET['name'];
 															<h4 class="schedule-item-date">9:30 - 11:30</h4>
 															<h3 class="schedule-item-title">Inaugural Function</h3>
 															<div class="schedule-item-text">
-																<p>The inaugural function </p>
+																<p>This event marks the beginning of E-Revelation. This event is brought to light by inginting the blaze within us to make the symposium a great hit. We make sure each and every participant who comes to the event goes back with a smile on their face.</p>
 															</div>
 														</div>
 													</div>
@@ -1169,10 +1169,10 @@ $Name = $_GET['name'];
 									<div class="team-member-find-overlay">
 										<!-- overlay content -->
 										<div class="team-member-find-content">
-											<a href="#" class="block-link"><span class="fa fa-facebook"></span></a>
-											<a href="#" class="block-link"><span class="fa fa-twitter"></span></a>
-											<a href="#" class="block-link"><span class="fa fa-envelope"></span></a>
-											<a href="#" class="block-link"><span class="fa fa-phone"></span></a>
+											<a href="" class="block-link"><span class="fa fa-facebook"></span></a>
+											<a href="" class="block-link"><span class="fa fa-twitter"></span></a>
+											<a href="" class="block-link"><span class="fa fa-envelope"></span></a>
+											<a href="" class="block-link"><span class="fa fa-phone"></span></a>
 										</div>
 										<!-- /overlay content -->
 									</div>
@@ -1182,7 +1182,7 @@ $Name = $_GET['name'];
 							<!-- /team-member pic -->
 							<!-- team-member Infos -->
 							<div class="team-item-content">
-								<h3 class="team-item-title">Sri Ramakrishnan</h3>
+								<h3 class="team-item-title">U.V.Sriramakrishna</h3>
 								<p class="team-item-subtitle">Treasurer</p>
 							</div>
 							<!-- team-member Infos -->
@@ -1228,85 +1228,186 @@ $Name = $_GET['name'];
 		</div>
 		<!-- /SECTION: Team
 		================================================== -->
-
-		<!-- SECTION: Testimonials
+		
+				<!-- SECTION: Prices
 		================================================== -->
-		<div class="section-testimonials section-padding section-bg-right" id="section-testimonials">
+		<div class="section-prices section-padding section-bg-left" id="section-prices">
 			<div class="container">
+
 				<!-- Section title -->
 				<div class="section-title-wrapper">
-					<h2 class="title-section">Testimonials</h2>
+					<h2 class="title-section">Prices</h2>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio at mollitia, nam obcaecati veniam provident laboriosam harum ab quod beatae explicabo, dicta voluptates natus sed aspernatur sapiente, nostrum iste quis.</p>
 				</div>
 				<!-- /Section title -->
 
-				<!-- Testimonial Slides -->
-				<div class="testimonial-slides" id="testimonial-carousel">
+				<!-- Princing Tickets -->
+				<div class="row">
+
 					<!-- item -->
-					<div class="testimonial-item">
-						<!-- Testimonial Content -->
-						<div class="testimonial-content">
-							<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec consequat malesuada aliquet. Morbi vulputate nisl eget adipiscing consequat. Cras arcu tortor, ornare vel libero et, sagittis adipiscing leo. Aenean eget."</p>
-						</div>
-						<!-- /Testimonial Content -->
-						<!-- Testimonial Author -->
-						<div class="testimonial-credits">
-							<!-- picture -->
-							<div class="testimonial-picture">
-								<img src="img/team2.jpg" alt=""/>
+					<div class="col-sm-4">
+						<!-- price ticket -->
+						<a href="#" class="price-ticket-item">
+							<div class="price-ticket-item-wrapper">
+								<!-- Front card -->
+								<div class="price-ticket-item-front">
+									<div class="price-ticket-item-border">
+										<!-- row -->
+										<div class="row">
+											<!-- col -->
+											<div class="col-sm-6">
+												<!-- ticket price -->
+												<h3 class="price-ticket-title">$50</h3>
+												<p class="price-ticket-type">1x person pass</p>
+												<!-- /ticket-price -->
+											</div>
+											<!-- /col -->
+											<!-- col -->
+											<div class="col-sm-6 no-spadding">
+												<div class="price-ticket-infos-wrapper">
+													<p><strong>This Includes:</strong></p>
+													<ul class="clean-list">
+														<li><i class="fa fa-check"></i>&nbsp; free entrance</li>
+														<li><i class="fa fa-check"></i>&nbsp; free checkout</li>
+														<li><i class="fa fa-check"></i>&nbsp; 1x speech listening</li>
+														<li><i class="fa fa-check"></i>&nbsp; 1x Lunch</li>
+													</ul>
+												</div>
+											</div>
+											<!-- /col -->
+										</div>
+										<!-- /row -->
+									</div>
+								</div>
+								<!-- /front-card -->
+								<!-- Back Card -->
+								<div class="price-ticket-item-back">
+									<div class="price-ticket-item-border">
+										<div class="price-ticket-buy">
+											<p class="ticket-item-buy-ico"><i class="fa fa-ticket"></i></p>
+											<h3 class="ticket-item-buy-text">Register Now!</h3>
+											<p><i>just 1 click away!</i></p>
+										</div>
+									</div>
+								</div>
+								<!-- /Back Card -->
 							</div>
-							<!-- /picture -->
-							<p class="testimonial-author">Melissa Alvarez</p>
-							<p class="testimonial-firm">Trexus Co.</p>
-						</div>
-						<!-- /Testimonial Author -->
+						</a>
+						<!-- /price ticket -->
 					</div>
 					<!-- /item -->
+
 					<!-- item -->
-					<div class="testimonial-item">
-						<!-- Testimonial Content -->
-						<div class="testimonial-content">
-							<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec consequat malesuada aliquet. Morbi vulputate nisl eget adipiscing consequat. Cras arcu tortor, ornare vel libero et, sagittis adipiscing leo. Aenean eget."</p>
-						</div>
-						<!-- /Testimonial Content -->
-						<!-- Testimonial Author -->
-						<div class="testimonial-credits">
-							<!-- picture -->
-							<div class="testimonial-picture">
-								<img src="img/team1.jpg" alt=""/>
+					<div class="col-sm-4">
+						<!-- price ticket -->
+						<a href="#" class="price-ticket-item">
+							<div class="price-ticket-item-wrapper">
+								<!-- Front card -->
+								<div class="price-ticket-item-front">
+									<div class="price-ticket-item-border">
+										<!-- row -->
+										<div class="row">
+											<!-- col -->
+											<div class="col-sm-6">
+												<!-- ticket price -->
+												<h3 class="price-ticket-title">$90</h3>
+												<p class="price-ticket-type">2x person pass</p>
+												<!-- /ticket-price -->
+											</div>
+											<!-- /col -->
+											<!-- col -->
+											<div class="col-sm-6 no-spadding">
+												<div class="price-ticket-infos-wrapper">
+													<p><strong>This Includes:</strong></p>
+													<ul class="clean-list">
+														<li><i class="fa fa-check"></i>&nbsp; free entrance</li>
+														<li><i class="fa fa-check"></i>&nbsp; free checkout</li>
+														<li><i class="fa fa-check"></i>&nbsp; 1x speech listening</li>
+														<li><i class="fa fa-check"></i>&nbsp; 1x Lunch</li>
+													</ul>
+												</div>
+											</div>
+											<!-- /col -->
+										</div>
+										<!-- /row -->
+									</div>
+								</div>
+								<!-- /front-card -->
+								<!-- Back Card -->
+								<div class="price-ticket-item-back">
+									<div class="price-ticket-item-border">
+										<div class="price-ticket-buy">
+											<p class="ticket-item-buy-ico"><i class="fa fa-ticket"></i></p>
+											<h3 class="ticket-item-buy-text">Register Now!</h3>
+											<p><i>just 1 click away!</i></p>
+										</div>
+									</div>
+								</div>
+								<!-- /Back Card -->
 							</div>
-							<!-- /picture -->
-							<p class="testimonial-author">John Rex</p>
-							<p class="testimonial-firm">DotRex Co.</p>
-						</div>
-						<!-- /Testimonial Author -->
+						</a>
+						<!-- /price ticket -->
 					</div>
 					<!-- /item -->
+
 					<!-- item -->
-					<div class="testimonial-item">
-						<!-- Testimonial Content -->
-						<div class="testimonial-content">
-							<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec consequat malesuada aliquet. Morbi vulputate nisl eget adipiscing consequat. Cras arcu tortor, ornare vel libero et, sagittis adipiscing leo. Aenean eget."</p>
-						</div>
-						<!-- /Testimonial Content -->
-						<!-- Testimonial Author -->
-						<div class="testimonial-credits">
-							<!-- picture -->
-							<div class="testimonial-picture">
-								<img src="img/team3.jpg" alt=""/>
+					<div class="col-sm-4">
+						<!-- price ticket -->
+						<a href="#" class="price-ticket-item">
+							<div class="price-ticket-item-wrapper">
+								<!-- Front card -->
+								<div class="price-ticket-item-front">
+									<div class="price-ticket-item-border">
+										<!-- row -->
+										<div class="row">
+											<!-- col -->
+											<div class="col-sm-6">
+												<!-- ticket price -->
+												<h3 class="price-ticket-title">$145</h3>
+												<p class="price-ticket-type">1x person vip pass</p>
+												<!-- /ticket-price -->
+											</div>
+											<!-- /col -->
+											<!-- col -->
+											<div class="col-sm-6 no-spadding">
+												<div class="price-ticket-infos-wrapper">
+													<p><strong>This Includes:</strong></p>
+													<ul class="clean-list">
+														<li><i class="fa fa-check"></i>&nbsp; 5 days free entrance</li>
+														<li><i class="fa fa-check"></i>&nbsp; free checkout</li>
+														<li><i class="fa fa-check"></i>&nbsp; free speech listening</li>
+														<li><i class="fa fa-check"></i>&nbsp; free food and drinks</li>
+													</ul>
+												</div>
+											</div>
+											<!-- /col -->
+										</div>
+										<!-- /row -->
+									</div>
+								</div>
+								<!-- /front-card -->
+								<!-- Back Card -->
+								<div class="price-ticket-item-back">
+									<div class="price-ticket-item-border">
+										<div class="price-ticket-buy">
+											<p class="ticket-item-buy-ico"><i class="fa fa-ticket"></i></p>
+											<h3 class="ticket-item-buy-text">Register Now!</h3>
+											<p><i>just 1 click away!</i></p>
+										</div>
+									</div>
+								</div>
+								<!-- /Back Card -->
 							</div>
-							<!-- /picture -->
-							<p class="testimonial-author">Jhonathan Smith</p>
-							<p class="testimonial-firm">RedWings Co.</p>
-						</div>
-						<!-- /Testimonial Author -->
+						</a>
+						<!-- /price ticket -->
 					</div>
 					<!-- /item -->
 				</div>
-				<!-- Testimonial Slides -->
+				<!-- /Princing Tickets -->
 
 			</div>
 		</div>
-		<!-- /SECTION: Testimonials
+		<!-- /SECTION: Prices
 		================================================== -->
 
 		<!-- SECTION: Sponsors
@@ -2129,188 +2230,6 @@ $Name = $_GET['name'];
 
 		</div>
 		<!-- /SECTION: FAQ
-		================================================== -->
-
-
-		<!-- SECTION: Prices
-		================================================== -->
-		<div class="section-prices section-padding section-bg-left" id="section-prices">
-			<div class="container">
-
-				<!-- Section title -->
-				<div class="section-title-wrapper">
-					<h2 class="title-section">Prices</h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio at mollitia, nam obcaecati veniam provident laboriosam harum ab quod beatae explicabo, dicta voluptates natus sed aspernatur sapiente, nostrum iste quis.</p>
-				</div>
-				<!-- /Section title -->
-
-				<!-- Princing Tickets -->
-				<div class="row">
-
-					<!-- item -->
-					<div class="col-sm-4">
-						<!-- price ticket -->
-						<a href="#" class="price-ticket-item">
-							<div class="price-ticket-item-wrapper">
-								<!-- Front card -->
-								<div class="price-ticket-item-front">
-									<div class="price-ticket-item-border">
-										<!-- row -->
-										<div class="row">
-											<!-- col -->
-											<div class="col-sm-6">
-												<!-- ticket price -->
-												<h3 class="price-ticket-title">$50</h3>
-												<p class="price-ticket-type">1x person pass</p>
-												<!-- /ticket-price -->
-											</div>
-											<!-- /col -->
-											<!-- col -->
-											<div class="col-sm-6 no-spadding">
-												<div class="price-ticket-infos-wrapper">
-													<p><strong>This Includes:</strong></p>
-													<ul class="clean-list">
-														<li><i class="fa fa-check"></i>&nbsp; free entrance</li>
-														<li><i class="fa fa-check"></i>&nbsp; free checkout</li>
-														<li><i class="fa fa-check"></i>&nbsp; 1x speech listening</li>
-														<li><i class="fa fa-check"></i>&nbsp; 1x Lunch</li>
-													</ul>
-												</div>
-											</div>
-											<!-- /col -->
-										</div>
-										<!-- /row -->
-									</div>
-								</div>
-								<!-- /front-card -->
-								<!-- Back Card -->
-								<div class="price-ticket-item-back">
-									<div class="price-ticket-item-border">
-										<div class="price-ticket-buy">
-											<p class="ticket-item-buy-ico"><i class="fa fa-ticket"></i></p>
-											<h3 class="ticket-item-buy-text">Register Now!</h3>
-											<p><i>just 1 click away!</i></p>
-										</div>
-									</div>
-								</div>
-								<!-- /Back Card -->
-							</div>
-						</a>
-						<!-- /price ticket -->
-					</div>
-					<!-- /item -->
-
-					<!-- item -->
-					<div class="col-sm-4">
-						<!-- price ticket -->
-						<a href="#" class="price-ticket-item">
-							<div class="price-ticket-item-wrapper">
-								<!-- Front card -->
-								<div class="price-ticket-item-front">
-									<div class="price-ticket-item-border">
-										<!-- row -->
-										<div class="row">
-											<!-- col -->
-											<div class="col-sm-6">
-												<!-- ticket price -->
-												<h3 class="price-ticket-title">$90</h3>
-												<p class="price-ticket-type">2x person pass</p>
-												<!-- /ticket-price -->
-											</div>
-											<!-- /col -->
-											<!-- col -->
-											<div class="col-sm-6 no-spadding">
-												<div class="price-ticket-infos-wrapper">
-													<p><strong>This Includes:</strong></p>
-													<ul class="clean-list">
-														<li><i class="fa fa-check"></i>&nbsp; free entrance</li>
-														<li><i class="fa fa-check"></i>&nbsp; free checkout</li>
-														<li><i class="fa fa-check"></i>&nbsp; 1x speech listening</li>
-														<li><i class="fa fa-check"></i>&nbsp; 1x Lunch</li>
-													</ul>
-												</div>
-											</div>
-											<!-- /col -->
-										</div>
-										<!-- /row -->
-									</div>
-								</div>
-								<!-- /front-card -->
-								<!-- Back Card -->
-								<div class="price-ticket-item-back">
-									<div class="price-ticket-item-border">
-										<div class="price-ticket-buy">
-											<p class="ticket-item-buy-ico"><i class="fa fa-ticket"></i></p>
-											<h3 class="ticket-item-buy-text">Register Now!</h3>
-											<p><i>just 1 click away!</i></p>
-										</div>
-									</div>
-								</div>
-								<!-- /Back Card -->
-							</div>
-						</a>
-						<!-- /price ticket -->
-					</div>
-					<!-- /item -->
-
-					<!-- item -->
-					<div class="col-sm-4">
-						<!-- price ticket -->
-						<a href="#" class="price-ticket-item">
-							<div class="price-ticket-item-wrapper">
-								<!-- Front card -->
-								<div class="price-ticket-item-front">
-									<div class="price-ticket-item-border">
-										<!-- row -->
-										<div class="row">
-											<!-- col -->
-											<div class="col-sm-6">
-												<!-- ticket price -->
-												<h3 class="price-ticket-title">$145</h3>
-												<p class="price-ticket-type">1x person vip pass</p>
-												<!-- /ticket-price -->
-											</div>
-											<!-- /col -->
-											<!-- col -->
-											<div class="col-sm-6 no-spadding">
-												<div class="price-ticket-infos-wrapper">
-													<p><strong>This Includes:</strong></p>
-													<ul class="clean-list">
-														<li><i class="fa fa-check"></i>&nbsp; 5 days free entrance</li>
-														<li><i class="fa fa-check"></i>&nbsp; free checkout</li>
-														<li><i class="fa fa-check"></i>&nbsp; free speech listening</li>
-														<li><i class="fa fa-check"></i>&nbsp; free food and drinks</li>
-													</ul>
-												</div>
-											</div>
-											<!-- /col -->
-										</div>
-										<!-- /row -->
-									</div>
-								</div>
-								<!-- /front-card -->
-								<!-- Back Card -->
-								<div class="price-ticket-item-back">
-									<div class="price-ticket-item-border">
-										<div class="price-ticket-buy">
-											<p class="ticket-item-buy-ico"><i class="fa fa-ticket"></i></p>
-											<h3 class="ticket-item-buy-text">Register Now!</h3>
-											<p><i>just 1 click away!</i></p>
-										</div>
-									</div>
-								</div>
-								<!-- /Back Card -->
-							</div>
-						</a>
-						<!-- /price ticket -->
-					</div>
-					<!-- /item -->
-				</div>
-				<!-- /Princing Tickets -->
-
-			</div>
-		</div>
-		<!-- /SECTION: Prices
 		================================================== -->
 
 		<!-- SECTION: Register
