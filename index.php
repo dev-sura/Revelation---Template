@@ -12,7 +12,7 @@
 <!-- Seo Tags -->
 	<meta name="description" content="A National Level Technical Symposium" />
 	<meta name="keywords" content="Symposium, Technical, Hindustan University, Chennai"/>
-	<meta name="robots" content="index, follow"> 
+	<meta name="robots" content="index, follow">
 <!-- /Seo Tags -->
 
 <!-- Favicon and Touch Icons
@@ -27,7 +27,7 @@
 	<!-- Bootstrap styles -->
 	<link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 	<!-- /Bootstrap Styles -->
-	<!-- Google Web Fonts -->	
+	<!-- Google Web Fonts -->
 	<link href='https://fonts.googleapis.com/css?family=Hind:400,700' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
 	<!-- /google web fonts -->
@@ -52,13 +52,13 @@
 
 <!-- Page Loader
 ========================================================= -->
-<div class="loader-container" id="page-loader"> 
+<div class="loader-container" id="page-loader">
   <div class="loading-wrapper loading-wrapper-hide">
   	<div class="loader-animation" id="loader-animation">
   		<svg class="svg-loader" width=100 height=100>
 		  <circle cx=50 cy=50 r=25 />
 		</svg>
-  	</div>    
+  	</div>
     <!-- Edit With Your Name -->
     <div class="loader-name" id="loader-name">
       <img src="img/loader-logo.png" alt="">
@@ -67,7 +67,7 @@
     <!-- Edit With Your Job -->
     <p class="loader-job" id="loader-job">September 17 | Place: Hindustan University, Chennai</p>
     <!-- /Edit With Your Job -->
-  </div>   
+  </div>
 </div>
 <!-- /End of Page loader
 ========================================================= -->
@@ -87,24 +87,24 @@
 	        <li class="active"><a href="#main-carousel">Home</a></li>
 	        <li><a href="#section-event-infos">About </a></li>
 	        <li><a href="#section-schedule">Schedule</a></li>
-	        <li><a href="#section-speakers">Members</a></li>	                
+	        <li><a href="#section-speakers">Members</a></li>
 	        <li><a href="#section-testimonials">Testimonials</a></li>
-	        <li><a href="#section-sponsors">Sponsors</a></li>	
+	        <li><a href="#section-sponsors">Sponsors</a></li>
 	        <li><a href="#section-blog">Blog</a></li>
 	        <li><a href="#section-faq">FAQ</a></li>
 	        <li><a href="#section-prices">Prices</a></li>
 	        <li><a href="#section-register">Register</a></li>
-	      </ul> 
+	      </ul>
 	    </nav>
 	    <!-- /MAIN MENU -->
-	</div>	
+	</div>
 </header>
 <!-- /Header
 ================================================== -->
 
 
 <div class="page-wrapper">
-	
+
 	<div id="body-content">
 
 		<!-- SECTION: Intro
@@ -114,7 +114,7 @@
 			<!-- slide -->
 			<div class="main-intro" style="background-image: url('img/bg7.jpg');">
 
-				<div class="container">	
+				<div class="container">
 					<div class="intro-content-wrapper viewport">
 						<!-- INTRO CONTENT -->
 						<!-- Adjust the margin-top in style atribute according to content to keep always centered vertically-->
@@ -126,19 +126,19 @@
 									<!-- event logo -->
 									<div class="ic-logo">
 										<img src="img/intro-logo4.png" alt="">
-									</div>	
+									</div>
 									<!-- /event logo -->
 									<!-- Event Infos -->
 									<div class="ic-infos">
 										<p>Sept 17 | Hindustan University, Chennai</p>
 									</div>
-									<!-- /Event Infos -->								
+									<!-- /Event Infos -->
 									<!-- Register Form -->
 									<div class="intro-register-form-text">
 										<p>- Register now -</p>
 									</div>
 									<form class="form" id="intro-register-form" method="">
-									
+
 										<div class="ic-register">						<!-- row -->
 											<div class="row">
 												<!-- col -->
@@ -147,7 +147,7 @@
 													<!-- Input icon -->
 													<div class="ic-register-ico">
 														<i class="fa fa-user"></i>
-													</div>								
+													</div>
 													<!-- /input-icon -->
 												</div>
 												<!-- /col -->
@@ -157,7 +157,7 @@
 													<!-- Input icon -->
 													<div class="ic-register-ico">
 														<i class="fa fa-envelope"></i>
-													</div>								
+													</div>
 													<!-- /input-icon -->
 												</div>
 												<!-- /col -->
@@ -167,37 +167,37 @@
 													<!-- Input icon -->
 													<div class="ic-register-ico">
 														<i class="fa fa-phone"></i>
-													</div>								
+													</div>
 													<!-- /input-icon -->
 												</div>
 												<!-- /col -->
 											</div>
 											<!-- /row -->
-											<input type="hidden" value="A New Event Register!" name="subject" id="if-subject">																				
-										</div>	
-										
+											<input type="hidden" value="A New Event Register!" name="subject" id="if-subject">
+										</div>
+
 										<!-- Buttons -->
 										<div class="ic-buttons">
 											<button type="submit" class="btn"><i class="fa fa-paper-plane"></i> &nbsp; register now</button> <a href="https://www.youtube.com/embed/dorZ3vag5PI?autoplay=1" class="fancybox btn"><i class="fa fa-play"></i> &nbsp;Watch Video</a>
-										</div>	
+										</div>
 										<!-- /buttons -->
-									</form>	
-									<!-- /Register Form -->							
+									</form>
+									<!-- /Register Form -->
 								</div>
 								<!-- /col -->
 							</div>
-							<!-- /row -->						
-															
-						</div>	
-						<!-- /INTRO CONTENT -->					
-					</div>							
+							<!-- /row -->
+
+						</div>
+						<!-- /INTRO CONTENT -->
+					</div>
 				</div>
 			</div>
 			<!-- /slide -->
 
 			<!-- slide -->
 			<div class="main-intro" style="background-image: url('img/bg4.jpg');">
-				<div class="container">						
+				<div class="container">
 					<div class="intro-content-wrapper viewport">
 						<!-- Main Title -->
 						<!-- Adjust the margin-top in css according to content to keep always centered vertically-->
@@ -205,18 +205,18 @@
 							<p class="countdown-title">The Event Will Begin In:</p>
 							<!-- countDown -->
 							<div id="countdown" class="row"></div>
-							<!-- /countDown -->			
+							<!-- /countDown -->
 							<p class="countdown-title2"> <a href="https://www.youtube.com/embed/dorZ3vag5PI?autoplay=1" class="fancybox btn"><i class="fa fa-play"></i> &nbsp;Watch Video</a> <a href="#" class="btn"><i class="fa fa-paper-plane"></i> &nbsp; register now</a></p>
 						</div>
 						<!-- /Main Title -->
-					</div>			
+					</div>
 				</div>
 			</div>
 			<!-- /slide -->
 
 			<!-- slide -->
 			<div class="main-intro" style="background-image: url('img/bg3b.jpg');">
-				<div class="container">						
+				<div class="container">
 					<div class="intro-content-wrapper viewport">
 						<!-- Adjust the margin-top in css according to content to keep always centered vertically-->
 						<div class="intro-content intro-content-slide3">
@@ -235,14 +235,14 @@
 								</div>
 								<!-- /col -->
 							</div>
-							
-							<!-- /row -->						
+
+							<!-- /row -->
 						</div>
-					</div>			
+					</div>
 				</div>
 			</div>
 			<!-- /slide -->
-		</div>		
+		</div>
 		<!-- /SECTION: Intro
 		================================================== -->
 
@@ -281,9 +281,9 @@
 					<!-- /Time -->
 				</div>
 			</div>
-		</div>			
+		</div>
 		<!-- SECTION: /Event Infos
-		================================================== -->	
+		================================================== -->
 
 
 		<!-- SECTION: Event Description
@@ -296,15 +296,15 @@
 						<div class="about-picture" id="about-picture">
 							<img src="img/conference-about.jpg" alt="" class="responsive-image">
 						</div>
-					</div>				
+					</div>
 					<!-- /Left Column -->
 					<!-- Right Column -->
-					<div class="about-text-wrapper"> 
+					<div class="about-text-wrapper">
 						<div class="about-text" id="about-text">
 							<h1 class="title3 title-border"><i class="fa fa-dot-circle-o"></i> About Our Event</h1>
 							<div class="about-text-content">
 								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sodales varius sagittis. Proin a arcu vitae turpis congue facilisis. Quisque a lectus pretium, sagittis augue in, fringilla risus. Quisque elementum, ante a maximus commodo, dui metus imperdiet mi, sit amet tempor lectus erat ac orci. Mauris suscipit rhoncus lobortis. Quisque tincidunt nisi libero. Fusce nec turpis quis enim finibus porta. Donec eget sapien ac leo tempor elementum a at ante.</p>
-							</div>							
+							</div>
 							<a href="#section-schedule" class="btn btn-nobg"><i class="fa fa-calendar"></i> See Event Schedule</a> <a href="#section-register" class="btn btn-nobg"><i class="fa fa-paper-plane"></i> Register</a>
 						</div>
 					</div>
@@ -327,22 +327,21 @@
 				<!-- /Section title -->
 
 
-				
+
 				<!-- TABS -->
 				<div class="tabs">
 					<div class="row">
 						<div class="col-sm-10 col-sm-offset-2 schedule-tab-links-wrapper">
 							<!-- Tab links -->
 							<ul class="tab-links schedule-tab-links">
-						        <li class="active"><a href="#schedule-tab1"><span class="fa fa-calendar"></span>&nbsp;&nbsp; Day 1</a></li>
-						        <li><a href="#schedule-tab2"><span class="fa fa-calendar"></span>&nbsp;&nbsp; Day 2</a></li>
-						        <li><a href="#schedule-tab3"><span class="fa fa-calendar"></span>&nbsp;&nbsp; Day 3</a></li>
+						        <li class="active"><a href="#schedule-tab1"><span class="fa fa-calendar"></span>&nbsp;&nbsp; 16th Sept</a></li>
+						        <li><a href="#schedule-tab2"><span class="fa fa-calendar"></span>&nbsp;&nbsp; 17th Sept</a></li>
 						    </ul>
 						    <!-- /Tab Links -->
 						</div>
 					</div>
-					
-						
+
+
 					<!-- Schedule Tabs -->
 				    <div class="schedule-tabs">
 				    	<!-- Schedule Tab -->
@@ -360,10 +359,10 @@
 											</div>
 											<!-- /schedule item bar -->
 										</div>
-										<div class="col-sm-10">						
+										<div class="col-sm-10">
 										</div>
 									</div>
-								</div>	
+								</div>
 								<!-- /Schedule itens header -->
 
 								<!-- Schedule item -->
@@ -384,7 +383,7 @@
 													<div class="col-sm-2">
 														<div class="schedule-item-img">
 															<img src="img/schedule-img1.jpg" alt="">
-														</div>														
+														</div>
 													</div>
 													<!-- /col -->
 													<!-- col -->
@@ -394,18 +393,18 @@
 															<h3 class="schedule-item-title">Welcome & Registration</h3>
 															<div class="schedule-item-text">
 																<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.</p>
-															</div>	
-														</div>														
+															</div>
+														</div>
 													</div>
 													<!-- /col -->
-												</div>																		
+												</div>
 											</div>
 											<!-- schedule item content -->
 										</div>
 									</div>
-								</div>	
+								</div>
 								<!-- /Schedule item -->
-								
+
 								<!-- Schedule item -->
 								<div class="schedule-item">
 									<div class="row">
@@ -424,7 +423,7 @@
 													<div class="col-sm-2">
 														<div class="schedule-item-img">
 															<img src="img/schedule-img2.jpg" alt="">
-														</div>														
+														</div>
 													</div>
 													<!-- /col -->
 													<!-- col -->
@@ -434,16 +433,16 @@
 															<h3 class="schedule-item-title">Improving your CSS</h3>
 															<div class="schedule-item-text">
 																<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.</p>
-															</div>	
-														</div>														
+															</div>
+														</div>
 													</div>
 													<!-- /col -->
-												</div>																		
+												</div>
 											</div>
 											<!-- schedule item content -->
 										</div>
 									</div>
-								</div>	
+								</div>
 								<!-- /Schedule item -->
 
 								<!-- Schedule item -->
@@ -464,7 +463,7 @@
 													<div class="col-sm-2">
 														<div class="schedule-item-img">
 															<img src="img/schedule-img3.jpg" alt="">
-														</div>														
+														</div>
 													</div>
 													<!-- /col -->
 													<!-- col -->
@@ -474,16 +473,16 @@
 															<h3 class="schedule-item-title">The future of internet</h3>
 															<div class="schedule-item-text">
 																<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.</p>
-															</div>	
-														</div>														
+															</div>
+														</div>
 													</div>
 													<!-- /col -->
-												</div>																		
+												</div>
 											</div>
 											<!-- schedule item content -->
 										</div>
 									</div>
-								</div>	
+								</div>
 								<!-- /Schedule item -->
 
 								<!-- Schedule item -->
@@ -504,7 +503,7 @@
 													<div class="col-sm-2">
 														<div class="schedule-item-img">
 															<img src="img/schedule-img4.jpg" alt="">
-														</div>														
+														</div>
 													</div>
 													<!-- /col -->
 													<!-- col -->
@@ -514,16 +513,16 @@
 															<h3 class="schedule-item-title">The power of networking</h3>
 															<div class="schedule-item-text">
 																<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.</p>
-															</div>	
-														</div>														
+															</div>
+														</div>
 													</div>
 													<!-- /col -->
-												</div>																		
+												</div>
 											</div>
 											<!-- schedule item content -->
 										</div>
 									</div>
-								</div>	
+								</div>
 								<!-- /Schedule item -->
 
 								<!-- Schedule itens footer -->
@@ -536,10 +535,10 @@
 											</div>
 											<!-- /schedule item bar -->
 										</div>
-										<div class="col-sm-10">						
+										<div class="col-sm-10">
 										</div>
 									</div>
-								</div>	
+								</div>
 								<!-- /Schedule itens footer -->
 							</div>
 				    		<!-- /schedule list -->
@@ -550,7 +549,7 @@
 				    	<div class="schedule-tab tab" id="schedule-tab2">
 				    		<!-- schedule list -->
 				    		<div class="schedule-list">
-				    			
+
 								<!-- Schedule itens header -->
 								<div class="schedule-item-header">
 									<div class="row">
@@ -561,10 +560,10 @@
 											</div>
 											<!-- /schedule item bar -->
 										</div>
-										<div class="col-sm-10">						
+										<div class="col-sm-10">
 										</div>
 									</div>
-								</div>	
+								</div>
 								<!-- /Schedule itens header -->
 
 								<!-- Schedule item -->
@@ -585,7 +584,7 @@
 													<div class="col-sm-2">
 														<div class="schedule-item-img">
 															<img src="img/schedule-img5.jpg" alt="">
-														</div>														
+														</div>
 													</div>
 													<!-- /col -->
 													<!-- col -->
@@ -595,18 +594,18 @@
 															<h3 class="schedule-item-title">Welcome Breakfast</h3>
 															<div class="schedule-item-text">
 																<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.</p>
-															</div>	
-														</div>														
+															</div>
+														</div>
 													</div>
 													<!-- /col -->
-												</div>																		
+												</div>
 											</div>
 											<!-- schedule item content -->
 										</div>
 									</div>
-								</div>	
+								</div>
 								<!-- /Schedule item -->
-								
+
 								<!-- Schedule item -->
 								<div class="schedule-item">
 									<div class="row">
@@ -625,7 +624,7 @@
 													<div class="col-sm-2">
 														<div class="schedule-item-img">
 															<img src="img/schedule-img6.jpg" alt="">
-														</div>														
+														</div>
 													</div>
 													<!-- /col -->
 													<!-- col -->
@@ -635,16 +634,16 @@
 															<h3 class="schedule-item-title">Angular JS workshop</h3>
 															<div class="schedule-item-text">
 																<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.</p>
-															</div>	
-														</div>														
+															</div>
+														</div>
 													</div>
 													<!-- /col -->
-												</div>																		
+												</div>
 											</div>
 											<!-- schedule item content -->
 										</div>
 									</div>
-								</div>	
+								</div>
 								<!-- /Schedule item -->
 
 								<!-- Schedule item -->
@@ -665,7 +664,7 @@
 													<div class="col-sm-2">
 														<div class="schedule-item-img">
 															<img src="img/schedule-img1.jpg" alt="">
-														</div>														
+														</div>
 													</div>
 													<!-- /col -->
 													<!-- col -->
@@ -675,16 +674,16 @@
 															<h3 class="schedule-item-title">How to be a successful freelancer</h3>
 															<div class="schedule-item-text">
 																<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.</p>
-															</div>	
-														</div>														
+															</div>
+														</div>
 													</div>
 													<!-- /col -->
-												</div>																		
+												</div>
 											</div>
 											<!-- schedule item content -->
 										</div>
 									</div>
-								</div>	
+								</div>
 								<!-- /Schedule item -->
 
 								<!-- Schedule itens footer -->
@@ -697,10 +696,10 @@
 											</div>
 											<!-- /schedule item bar -->
 										</div>
-										<div class="col-sm-10">						
+										<div class="col-sm-10">
 										</div>
 									</div>
-								</div>	
+								</div>
 								<!-- /Schedule itens footer -->
 							</div>
 				    		<!-- /schedule list -->
@@ -711,7 +710,7 @@
 				    	<div class="schedule-tab tab" id="schedule-tab3">
 				    		<!-- schedule list -->
 				    		<div class="schedule-list">
-				    			
+
 								<!-- Schedule itens header -->
 								<div class="schedule-item-header">
 									<div class="row">
@@ -722,10 +721,10 @@
 											</div>
 											<!-- /schedule item bar -->
 										</div>
-										<div class="col-sm-10">						
+										<div class="col-sm-10">
 										</div>
 									</div>
-								</div>	
+								</div>
 								<!-- /Schedule itens header -->
 
 								<!-- Schedule item -->
@@ -746,7 +745,7 @@
 													<div class="col-sm-2">
 														<div class="schedule-item-img">
 															<img src="img/schedule-img2.jpg" alt="">
-														</div>														
+														</div>
 													</div>
 													<!-- /col -->
 													<!-- col -->
@@ -756,18 +755,18 @@
 															<h3 class="schedule-item-title">The power of a team</h3>
 															<div class="schedule-item-text">
 																<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.</p>
-															</div>	
-														</div>														
+															</div>
+														</div>
 													</div>
 													<!-- /col -->
-												</div>																		
+												</div>
 											</div>
 											<!-- schedule item content -->
 										</div>
 									</div>
-								</div>	
+								</div>
 								<!-- /Schedule item -->
-								
+
 								<!-- Schedule item -->
 								<div class="schedule-item">
 									<div class="row">
@@ -786,7 +785,7 @@
 													<div class="col-sm-2">
 														<div class="schedule-item-img">
 															<img src="img/schedule-img3.jpg" alt="">
-														</div>														
+														</div>
 													</div>
 													<!-- /col -->
 													<!-- col -->
@@ -796,16 +795,16 @@
 															<h3 class="schedule-item-title">App Development workshop</h3>
 															<div class="schedule-item-text">
 																<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.</p>
-															</div>	
-														</div>														
+															</div>
+														</div>
 													</div>
 													<!-- /col -->
-												</div>																		
+												</div>
 											</div>
 											<!-- schedule item content -->
 										</div>
 									</div>
-								</div>	
+								</div>
 								<!-- /Schedule item -->
 
 								<!-- Schedule item -->
@@ -826,7 +825,7 @@
 													<div class="col-sm-2">
 														<div class="schedule-item-img">
 															<img src="img/schedule-img4.jpg" alt="">
-														</div>														
+														</div>
 													</div>
 													<!-- /col -->
 													<!-- col -->
@@ -836,16 +835,16 @@
 															<h3 class="schedule-item-title">Welcome & Registration</h3>
 															<div class="schedule-item-text">
 																<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.</p>
-															</div>	
-														</div>														
+															</div>
+														</div>
 													</div>
 													<!-- /col -->
-												</div>																		
+												</div>
 											</div>
 											<!-- schedule item content -->
 										</div>
 									</div>
-								</div>	
+								</div>
 								<!-- /Schedule item -->
 
 								<!-- Schedule item -->
@@ -866,7 +865,7 @@
 													<div class="col-sm-2">
 														<div class="schedule-item-img">
 															<img src="img/schedule-img5.jpg" alt="">
-														</div>														
+														</div>
 													</div>
 													<!-- /col -->
 													<!-- col -->
@@ -876,18 +875,18 @@
 															<h3 class="schedule-item-title">How to be the leader</h3>
 															<div class="schedule-item-text">
 																<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.</p>
-															</div>	
-														</div>														
+															</div>
+														</div>
 													</div>
 													<!-- /col -->
-												</div>																		
+												</div>
 											</div>
 											<!-- schedule item content -->
 										</div>
 									</div>
-								</div>	
+								</div>
 								<!-- /Schedule item -->
-								
+
 								<!-- Schedule item -->
 								<div class="schedule-item">
 									<div class="row">
@@ -906,7 +905,7 @@
 													<div class="col-sm-2">
 														<div class="schedule-item-img">
 															<img src="img/schedule-img6.jpg" alt="">
-														</div>														
+														</div>
 													</div>
 													<!-- /col -->
 													<!-- col -->
@@ -916,16 +915,16 @@
 															<h3 class="schedule-item-title">MEAN Workshop</h3>
 															<div class="schedule-item-text">
 																<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.</p>
-															</div>	
-														</div>														
+															</div>
+														</div>
 													</div>
 													<!-- /col -->
-												</div>																		
+												</div>
 											</div>
 											<!-- schedule item content -->
 										</div>
 									</div>
-								</div>	
+								</div>
 								<!-- /Schedule item -->
 
 								<!-- Schedule item -->
@@ -946,7 +945,7 @@
 													<div class="col-sm-2">
 														<div class="schedule-item-img">
 															<img src="img/schedule-img1.jpg" alt="">
-														</div>											
+														</div>
 													</div>
 													<!-- /col -->
 													<!-- col -->
@@ -956,17 +955,17 @@
 															<h3 class="schedule-item-title">Closing party</h3>
 															<div class="schedule-item-text">
 																<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.</p>
-															</div>	
-														</div>														
+															</div>
+														</div>
 													</div>
 													<!-- /col -->
-												</div>																		
+												</div>
 											</div>
 											<!-- schedule item content -->
 										</div>
 									</div>
-								</div>	
-								<!-- /Schedule item -->	
+								</div>
+								<!-- /Schedule item -->
 
 								<!-- Schedule itens footer -->
 								<div class="schedule-item-footer">
@@ -978,10 +977,10 @@
 											</div>
 											<!-- /schedule item bar -->
 										</div>
-										<div class="col-sm-10">						
+										<div class="col-sm-10">
 										</div>
 									</div>
-								</div>	
+								</div>
 								<!-- /Schedule itens footer -->
 
 							</div>
@@ -989,11 +988,11 @@
 				    	</div>
 				   		<!-- / Schedule Tab -->
 				    </div>
-					<!-- /Schedule Tabs -->	
-					
+					<!-- /Schedule Tabs -->
+
 				</div>
 				<!-- /TABS -->
-							
+
 			</div>
 		</div>
 		<!-- /SECTION: Event Schedule
@@ -1027,16 +1026,16 @@
 											<a href="#" class="block-link"><span class="fa fa-twitter"></span></a>
 											<a href="mailto:harimanju@live.com" class="block-link"><span class="fa fa-envelope"></span></a>
 											<a href="#" class="block-link"><span class="fa fa-phone"></span></a>
-										</div>									
+										</div>
 										<!-- /overlay content -->
-									</div>								
+									</div>
 								</div>
-							</div>					
+							</div>
 							<!-- /team-member pic -->
 							<!-- team-member Infos -->
 							<div class="team-item-content">
 								<h3 class="team-item-title">Fazil Ahmed</h3>
-								<p class="team-item-subtitle">President</p>								
+								<p class="team-item-subtitle">President</p>
 							</div>
 							<!-- team-member Infos -->
 						</div>
@@ -1060,17 +1059,17 @@
 											<a href="#" class="block-link"><span class="fa fa-twitter"></span></a>
 											<a href="#" class="block-link"><span class="fa fa-envelope"></span></a>
 											<a href="#" class="block-link"><span class="fa fa-phone"></span></a>
-										</div>									
+										</div>
 										<!-- /overlay content -->
-									</div>								
+									</div>
 								</div>
 							</div>
-							
+
 							<!-- /team-member pic -->
 							<!-- team-member Infos -->
 							<div class="team-item-content">
 								<h3 class="team-item-title">Surakshit Kumar</h3>
-								<p class="team-item-subtitle">Vice-President</p>							
+								<p class="team-item-subtitle">Vice-President</p>
 							</div>
 							<!-- team-member Infos -->
 						</div>
@@ -1094,17 +1093,17 @@
 											<a href="#" class="block-link"><span class="fa fa-twitter"></span></a>
 											<a href="#" class="block-link"><span class="fa fa-envelope"></span></a>
 											<a href="#" class="block-link"><span class="fa fa-phone"></span></a>
-										</div>									
+										</div>
 										<!-- /overlay content -->
-									</div>								
+									</div>
 								</div>
 							</div>
-							
+
 							<!-- /team-member pic -->
 							<!-- team-member Infos -->
 							<div class="team-item-content">
 								<h3 class="team-item-title">Akash</h3>
-								<p class="team-item-subtitle">Secretary</p>								
+								<p class="team-item-subtitle">Secretary</p>
 							</div>
 							<!-- team-member Infos -->
 						</div>
@@ -1128,17 +1127,17 @@
 											<a href="#" class="block-link"><span class="fa fa-twitter"></span></a>
 											<a href="#" class="block-link"><span class="fa fa-envelope"></span></a>
 											<a href="#" class="block-link"><span class="fa fa-phone"></span></a>
-										</div>									
+										</div>
 										<!-- /overlay content -->
-									</div>								
+									</div>
 								</div>
 							</div>
-							
+
 							<!-- /team-member pic -->
 							<!-- team-member Infos -->
 							<div class="team-item-content">
 								<h3 class="team-item-title">Naresh Kumar</h3>
-								<p class="team-item-subtitle">Secretary</p>								
+								<p class="team-item-subtitle">Secretary</p>
 							</div>
 							<!-- team-member Infos -->
 						</div>
@@ -1162,17 +1161,17 @@
 											<a href="#" class="block-link"><span class="fa fa-twitter"></span></a>
 											<a href="#" class="block-link"><span class="fa fa-envelope"></span></a>
 											<a href="#" class="block-link"><span class="fa fa-phone"></span></a>
-										</div>									
+										</div>
 										<!-- /overlay content -->
-									</div>								
+									</div>
 								</div>
 							</div>
-							
+
 							<!-- /team-member pic -->
 							<!-- team-member Infos -->
 							<div class="team-item-content">
 								<h3 class="team-item-title">Kunal Dhariwal</h3>
-								<p class="team-item-subtitle">Co-Ordinator</p>								
+								<p class="team-item-subtitle">Co-Ordinator</p>
 							</div>
 							<!-- team-member Infos -->
 						</div>
@@ -1196,17 +1195,17 @@
 											<a href="#" class="block-link"><span class="fa fa-twitter"></span></a>
 											<a href="#" class="block-link"><span class="fa fa-envelope"></span></a>
 											<a href="tel:090433 99331" class="block-link"><span class="fa fa-phone"></span></a>
-										</div>									
+										</div>
 										<!-- /overlay content -->
-									</div>								
+									</div>
 								</div>
 							</div>
-							
+
 							<!-- /team-member pic -->
 							<!-- team-member Infos -->
 							<div class="team-item-content">
 								<h3 class="team-item-title">Manikanda Prabhu</h3>
-								<p class="team-item-subtitle">Co-Ordinator</p>								
+								<p class="team-item-subtitle">Co-Ordinator</p>
 							</div>
 							<!-- team-member Infos -->
 						</div>
@@ -1230,17 +1229,17 @@
 											<a href="#" class="block-link"><span class="fa fa-twitter"></span></a>
 											<a href="#" class="block-link"><span class="fa fa-envelope"></span></a>
 											<a href="#" class="block-link"><span class="fa fa-phone"></span></a>
-										</div>									
+										</div>
 										<!-- /overlay content -->
-									</div>								
+									</div>
 								</div>
 							</div>
-							
+
 							<!-- /team-member pic -->
 							<!-- team-member Infos -->
 							<div class="team-item-content">
 								<h3 class="team-item-title">Sri Ramakrishnan</h3>
-								<p class="team-item-subtitle">Treasurer</p>							
+								<p class="team-item-subtitle">Treasurer</p>
 							</div>
 							<!-- team-member Infos -->
 						</div>
@@ -1263,17 +1262,17 @@
 											<a href="https://www.facebook.com/poilathvarrier?fref=ts" class="block-link"><span class="fa fa-facebook"></span></a>
 											<a href="mailto:manjunathpoilath@gmail.com" class="block-link"><span class="fa fa-envelope"></span></a>
 											<a href="tel: 9176156512" class="block-link"><span class="fa fa-phone"></span></a>
-										</div>									
+										</div>
 										<!-- /overlay content -->
-									</div>								
+									</div>
 								</div>
 							</div>
-							
+
 							<!-- /team-member pic -->
 							<!-- team-member Infos -->
 							<div class="team-item-content">
 								<h3 class="team-item-title">Manjunath Poilath</h3>
-								<p class="team-item-subtitle">Developer</p>							
+								<p class="team-item-subtitle">Developer</p>
 							</div>
 							<!-- team-member Infos -->
 						</div>
@@ -1289,7 +1288,7 @@
 		<!-- SECTION: Testimonials
 		================================================== -->
 		<div class="section-testimonials section-padding section-bg-right" id="section-testimonials">
-			<div class="container">		
+			<div class="container">
 				<!-- Section title -->
 				<div class="section-title-wrapper">
 					<h2 class="title-section">Testimonials</h2>
@@ -1303,19 +1302,19 @@
 						<!-- Testimonial Content -->
 						<div class="testimonial-content">
 							<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec consequat malesuada aliquet. Morbi vulputate nisl eget adipiscing consequat. Cras arcu tortor, ornare vel libero et, sagittis adipiscing leo. Aenean eget."</p>
-						</div>						
-						<!-- /Testimonial Content -->	
+						</div>
+						<!-- /Testimonial Content -->
 						<!-- Testimonial Author -->
 						<div class="testimonial-credits">
 							<!-- picture -->
 							<div class="testimonial-picture">
 								<img src="img/team2.jpg" alt=""/>
-							</div>							
+							</div>
 							<!-- /picture -->
 							<p class="testimonial-author">Melissa Alvarez</p>
 							<p class="testimonial-firm">Trexus Co.</p>
 						</div>
-						<!-- /Testimonial Author -->								
+						<!-- /Testimonial Author -->
 					</div>
 					<!-- /item -->
 					<!-- item -->
@@ -1323,19 +1322,19 @@
 						<!-- Testimonial Content -->
 						<div class="testimonial-content">
 							<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec consequat malesuada aliquet. Morbi vulputate nisl eget adipiscing consequat. Cras arcu tortor, ornare vel libero et, sagittis adipiscing leo. Aenean eget."</p>
-						</div>						
-						<!-- /Testimonial Content -->	
+						</div>
+						<!-- /Testimonial Content -->
 						<!-- Testimonial Author -->
 						<div class="testimonial-credits">
 							<!-- picture -->
 							<div class="testimonial-picture">
 								<img src="img/team1.jpg" alt=""/>
-							</div>							
+							</div>
 							<!-- /picture -->
 							<p class="testimonial-author">John Rex</p>
 							<p class="testimonial-firm">DotRex Co.</p>
 						</div>
-						<!-- /Testimonial Author -->								
+						<!-- /Testimonial Author -->
 					</div>
 					<!-- /item -->
 					<!-- item -->
@@ -1343,19 +1342,19 @@
 						<!-- Testimonial Content -->
 						<div class="testimonial-content">
 							<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec consequat malesuada aliquet. Morbi vulputate nisl eget adipiscing consequat. Cras arcu tortor, ornare vel libero et, sagittis adipiscing leo. Aenean eget."</p>
-						</div>						
-						<!-- /Testimonial Content -->	
+						</div>
+						<!-- /Testimonial Content -->
 						<!-- Testimonial Author -->
 						<div class="testimonial-credits">
 							<!-- picture -->
 							<div class="testimonial-picture">
 								<img src="img/team3.jpg" alt=""/>
-							</div>							
+							</div>
 							<!-- /picture -->
 							<p class="testimonial-author">Jhonathan Smith</p>
 							<p class="testimonial-firm">RedWings Co.</p>
 						</div>
-						<!-- /Testimonial Author -->								
+						<!-- /Testimonial Author -->
 					</div>
 					<!-- /item -->
 				</div>
@@ -1376,7 +1375,7 @@
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias esse cumque quae, perferendis neque voluptate recusandae, rem soluta quam error reiciendis consequuntur. Officia delectus quidem blanditiis eum incidunt temporibus nobis</p>
 				</div>
 				<!-- /Section title -->
-				
+
 				<div class="sponsors-list-wrapper">
 					<div class="sponsors-list" id="sponsors-carousel">
 						<!-- item -->
@@ -1405,13 +1404,13 @@
 						</div>
 						<!-- /item -->
 					</div>
-				</div>	
-			</div>				
+				</div>
+			</div>
 		</div>
 		<!-- /SECTION: Sponsors
 		================================================== -->
 
-		
+
 
 		<!-- SECTION: FAQ
 		================================================== -->
@@ -1421,9 +1420,9 @@
 				<div class="section-title-wrapper">
 					<h2 class="title-section">Faq</h2>
 					<p>Do you have questions in your mind? Here are the questions which we were frequently asked..... </p>
-				</div>				
+				</div>
 				<!-- /Section title -->
-				
+
 				<!-- FAQ list -->
 	    		<div class="schedule-list">
 
@@ -1437,10 +1436,10 @@
 								</div>
 								<!-- /FAQ item bar -->
 							</div>
-							<div class="col-sm-10">						
+							<div class="col-sm-10">
 							</div>
 						</div>
-					</div>	
+					</div>
 					<!-- /FAQ itens header -->
 
 					<!-- FAQ item -->
@@ -1466,17 +1465,17 @@
 												<!-- FAQ reply -->
 												<div class="schedule-item-text">
 													<p>Yes you can. You can not do this process through our website. At the inital stage, you have to register for yourself to ensure that your information are stored in our database. And on the event, you can register yourself for a particular event</p>
-												</div>	
+												</div>
 												<!-- /FAQ reply -->
-											</div>														
+											</div>
 										</div>
 										<!-- /col -->
-									</div>																		
+									</div>
 								</div>
 								<!-- FAQ item content -->
 							</div>
 						</div>
-					</div>	
+					</div>
 					<!-- /FAQ item -->
 
 					<!-- FAQ item -->
@@ -1502,17 +1501,17 @@
 												<!-- FAQ reply -->
 												<div class="schedule-item-text">
 													<p>It varies. For some event, the registration fee is 50 and some are 100. The Amount paid is valid only for individual event</p>
-												</div>	
+												</div>
 												<!-- /FAQ reply -->
-											</div>														
+											</div>
 										</div>
 										<!-- /col -->
-									</div>																		
+									</div>
 								</div>
 								<!-- FAQ item content -->
 							</div>
 						</div>
-					</div>	
+					</div>
 					<!-- /FAQ item -->
 
 					<!-- FAQ item -->
@@ -1538,20 +1537,20 @@
 												<!-- FAQ reply -->
 												<div class="schedule-item-text">
 													<p>You can submit your paper presentation to our <strong>Email:hitsrevelation@gmail.com</strong>. It should be submitted on or before 15th September 2016. And the topic for the paper presentation is "<strong>Any Emerging Technology In IT</strong>"</p>
-												</div>	
+												</div>
 												<!-- /FAQ reply -->
-											</div>														
+											</div>
 										</div>
 										<!-- /col -->
-									</div>																		
+									</div>
 								</div>
 								<!-- FAQ item content -->
 							</div>
 						</div>
-					</div>	
+					</div>
 					<!-- /FAQ item -->
-					
-					
+
+
 
 					<!-- FAQ itens footer -->
 					<div class="schedule-item-footer">
@@ -1563,10 +1562,10 @@
 								</div>
 								<!-- /FAQ item bar -->
 							</div>
-							<div class="col-sm-10">						
+							<div class="col-sm-10">
 							</div>
 						</div>
-					</div>	
+					</div>
 					<!-- /FAQ itens footer -->
 				</div>
 	    		<!-- /FAQ list -->
@@ -1585,7 +1584,7 @@
 				<div class="section-title-wrapper">
 					<h2 class="title-section">Our Events</h2>
 					<p>Here are the list of events we are conducting, both technical and non-technical events</p>
-				</div>				
+				</div>
 				<!-- /Section title -->
 
 				<div id="blog-itens-container">
@@ -1743,7 +1742,7 @@
 						</div>
 					</div>
 					<!-- /blog-item -->
-					
+
 							<!-- blog-item -->
 					<div class="blog-item">
 						<div class="blog-item-wrapper">
@@ -1774,7 +1773,7 @@
 						</div>
 					</div>
 					<!-- /blog-item -->
-					
+
 							<!-- blog-item -->
 					<div class="blog-item">
 						<div class="blog-item-wrapper">
@@ -1805,7 +1804,7 @@
 						</div>
 					</div>
 					<!-- /blog-item -->
-					
+
 							<!-- blog-item -->
 					<div class="blog-item">
 						<div class="blog-item-wrapper">
@@ -1836,7 +1835,7 @@
 						</div>
 					</div>
 					<!-- /blog-item -->
-					
+
 							<!-- blog-item -->
 					<div class="blog-item">
 						<div class="blog-item-wrapper">
@@ -1882,8 +1881,8 @@
 				<div class="section-title-wrapper">
 					<h2 class="title-section">Prices</h2>
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio at mollitia, nam obcaecati veniam provident laboriosam harum ab quod beatae explicabo, dicta voluptates natus sed aspernatur sapiente, nostrum iste quis.</p>
-				</div>				
-				<!-- /Section title -->	
+				</div>
+				<!-- /Section title -->
 
 				<!-- Princing Tickets -->
 				<div class="row">
@@ -1903,7 +1902,7 @@
 												<!-- ticket price -->
 												<h3 class="price-ticket-title">$50</h3>
 												<p class="price-ticket-type">1x person pass</p>
-												<!-- /ticket-price -->									
+												<!-- /ticket-price -->
 											</div>
 											<!-- /col -->
 											<!-- col -->
@@ -1916,12 +1915,12 @@
 														<li><i class="fa fa-check"></i>&nbsp; 1x speech listening</li>
 														<li><i class="fa fa-check"></i>&nbsp; 1x Lunch</li>
 													</ul>
-												</div>												
+												</div>
 											</div>
 											<!-- /col -->
 										</div>
 										<!-- /row -->
-									</div>									
+									</div>
 								</div>
 								<!-- /front-card -->
 								<!-- Back Card -->
@@ -1935,7 +1934,7 @@
 									</div>
 								</div>
 								<!-- /Back Card -->
-							</div>							
+							</div>
 						</a>
 						<!-- /price ticket -->
 					</div>
@@ -1956,7 +1955,7 @@
 												<!-- ticket price -->
 												<h3 class="price-ticket-title">$90</h3>
 												<p class="price-ticket-type">2x person pass</p>
-												<!-- /ticket-price -->									
+												<!-- /ticket-price -->
 											</div>
 											<!-- /col -->
 											<!-- col -->
@@ -1969,12 +1968,12 @@
 														<li><i class="fa fa-check"></i>&nbsp; 1x speech listening</li>
 														<li><i class="fa fa-check"></i>&nbsp; 1x Lunch</li>
 													</ul>
-												</div>												
+												</div>
 											</div>
 											<!-- /col -->
 										</div>
 										<!-- /row -->
-									</div>									
+									</div>
 								</div>
 								<!-- /front-card -->
 								<!-- Back Card -->
@@ -1988,7 +1987,7 @@
 									</div>
 								</div>
 								<!-- /Back Card -->
-							</div>							
+							</div>
 						</a>
 						<!-- /price ticket -->
 					</div>
@@ -2009,7 +2008,7 @@
 												<!-- ticket price -->
 												<h3 class="price-ticket-title">$145</h3>
 												<p class="price-ticket-type">1x person vip pass</p>
-												<!-- /ticket-price -->									
+												<!-- /ticket-price -->
 											</div>
 											<!-- /col -->
 											<!-- col -->
@@ -2022,12 +2021,12 @@
 														<li><i class="fa fa-check"></i>&nbsp; free speech listening</li>
 														<li><i class="fa fa-check"></i>&nbsp; free food and drinks</li>
 													</ul>
-												</div>												
+												</div>
 											</div>
 											<!-- /col -->
 										</div>
 										<!-- /row -->
-									</div>									
+									</div>
 								</div>
 								<!-- /front-card -->
 								<!-- Back Card -->
@@ -2041,15 +2040,15 @@
 									</div>
 								</div>
 								<!-- /Back Card -->
-							</div>							
+							</div>
 						</a>
 						<!-- /price ticket -->
 					</div>
 					<!-- /item -->
 				</div>
 				<!-- /Princing Tickets -->
-				
-			</div>				
+
+			</div>
 		</div>
 		<!-- /SECTION: Prices
 		================================================== -->
@@ -2062,8 +2061,8 @@
 				<div class="section-title-wrapper">
 					<h2 class="title-section">Register now</h2>
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni doloremque quis a quae voluptas ea suscipit, labore accusamus minima voluptatum repellendus eaque repudiandae optio culpa ullam quia odio, quisquam excepturi.</p>
-				</div>				
-				<!-- /Section title -->	
+				</div>
+				<!-- /Section title -->
 				<div class="row row-nopr">
 					<form id="register-form" method="post" class="form register-form">
 						<div class="col-sm-3">
@@ -2081,7 +2080,7 @@
 						<input type="hidden" value="New Event Register!" name="subject" id="subject">
 					</form>
 				</div>
-			</div>	
+			</div>
 		</div>
 		<!-- /SECTION: Register
 		================================================== -->
@@ -2090,10 +2089,10 @@
 		================================================== -->
 		<div class="container-fluid">
 			<div class="row">
-				<div class="map" id="map">			
+				<div class="map" id="map">
 					<iframe src="https://www.google.co.in/maps/place/Hindustan+Institute+of+Technology+%26+Science/@12.8008664,80.2243601,15z/data=!4m2!3m1!1s0x0:0x6a585af1f362dadb?sa=X&ved=0ahUKEwiE5ZXIp4TPAhUEqI8KHTDiBh4Q_BIIejAR" height="350"></iframe>
 				</div>
-			</div>			
+			</div>
 		</div>
 		<!-- /SECTION: Location
 		================================================== -->
@@ -2131,7 +2130,7 @@
 		<div class="row">
 			<!-- col -->
 			<div class="col-sm-6">
-				E-Revelation'16 - Designed and Developed by <strong><i><a href="www.hashinc.in">HashInclude</a></i></strong> 
+				E-Revelation'16 - Designed and Developed by <strong><i><a href="www.hashinc.in">HashInclude</a></i></strong>
 			</div>
 			<!-- /col -->
 			<!-- col -->
@@ -2149,7 +2148,7 @@
 			<!-- /col -->
 		</div>
 		<!-- /row -->
-	</div>	
+	</div>
 </footer>
 <!-- /Footer
 ================================================== -->
