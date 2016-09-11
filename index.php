@@ -2089,7 +2089,7 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="map" id="map">
-					<iframe src="https://www.google.co.in/maps/place/Hindustan+Institute+of+Technology+%26+Science/@12.8008664,80.2243601,15z/data=!4m2!3m1!1s0x0:0x6a585af1f362dadb?sa=X&ved=0ahUKEwiE5ZXIp4TPAhUEqI8KHTDiBh4Q_BIIejAR" height="350"></iframe>
+					<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15562.621567732554!2d80.2243601!3d12.8008664!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6a585af1f362dadb!2sHindustan+Institute+of+Technology+%26+Science!5e0!3m2!1sen!2sin!4v1473580462757" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 				</div>
 			</div>
 		</div>
