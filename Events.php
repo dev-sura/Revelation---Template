@@ -2,7 +2,7 @@
 <div id="pp" class="blog-single-post">
 	<!-- post image -->
 	<div class="post-header-image">
-		<img src="img/pp.jpg" alt="">
+		<img src="img/pp_a.jpg" alt="">
 	</div>
 	<!-- /post-image -->
 
