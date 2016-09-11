@@ -2066,7 +2066,7 @@
 				</div>
 				<!-- /Section title -->
 
-					<form method="post" class="form register-form" action="contact-form.php">
+					<form method="post" class="form register-form" action="php/contact-form.php">
 						<div class="row row-nopr">
 						<div class="col-sm-4">
 							<input name="name" id="name" title="Please type in your name" type="text" class="form-control" placeholder="Name" required>
@@ -2091,7 +2091,7 @@
 			</div>
 			<div class="row row-nopr">
 			<div class="col-sm-4">
-				<input name="college" id="dept" title="Please type in your Department" type="text" class="form-control" placeholder="Department" required>
+				<input name="dept" id="dept" title="Please type in your Department" type="text" class="form-control" placeholder="Department" required>
 			</div>
 		</div>
 					<div class="row row-nopr">
@@ -2110,7 +2110,7 @@
 										<label class="radio-inline"><input type="radio" name="fp" value="Non-Veg">Non-Veg</label>
 							</div>
 						<div class="row row-nopr">
-							<label style="margin-left:20px;"class="checkbox-inline"><input type="checkbox" name="ac" value="true">Accomodation Needed? Not Applicable for Chennai Citizens</label>
+							<label style="margin-left:20px;"class="checkbox-inline"><input type="checkbox" name="ac" value="Yes">Accomodation Needed? Not Applicable for Chennai Citizens</label>
 						</div>
 					<div class="row row-nopr">
 						<div class="col-sm-3">
@@ -2194,7 +2194,13 @@
 </footer>
 <!-- /Footer
 ================================================== -->
-
+<div class="modal fade bs-example-modal-sm" id="success" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel">
+  <div class="modal-dialog modal-sm" role="document">
+    <div class="modal-content">
+      ...
+    </div>
+  </div>
+</div>
 <!-- >> JS
 ============================================================================== -->
 
@@ -2234,5 +2240,12 @@
 <!-- >> /JS
 ============================================================================= -->
 </script>
+<script>
+  if(window.location.hash) {
+    var hash = window.location.hash;
+    $(hash).modal('toggle');
+  }
+</script>
+
 </body>
 </html>

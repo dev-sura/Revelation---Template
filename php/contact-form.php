@@ -1,65 +1,81 @@
 <?php
-session_cache_limiter('nocache');
+$dbcon1=@mysql_connect("localhost","revelation","revelation123",true);
+	mysql_select_db('revelation',$dbcon1);
+class Database
+{
+    private static $dbName = 'revelation' ;
+    private static $dbHost = 'localhost' ;
+    private static $dbUsername = 'revelation';
+    private static $dbUserPassword = 'revelation123';
 
+    private static $cont  = null;
 
-header('Expires: ' . gmdate('r', 0));
+    public function __construct() {
+        die('Init function is not allowed');
+    }
 
-header('Content-type: application/json');
+    public static function connect()
+    {
+       // One connection through whole application
+       if ( null == self::$cont )
+       {
+        try
+        {
+          self::$cont =  new PDO( "mysql:host=".self::$dbHost.";"."dbname=".self::$dbName, self::$dbUsername, self::$dbUserPassword);
+        }
+        catch(PDOException $e)
+        {
+          die($e->getMessage());
+        }
+       }
+       return self::$cont;
+    }
 
-require 'php-mailer/class.phpmailer.php';
-
-// Your email address
-$to = 'youremail@yourserver.com';
-
-$subject = $_POST['subject'];
-
-if($to) {
-
+    public static function disconnect()
+    {
+        self::$cont = null;
+    }
+}
+?>
+<?php
+if(!empty($_POST))
+{
+	$food = 'No Preferences';
+	$acc = 'No';
 	$name = $_POST['name'];
+	$college = $_POST['college'];
+	$year = $_POST['year'];
+	$dept = $_POST['dept'];
 	$email = $_POST['email'];
-	$phone = $_POST['phone'];
-	
-	$message = "";
-	
-	foreach($fields as $field) {
-		$message .= $field['text'].": " . htmlspecialchars($field['val'], ENT_QUOTES) . "<br>\n";
+  $phone = $_POST['tele'];
+	if(!empty($_POST['fp']))
+	{
+  $food = $_POST['fp']; }
+	if(!empty($_POST['ac']))
+	{
+	$acc = $_POST['ac']; }
+	$valid = null;
+	$token =  substr(md5(microtime()),rand(0,26),5);
+
+	$sql1 = @mysql_query("SELECT email from members where email = '$email'");
+	if(mysql_num_rows($sql1) >= 1)
+	{
+		$valid = false;
+		header("location:../Error.php");
 	}
-	
-	$mail = new PHPMailer;
 
-	$mail->IsSMTP();                                      // Set mailer to use SMTP
-	
-	// Optional Settings
-	//$mail->Host = 'mail.yourserver.com';				  // Specify main and backup server
-	//$mail->SMTPAuth = true;                             // Enable SMTP authentication
-	//$mail->Username = 'your@yourserver.com';             		  // SMTP username
-	//$mail->Password = 'secret';                         // SMTP password
-	//$mail->SMTPSecure = 'tls';                          // Enable encryption, 'ssl' also accepted                      // Enable encryption, 'ssl' also accepted
+error_reporting(E_ALL);
 
-	$mail->From = $email;
-	$mail->FromName = $_POST['name'];
-	$mail->AddAddress($to);								  // Add a recipient
-	$mail->AddReplyTo($email, $name);
-
-	$mail->IsHTML(true);                                  // Set email format to HTML
-	
-	$mail->CharSet = 'UTF-8';
-
-	$mail->Subject = $subject;
-	$mail->Body    = $message;
-
-	$arrResult = array ('response'=>'success');
-
-	if(!$mail->Send()) {
-	   $arrResult = array ('response'=>'error');
-	}	
-
-	echo json_encode($arrResult);
-	
-} else {
-
-	$arrResult = array ('response'=>'error');
-	echo json_encode($arrResult);
+	$valid = true;
+	if ($valid) {
+    		$pdo = Database::connect();
+    		$pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+    		$sql = "INSERT INTO members (name,college,year,contact,email,token,dept,food,ac) values(?,?,?,?,?,?,?,?,?)";
+    		$q = $pdo->prepare($sql);
+    		$q->execute(array($name,$college,$year,$phone,$email,'ER'.$token,$dept,$food,$acc));
+    		Database::disconnect();
+    		header("Location:../Success.php?name=$name");
+    	}
 
 }
 ?>
