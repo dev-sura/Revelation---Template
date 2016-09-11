@@ -171,7 +171,7 @@ $Name = $_GET['name'];
 							<!-- countDown -->
 							<div id="countdown" class="row"></div>
 							<!-- /countDown -->
-							<p class="countdown-title2"> <a href="https://www.youtube.com/embed/dorZ3vag5PI?autoplay=1" class="fancybox btn"><i class="fa fa-play"></i> &nbsp;Watch Video</a> <a href="#" class="btn"><i class="fa fa-paper-plane"></i> &nbsp; register now</a></p>
+							<p class="countdown-title2"> <a href="https://www.youtube.com/embed/dorZ3vag5PI?autoplay=1" class="fancybox btn"><i class="fa fa-play"></i> &nbsp;Watch Video</a> <a href="#section-register" class="btn"><i class="fa fa-paper-plane"></i> &nbsp; register now</a></p>
 						</div>
 						<!-- /Main Title -->
 					</div>
@@ -230,7 +230,7 @@ $Name = $_GET['name'];
 					<!-- Left Column -->
 					<div class="about-picture-wrapper">
 						<div class="about-picture" id="about-picture">
-							<img src="img/conference-about.jpg" alt="" class="responsive-image">
+							<img src="img/hits.jpg" style="height:557px; width:700px   "alt="" class="responsive-image">
 						</div>
 					</div>
 					<!-- /Left Column -->
