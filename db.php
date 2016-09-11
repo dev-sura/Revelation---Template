@@ -2,7 +2,7 @@
 <div id="sp" class="blog-single-post">
 	<!-- post image -->
 	<div class="post-header-image">
-		<img src="img/db.jpg" style="height:300px;width:300px;margin-left:260px;" alt="">
+		<img src="img/re.jpg" style="height:300px;width:300px;margin-left:260px;" alt="">
 	</div>
 	<!-- /post-image -->
 
