@@ -237,9 +237,17 @@ $Name = $_GET['name'];
 					<!-- Right Column -->
 					<div class="about-text-wrapper">
 						<div class="about-text" id="about-text">
-							<h1 class="title3 title-border"><i class="fa fa-dot-circle-o"></i> About Our Event</h1>
+							<h1 class="title3 title-border"><i class="fa fa-dot-circle-o"></i> About Our University</h1>
 							<div class="about-text-content">
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sodales varius sagittis. Proin a arcu vitae turpis congue facilisis. Quisque a lectus pretium, sagittis augue in, fringilla risus. Quisque elementum, ante a maximus commodo, dui metus imperdiet mi, sit amet tempor lectus erat ac orci. Mauris suscipit rhoncus lobortis. Quisque tincidunt nisi libero. Fusce nec turpis quis enim finibus porta. Donec eget sapien ac leo tempor elementum a at ante.</p>
+								<p><strong>Hindustan College of Engineering</strong>, started in the year 1985, was conferred the "University Status"
+									by University Grants Commission (UGC), Government of India, Under Section 3 of UGC Act 1956 from the academic
+									year 2008-09 and under the name HITS (Hindustan Institute of Technology and Science).</p><br>
+									<p>Hindustan Institute of Technology and Science is one of the most sought after engineering Institutions in
+										Tamil Nadu, reputed for its highly qualified and experienced faculty and excellent infrastructural facilities for
+										curricular and extra curricular activities, the University has maintained an enviable academic excellence right from
+										its inception. The student community comprises of students from all over India and Overseas. We have students hailing
+										from Afghanistan, Bangladesh, Bhutan, China, Egypt, Ethiopia, France, Indonesia, Kenya, Korea, Liberia, Libya, Mauritius,
+										Nigeria, Oman, Rwanda, Singapore, South Africa, South Korea, Sudan, U.A.E, Thailand, Vietnam, Tanzania, USA, etc.</p>
 							</div>
 							<a href="#section-schedule" class="btn btn-nobg"><i class="fa fa-calendar"></i> See Event Schedule</a> <a href="#section-register" class="btn btn-nobg"><i class="fa fa-paper-plane"></i> Register</a>
 						</div>
