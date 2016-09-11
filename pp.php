@@ -26,8 +26,8 @@
 				<li>The body of the mail should include - Name and Institute of participant (starting from the first author and second one), Department and Year, Contact numbers,Email addresses.</li>
 				<li>Send the paper as an attachment to hitsrevelation@gmail.com</li>
 			</ul> </li>
-			<li>The Last date to send in the paper: 14th September 2016</li>
-			<li>Acceptance notification: 15th September 2016</li>
+			<li>The Last date to send in the paper: 15th September 2016</li>
+			<li>Acceptance notification: 16th September 2016</li>
 		</ul>
 	</div>
 	<!-- /post content -->
