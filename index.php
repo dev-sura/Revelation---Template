@@ -334,9 +334,9 @@ $Name = $_GET['name'];
 													<div class="col-sm-10">
 														<div class="schedule-item-infos">
 															<h4 class="schedule-item-date">9:30 - 11:30</h4>
-															<h3 class="schedule-item-title">Welcome & Registration</h3>
+															<h3 class="schedule-item-title">Inaugural Function</h3>
 															<div class="schedule-item-text">
-																<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.</p>
+																<p>The inaugural function </p>
 															</div>
 														</div>
 													</div>
