@@ -1,3 +1,11 @@
+<!-- Blog Posts -->
+<?php
+$dbcon1=@mysql_connect("localhost","revelation","revelation123",true);
+	mysql_select_db('revelation',$dbcon1);
+	if(isset($_GET['name']))
+	{
+$Name = $_GET['name'];
+	}?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -1339,7 +1347,6 @@
 		================================================== -->
 
 
-
 		<!-- SECTION: FAQ
 		================================================== -->
 		<div class="section-faq section-padding section-bg-right" id="section-faq">
@@ -1528,17 +1535,25 @@
 							<div class="blog-item-infos">
 								<!-- blog-item-title -->
 								<div class="blog-item-title-wrapper">
-									<h2 class="blog-item-title title-border"><a href="Events.php" class="">Innovative Minds</a></h2>
+									<h2 class="blog-item-title title-border"><a href="pp.php" class="">Innovative Minds</a></h2>
 								</div>
 								<!-- /blog-item-title -->
 								<!-- blog item - description -->
 								<div class="blog-item-description">
 									<p><a href="pp.php" class="">Paper Presentation</a></p>
 								</div>
+
+								<div class="hidden blog-item-description">
+									<p><a id="complete" href="Success.php?name=<?php echo $name ?>" class=""></a></p>
+								</div>
+
+								<div class="hidden blog-item-description">
+									<p><a id="error" href="Error.php" class=""></a></p>
+								</div>
 								<!-- /blog-item-description -->
 								<!-- blog item - link -->
 								<div class="blog-item-link">
-									<a href="pp.php" class=" btn btn-nobg">Learn More >></a>
+									<a href="pp.php" class="btn btn-nobg">Learn More >></a>
 								</div>
 								<!-- /blog item - link -->
 							</div>
@@ -2198,10 +2213,10 @@
 ============================================================================= -->
 </script>
 <script>
-  if(window.location.hash) {
-    var hash = window.location.hash;
-    $(hash).modal('toggle');
-  }
+$(document).ready(function(){
+	$str = window.location.hash;
+    $($str).trigger("click");
+});
 </script>
 
 </body>

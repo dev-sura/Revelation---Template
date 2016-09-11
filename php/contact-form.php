@@ -74,7 +74,7 @@ error_reporting(E_ALL);
     		$q = $pdo->prepare($sql);
     		$q->execute(array($name,$college,$year,$phone,$email,'ER'.$token,$dept,$food,$acc));
     		Database::disconnect();
-    		header("Location:../Success.php?name=$name");
+    		header("Location:../index.php?name=$name");
     	}
 
 }
