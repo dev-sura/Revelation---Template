@@ -13,20 +13,22 @@
 	<!-- post content -->
 	<div class="blog-single-content">
 		<p>Rules for Coding</p>
+    <p>Contestants are supposed to solve all the given programmes.</p>
 		<ul>
-			<li>Adhere to the given topic.</li>
-			<li>Team Size: 1 or 2 per team</li>
-			<li>Time limit: 45 min</li>
-			<li>No net access.</li>
-			<li><strong>Parameters for judging:-</strong>
-			<ul>
-				<li>Visual appeal</li>
-				<li>Efficiency of the page</li>
-				<li>File size</li>
-        <li>Static or dynamic pages</li>
-        <li>User engagement</li>
-			</ul> </li>
+			<li>Maximum of 3 per team.</li>
+			<li>Usage of mobile phones inside the contest premises is strictly prohibited.</li>
 		</ul>
+    <p>Prelims:-</p>
+    <ul>
+      <li>Time Limit is 60 min.</li>
+      <li>No of questions: 8</li>
+    </ul>
+    <p>Finals:</p>
+    <ul>
+      <li>Time Limit is 90 min. </li>
+      <li>No of Questions: 5</li>
+    </ul>
+    <p><strong>Same way of implementation as debugging except for the difference that no default code is provided in the text editor.</strong></p>
 	</div>
 	<!-- /post content -->
 </div>

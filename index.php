@@ -1686,24 +1686,24 @@
 						<div class="blog-item-wrapper">
 							<!-- blog item thumbnail -->
 							<div class="blog-item-thumb">
-								<a href="Events.php#" class=""><img src="img/db.jpg" alt=""></a>
+								<a href="db.php" class=""><img src="img/db.jpg" alt=""></a>
 							</div>
 							<!-- /blog item thumbnail -->
 							<!-- Blog item - infos -->
 							<div class="blog-item-infos">
 								<!-- blog-item-title -->
 								<div class="blog-item-title-wrapper">
-									<h2 class="blog-item-title title-border"><a href="Events.php#" class="">Debogage</a></h2>
+									<h2 class="blog-item-title title-border"><a href="db.php" class="">Debogage</a></h2>
 								</div>
 								<!-- /blog-item-title -->
 								<!-- blog item - description -->
 								<div class="blog-item-description">
-									<p><a href="Events.php#" class="">Debugging</a></p>
+									<p><a href="db.php" class="">Debugging</a></p>
 								</div>
 								<!-- /blog-item-description -->
 								<!-- blog item - link -->
 								<div class="blog-item-link">
-									<a href="Events.php#" class=" btn btn-nobg">Learn More >></a>
+									<a href="db.php" class=" btn btn-nobg">Learn More >></a>
 								</div>
 								<!-- /blog item - link -->
 							</div>
