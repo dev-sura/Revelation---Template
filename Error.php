@@ -1,19 +1,10 @@
-<!-- Blog Posts -->
 <div id="sp" class="blog-single-post">
-	<!-- post image -->
 	<div class="post-header-image">
 	</div>
-	<!-- /post-image -->
-
-	<!-- post title -->
 	<h2 style="color:red" class="blog-single-title">Oops!</h2>
-	<!-- /post title -->
-
-	<!-- post content -->
 	<div class="blog-single-content">
-		<p style="color:red;">It seems you have already registered....</p>
-    <p>Contestants are supposed to find the OUTPUT for the given questions.</p>
+		<p style="color:red;">It seems you have already registered.</p>
+    <p>Kindly contact, <br><strong>HashInclude</strong> : +91 9840357517/9176156512/8122766765</p>
   </div>
-	<!-- /post content -->
 </div>
-<!-- /Blog Posts -->
+
