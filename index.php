@@ -1593,24 +1593,24 @@
 						<div class="blog-item-wrapper">
 							<!-- blog item thumbnail -->
 							<div class="blog-item-thumb">
-								<a href="Events.php#pp" class=""><img src="img/pp.jpg" alt=""></a>
+								<a href="pp.php" class=""><img src="img/pp.jpg" alt=""></a>
 							</div>
 							<!-- /blog item thumbnail -->
 							<!-- Blog item - infos -->
 							<div class="blog-item-infos">
 								<!-- blog-item-title -->
 								<div class="blog-item-title-wrapper">
-									<h2 class="blog-item-title title-border"><a href="Events.php#" class="">Innovative Minds</a></h2>
+									<h2 class="blog-item-title title-border"><a href="Events.php" class="">Innovative Minds</a></h2>
 								</div>
 								<!-- /blog-item-title -->
 								<!-- blog item - description -->
 								<div class="blog-item-description">
-									<p><a href="Events.php#" class="">Paper Presentation</a></p>
+									<p><a href="pp.php" class="">Paper Presentation</a></p>
 								</div>
 								<!-- /blog-item-description -->
 								<!-- blog item - link -->
 								<div class="blog-item-link">
-									<a href="Events.php#pp" class=" btn btn-nobg">Learn More >></a>
+									<a href="pp.php" class=" btn btn-nobg">Learn More >></a>
 								</div>
 								<!-- /blog item - link -->
 							</div>
@@ -1624,14 +1624,14 @@
 						<div class="blog-item-wrapper">
 							<!-- blog item thumbnail -->
 							<div class="blog-item-thumb">
-								<a href="Events.php#sp" class=""><img src="img/sp.jpg" alt=""></a>
+								<a href="sp.php" class=""><img src="img/sp.jpg" alt=""></a>
 							</div>
 							<!-- /blog item thumbnail -->
 							<!-- Blog item - infos -->
 							<div class="blog-item-infos">
 								<!-- blog-item-title -->
 								<div class="blog-item-title-wrapper">
-									<h2 class="blog-item-title title-border"><a href="Events.php#sp" class="">Spideys</a></h2>
+									<h2 class="blog-item-title title-border"><a href="sp.php" class="">Spideys</a></h2>
 								</div>
 								<!-- /blog-item-title -->
 								<!-- blog item - description -->
@@ -1641,7 +1641,7 @@
 								<!-- /blog-item-description -->
 								<!-- blog item - link -->
 								<div class="blog-item-link">
-									<a href="Events.php#sp" class=" btn btn-nobg">Learn More >></a>
+									<a href="sp.php" class=" btn btn-nobg">Learn More >></a>
 								</div>
 								<!-- /blog item - link -->
 							</div>
