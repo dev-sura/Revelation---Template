@@ -90,7 +90,7 @@
 	        <li><a href="#section-speakers">Members</a></li>
 	        <li><a href="#section-testimonials">Testimonials</a></li>
 	        <li><a href="#section-sponsors">Sponsors</a></li>
-	        <li><a href="#section-blog">Blog</a></li>
+	        <li><a href="#section-blog">Events</a></li>
 	        <li><a href="#section-faq">FAQ</a></li>
 	        <li><a href="#section-prices">Prices</a></li>
 	        <li><a href="#section-register">Register</a></li>
@@ -2192,7 +2192,7 @@
 <!-- >> /JS
 ============================================================================= -->
 <script>
-$('#countdown').countdown('2016/10/10 8:30:00')
+$('#countdow').countdown('2016/10/10 8:30:00')
 .on('update.countdown', function(event) {
   var format = '%H:%M:%S';
   if(event.offset.totalDays > 0) {
