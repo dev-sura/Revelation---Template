@@ -39,8 +39,8 @@
               <li>The subject must be the title of the Application.</li>
               <li>The body of the mail should include - Name and Institute of participant, Department and Year, Contact numbers, Email addresses.</li>
               <li>The email id is <strong>hitsrevelation@gmail.com</strong></li>
-              <li>Last date to send	 : 14th September 2016</li>
-              <li>Acceptance notification: 15th September 2016</li>
+              <li>Last date to send	 : 15th September 2016</li>
+              <li>Acceptance notification: 16th September 2016</li>
           </ul>
         </li>
       </ul>
