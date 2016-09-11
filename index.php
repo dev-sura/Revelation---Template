@@ -1655,7 +1655,7 @@
 						<div class="blog-item-wrapper">
 							<!-- blog item thumbnail -->
 							<div class="blog-item-thumb">
-								<a href="Events.php#" class=""><img src="img/cs.jpg" alt=""></a>
+								<a href="csp.php" class=""><img src="img/cs.jpg" alt=""></a>
 							</div>
 							<!-- /blog item thumbnail -->
 							<!-- Blog item - infos -->
@@ -1667,12 +1667,12 @@
 								<!-- /blog-item-title -->
 								<!-- blog item - description -->
 								<div class="blog-item-description">
-									<p><a href="Events.php#" class="">Coding</a></p>
+									<p><a href="cs.php" class="">Coding</a></p>
 								</div>
 								<!-- /blog-item-description -->
 								<!-- blog item - link -->
 								<div class="blog-item-link">
-									<a href="Events.php#" class=" btn btn-nobg">Learn More >></a>
+									<a href="cs.php" class=" btn btn-nobg">Learn More >></a>
 								</div>
 								<!-- /blog item - link -->
 							</div>
