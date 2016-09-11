@@ -2100,8 +2100,19 @@
 						</div>
 					</div>
 					<div class="row row-nopr">
+						<label style="margin-left:20px;">Your Food Preference</label>&nbsp;
+										<label class="radio-inline"><input type="radio" name="fp">Veg</label>
+										<label class="radio-inline"><input type="radio" name="fp">Non-Veg</label>
+							</div>
+						<div class="row row-nopr">
+							<label style="margin-left:20px;"class="checkbox-inline"><input type="checkbox" value="">Accomodation Needed? Not Applicable for Chennai Citizens</label>
+						</div>
+					<div class="row row-nopr">
 						<div class="col-sm-3">
-							<input type="submit" class="btn btn-default btn-form" name="submit" value="SEND"/>
+							<input type="submit" class="btn btn-default btn-form" name="submit" value="Register For The Event"/>
+						</div>
+						<div style="margin-top:-10px;" class="col-md-offset-2 col-sm-6">
+							<div class="alert alert-warning" role="alert"><strong>Note:</strong> This is not event based registration. Event based registration can only be done at spot. This is a common registration where we have your details in our database</div>
 						</div>
 					</div>
 						<input type="hidden" value="New Event Register!" name="subject" id="subject">
