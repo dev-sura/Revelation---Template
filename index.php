@@ -1593,24 +1593,24 @@
 						<div class="blog-item-wrapper">
 							<!-- blog item thumbnail -->
 							<div class="blog-item-thumb">
-								<a href="single.html" class=""><img src="img/pp.jpg" alt=""></a>
+								<a href="Events.php#pp" class=""><img src="img/pp.jpg" alt=""></a>
 							</div>
 							<!-- /blog item thumbnail -->
 							<!-- Blog item - infos -->
 							<div class="blog-item-infos">
 								<!-- blog-item-title -->
 								<div class="blog-item-title-wrapper">
-									<h2 class="blog-item-title title-border"><a href="single.html" class="">Innovative Minds</a></h2>
+									<h2 class="blog-item-title title-border"><a href="Events.php#" class="">Innovative Minds</a></h2>
 								</div>
 								<!-- /blog-item-title -->
 								<!-- blog item - description -->
 								<div class="blog-item-description">
-									<p><a href="single.html" class="">Paper Presentation</a></p>
+									<p><a href="Events.php#" class="">Paper Presentation</a></p>
 								</div>
 								<!-- /blog-item-description -->
 								<!-- blog item - link -->
 								<div class="blog-item-link">
-									<a href="single.html" class=" btn btn-nobg">Learn More >></a>
+									<a href="Events.php#pp" class=" btn btn-nobg">Learn More >></a>
 								</div>
 								<!-- /blog item - link -->
 							</div>
@@ -1624,14 +1624,14 @@
 						<div class="blog-item-wrapper">
 							<!-- blog item thumbnail -->
 							<div class="blog-item-thumb">
-								<a href="single.html" class=""><img src="img/sp.jpg" alt=""></a>
+								<a href="Events.php#" class=""><img src="img/sp.jpg" alt=""></a>
 							</div>
 							<!-- /blog item thumbnail -->
 							<!-- Blog item - infos -->
 							<div class="blog-item-infos">
 								<!-- blog-item-title -->
 								<div class="blog-item-title-wrapper">
-									<h2 class="blog-item-title title-border"><a href="single.html" class="">Spideys</a></h2>
+									<h2 class="blog-item-title title-border"><a href="Events.php#" class="">Spideys</a></h2>
 								</div>
 								<!-- /blog-item-title -->
 								<!-- blog item - description -->
@@ -1641,7 +1641,7 @@
 								<!-- /blog-item-description -->
 								<!-- blog item - link -->
 								<div class="blog-item-link">
-									<a href="single.html" class=" btn btn-nobg">Learn More >></a>
+									<a href="Events.php#" class=" btn btn-nobg">Learn More >></a>
 								</div>
 								<!-- /blog item - link -->
 							</div>
@@ -1655,24 +1655,24 @@
 						<div class="blog-item-wrapper">
 							<!-- blog item thumbnail -->
 							<div class="blog-item-thumb">
-								<a href="single.html" class=""><img src="img/cs.jpg" alt=""></a>
+								<a href="Events.php#" class=""><img src="img/cs.jpg" alt=""></a>
 							</div>
 							<!-- /blog item thumbnail -->
 							<!-- Blog item - infos -->
 							<div class="blog-item-infos">
 								<!-- blog-item-title -->
 								<div class="blog-item-title-wrapper">
-									<h2 class="blog-item-title title-border"><a href="single.html" class="">Code Sense</a></h2>
+									<h2 class="blog-item-title title-border"><a href="Events.php#" class="">Code Sense</a></h2>
 								</div>
 								<!-- /blog-item-title -->
 								<!-- blog item - description -->
 								<div class="blog-item-description">
-									<p><a href="single.html" class="">Coding</a></p>
+									<p><a href="Events.php#" class="">Coding</a></p>
 								</div>
 								<!-- /blog-item-description -->
 								<!-- blog item - link -->
 								<div class="blog-item-link">
-									<a href="single.html" class=" btn btn-nobg">Learn More >></a>
+									<a href="Events.php#" class=" btn btn-nobg">Learn More >></a>
 								</div>
 								<!-- /blog item - link -->
 							</div>
@@ -1686,24 +1686,24 @@
 						<div class="blog-item-wrapper">
 							<!-- blog item thumbnail -->
 							<div class="blog-item-thumb">
-								<a href="single.html" class=""><img src="img/db.jpg" alt=""></a>
+								<a href="Events.php#" class=""><img src="img/db.jpg" alt=""></a>
 							</div>
 							<!-- /blog item thumbnail -->
 							<!-- Blog item - infos -->
 							<div class="blog-item-infos">
 								<!-- blog-item-title -->
 								<div class="blog-item-title-wrapper">
-									<h2 class="blog-item-title title-border"><a href="single.html" class="">Debogage</a></h2>
+									<h2 class="blog-item-title title-border"><a href="Events.php#" class="">Debogage</a></h2>
 								</div>
 								<!-- /blog-item-title -->
 								<!-- blog item - description -->
 								<div class="blog-item-description">
-									<p><a href="single.html" class="">Debugging</a></p>
+									<p><a href="Events.php#" class="">Debugging</a></p>
 								</div>
 								<!-- /blog-item-description -->
 								<!-- blog item - link -->
 								<div class="blog-item-link">
-									<a href="single.html" class=" btn btn-nobg">Learn More >></a>
+									<a href="Events.php#" class=" btn btn-nobg">Learn More >></a>
 								</div>
 								<!-- /blog item - link -->
 							</div>
@@ -1717,24 +1717,24 @@
 						<div class="blog-item-wrapper">
 							<!-- blog item thumbnail -->
 							<div class="blog-item-thumb">
-								<a href="single.html" class=""><img src="img/re.jpg" alt=""></a>
+								<a href="Events.php#" class=""><img src="img/re.jpg" alt=""></a>
 							</div>
 							<!-- /blog item thumbnail -->
 							<!-- Blog item - infos -->
 							<div class="blog-item-infos">
 								<!-- blog-item-title -->
 								<div class="blog-item-title-wrapper">
-									<h2 class="blog-item-title title-border"><a href="single.html" class="">Reverse Engineering</a></h2>
+									<h2 class="blog-item-title title-border"><a href="Events.php#" class="">Reverse Engineering</a></h2>
 								</div>
 								<!-- /blog-item-title -->
 								<!-- blog item - description -->
 								<div class="blog-item-description">
-									<p><a href="single.html" class="">Output Prediction</a></p>
+									<p><a href="Events.php#" class="">Output Prediction</a></p>
 								</div>
 								<!-- /blog-item-description -->
 								<!-- blog item - link -->
 								<div class="blog-item-link">
-									<a href="single.html" class="btn btn-nobg">Learn More >></a>
+									<a href="Events.php#" class="btn btn-nobg">Learn More >></a>
 								</div>
 								<!-- /blog item - link -->
 							</div>
@@ -1748,24 +1748,24 @@
 						<div class="blog-item-wrapper">
 							<!-- blog item thumbnail -->
 							<div class="blog-item-thumb">
-								<a href="single.html" class=""><img src="img/ms.jpg" alt=""></a>
+								<a href="Events.php#" class=""><img src="img/ms.jpg" alt=""></a>
 							</div>
 							<!-- /blog item thumbnail -->
 							<!-- Blog item - infos -->
 							<div class="blog-item-infos">
 								<!-- blog-item-title -->
 								<div class="blog-item-title-wrapper">
-									<h2 class="blog-item-title title-border"><a href="single.html" class="">Mind Sweeper</a></h2>
+									<h2 class="blog-item-title title-border"><a href="Events.php#" class="">Mind Sweeper</a></h2>
 								</div>
 								<!-- /blog-item-title -->
 								<!-- blog item - description -->
 								<div class="blog-item-description">
-									<p><a href="single.html" class="">Tech Quiz</a></p>
+									<p><a href="Events.php#" class="">Tech Quiz</a></p>
 								</div>
 								<!-- /blog-item-description -->
 								<!-- blog item - link -->
 								<div class="blog-item-link">
-									<a href="single.html" class="btn btn-nobg">Learn More >></a>
+									<a href="Events.php#" class="btn btn-nobg">Learn More >></a>
 								</div>
 								<!-- /blog item - link -->
 							</div>
@@ -1779,24 +1779,24 @@
 						<div class="blog-item-wrapper">
 							<!-- blog item thumbnail -->
 							<div class="blog-item-thumb">
-								<a href="single.html" class=""><img src="img/ap.jpg" alt=""></a>
+								<a href="Events.php#" class=""><img src="img/ap.jpg" alt=""></a>
 							</div>
 							<!-- /blog item thumbnail -->
 							<!-- Blog item - infos -->
 							<div class="blog-item-infos">
 								<!-- blog-item-title -->
 								<div class="blog-item-title-wrapper">
-									<h2 class="blog-item-title title-border"><a href="single.html" class="">APK Mania</a></h2>
+									<h2 class="blog-item-title title-border"><a href="Events.php#" class="">APK Mania</a></h2>
 								</div>
 								<!-- /blog-item-title -->
 								<!-- blog item - description -->
 								<div class="blog-item-description">
-									<p><a href="single.html" class="">App Presentation</a></p>
+									<p><a href="Events.php#" class="">App Presentation</a></p>
 								</div>
 								<!-- /blog-item-description -->
 								<!-- blog item - link -->
 								<div class="blog-item-link">
-									<a href="single.html" class="btn btn-nobg">Learn More >></a>
+									<a href="Events.php#" class="btn btn-nobg">Learn More >></a>
 								</div>
 								<!-- /blog item - link -->
 							</div>
@@ -1810,24 +1810,24 @@
 						<div class="blog-item-wrapper">
 							<!-- blog item thumbnail -->
 							<div class="blog-item-thumb">
-								<a href="single.html" class=""><img src="img/ws.jpg" alt=""></a>
+								<a href="Events.php#" class=""><img src="img/ws.jpg" alt=""></a>
 							</div>
 							<!-- /blog item thumbnail -->
 							<!-- Blog item - infos -->
 							<div class="blog-item-infos">
 								<!-- blog-item-title -->
 								<div class="blog-item-title-wrapper">
-									<h2 class="blog-item-title title-border"><a href="single.html" class="">Web Search</a></h2>
+									<h2 class="blog-item-title title-border"><a href="Events.php#" class="">Web Search</a></h2>
 								</div>
 								<!-- /blog-item-title -->
 								<!-- blog item - description -->
 								<div class="blog-item-description">
-									<p><a href="single.html" class="">Google It!</a></p>
+									<p><a href="Events.php#" class="">Google It!</a></p>
 								</div>
 								<!-- /blog-item-description -->
 								<!-- blog item - link -->
 								<div class="blog-item-link">
-									<a href="single.html" class="btn btn-nobg">Learn More >></a>
+									<a href="Events.php#" class="btn btn-nobg">Learn More >></a>
 								</div>
 								<!-- /blog item - link -->
 							</div>
@@ -1841,24 +1841,24 @@
 						<div class="blog-item-wrapper">
 							<!-- blog item thumbnail -->
 							<div class="blog-item-thumb">
-								<a href="single.html" class=""><img src="img/th.jpg" alt=""></a>
+								<a href="Events.php#" class=""><img src="img/th.jpg" alt=""></a>
 							</div>
 							<!-- /blog item thumbnail -->
 							<!-- Blog item - infos -->
 							<div class="blog-item-infos">
 								<!-- blog-item-title -->
 								<div class="blog-item-title-wrapper">
-									<h2 class="blog-item-title title-border"><a href="single.html" class="">Tech Hunt</a></h2>
+									<h2 class="blog-item-title title-border"><a href="Events.php#" class="">Tech Hunt</a></h2>
 								</div>
 								<!-- /blog-item-title -->
 								<!-- blog item - description -->
 								<div class="blog-item-description">
-									<p><a href="single.html" class="">Treasure Hunt</a></p>
+									<p><a href="Events.php#" class="">Treasure Hunt</a></p>
 								</div>
 								<!-- /blog-item-description -->
 								<!-- blog item - link -->
 								<div class="blog-item-link">
-									<a href="single.html" class="btn btn-nobg">Learn More >></a>
+									<a href="Events.php#" class="btn btn-nobg">Learn More >></a>
 								</div>
 								<!-- /blog item - link -->
 							</div>
