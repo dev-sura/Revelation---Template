@@ -220,6 +220,12 @@ $(document).ready(function(){
     fitToView: true
   });
 
+  //FANCYBOX - BLOG
+  $(".blog-item a", "#section-blog2").fancybox({
+    type: 'ajax',
+    fitToView: true
+  });
+
 
   //Maps iframe Overlay
   var map = $('#map');

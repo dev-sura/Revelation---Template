@@ -2061,29 +2061,53 @@
 			<div class="container">
 				<!-- Section title -->
 				<div class="section-title-wrapper">
-					<h2 class="title-section">Register now</h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni doloremque quis a quae voluptas ea suscipit, labore accusamus minima voluptatum repellendus eaque repudiandae optio culpa ullam quia odio, quisquam excepturi.</p>
+					<h2 class="title-section">Register Now</h2>
+					<p>Fill In The Details</p>
 				</div>
 				<!-- /Section title -->
+
+					<form id="register-form" method="post" class="form register-form" action="">
+						<div class="row row-nopr">
+						<div class="col-sm-4">
+							<input name="name" id="name" title="Please type in your name" type="text" class="form-control" placeholder="Name" required>
+						</div>
+					</div>
+					<div class="row row-nopr">
+					<div class="col-sm-4">
+						<input name="college" id="name" title="Please type in your college name" type="text" class="form-control" placeholder="College" required>
+					</div>
+				</div>
 				<div class="row row-nopr">
-					<form id="register-form" method="post" class="form register-form">
-						<div class="col-sm-3">
-							<input name="name" id="name" type="text" class="form-control" placeholder="Name" required>
+				<div class="col-sm-4">
+					<select name="year" required title="Please Select Your Year" class="form-control">
+						<option disabled selected>Select Your Year</option>
+						<option value="1">1st Year</option>
+					  <option value="2">2nd Year</option>
+					  <option value="3">3rd Year</option>
+						<option value="4">4th Year</option>
+						<option value="5">5th Year</option>
+					</select>
+				</div>
+			</div>
+					<div class="row row-nopr">
+						<div class="col-sm-4">
+							<input name="email" id="email" title="Please type in your Email ID" class="form-control" type="email" placeholder="Email" required>
 						</div>
-						<div class="col-sm-3">
-							<input name="email" id="email" class="form-control" type="email" placeholder="Email" required>
+					</div>
+					<div class="row row-nopr">
+						<div class="col-sm-4">
+							<input name="telephone" id="telephone" title="Please type in your contact No" class="form-control" type="tel" placeholder="Contact No" required>
 						</div>
-						<div class="col-sm-3">
-							<input name="telephone" id="telephone" class="form-control" type="tel" placeholder="Telephone">
-						</div>
+					</div>
+					<div class="row row-nopr">
 						<div class="col-sm-3">
 							<input type="submit" class="btn btn-default btn-form" name="submit" value="SEND"/>
 						</div>
+					</div>
 						<input type="hidden" value="New Event Register!" name="subject" id="subject">
 					</form>
 				</div>
 			</div>
-		</div>
 		<!-- /SECTION: Register
 		================================================== -->
 
