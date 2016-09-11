@@ -1906,7 +1906,7 @@ $Name = $_GET['name'];
 				<div class="blog-item-wrapper">
 					<!-- blog item thumbnail -->
 					<div class="blog-item-thumb">
-						<a href="mt.php" class=""><img style="height:260px;" src="img/mt.jpg" alt=""></a>
+						<a href="mt.php" class=""><img src="img/mt.jpg" alt=""></a>
 					</div>
 					<!-- /blog item thumbnail -->
 					<!-- Blog item - infos -->
