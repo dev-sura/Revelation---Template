@@ -61,7 +61,7 @@ if(!empty($_POST))
 	if(mysql_num_rows($sql1) >= 1)
 	{
 		$valid = false;
-		header("location:../Error.php");
+		header("location:../Error.php?name=$name#error");
 	}
 
 error_reporting(E_ALL);
@@ -74,7 +74,7 @@ error_reporting(E_ALL);
     		$q = $pdo->prepare($sql);
     		$q->execute(array($name,$college,$year,$phone,$email,'ER'.$token,$dept,$food,$acc));
     		Database::disconnect();
-    		header("Location:../index.php?name=$name");
+    		header("Location:../index.php?name=$name#complete");
     	}
 
 }

@@ -1544,11 +1544,11 @@ $Name = $_GET['name'];
 								</div>
 
 								<div class="hidden blog-item-description">
-									<p><a id="complete" href="Success.php?name=<?php echo $name ?>" class=""></a></p>
+									<?php echo " <p><a id='complete' href="."Success.php?name=$Name"." class=''></a></p> ";?>
 								</div>
 
 								<div class="hidden blog-item-description">
-									<p><a id="error" href="Error.php" class=""></a></p>
+										<?php echo " <p><a id='error' href='Error.php?name=$Name' class=''></a></p> ";?>
 								</div>
 								<!-- /blog-item-description -->
 								<!-- blog item - link -->
