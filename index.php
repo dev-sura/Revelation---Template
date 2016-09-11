@@ -1841,24 +1841,24 @@
 						<div class="blog-item-wrapper">
 							<!-- blog item thumbnail -->
 							<div class="blog-item-thumb">
-								<a href="Events.php#" class=""><img src="img/th.jpg" alt=""></a>
+								<a href="th.php" class=""><img src="img/th.jpg" alt=""></a>
 							</div>
 							<!-- /blog item thumbnail -->
 							<!-- Blog item - infos -->
 							<div class="blog-item-infos">
 								<!-- blog-item-title -->
 								<div class="blog-item-title-wrapper">
-									<h2 class="blog-item-title title-border"><a href="Events.php#" class="">Tech Hunt</a></h2>
+									<h2 class="blog-item-title title-border"><a href="th.php" class="">Tech Hunt</a></h2>
 								</div>
 								<!-- /blog-item-title -->
 								<!-- blog item - description -->
 								<div class="blog-item-description">
-									<p><a href="Events.php#" class="">Treasure Hunt</a></p>
+									<p><a href="th.php" class="">Treasure Hunt</a></p>
 								</div>
 								<!-- /blog-item-description -->
 								<!-- blog item - link -->
 								<div class="blog-item-link">
-									<a href="Events.php#" class="btn btn-nobg">Learn More >></a>
+									<a href="th.php" class="btn btn-nobg">Learn More >></a>
 								</div>
 								<!-- /blog item - link -->
 							</div>
