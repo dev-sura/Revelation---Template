@@ -1354,170 +1354,6 @@ $Name = $_GET['name'];
 		<!-- /SECTION: Sponsors
 		================================================== -->
 
-
-		<!-- SECTION: FAQ
-		================================================== -->
-		<div class="section-faq section-padding section-bg-right" id="section-faq">
-			<div class="container">
-				<!-- Section title -->
-				<div class="section-title-wrapper">
-					<h2 class="title-section">Faq</h2>
-					<p>Do you have questions in your mind? Here are the questions which we were frequently asked..... </p>
-				</div>
-				<!-- /Section title -->
-
-				<!-- FAQ list -->
-	    		<div class="schedule-list">
-
-					<!-- FAQ itens header -->
-					<div class="schedule-item-header">
-						<div class="row">
-							<div class="col-sm-2">
-								<!-- FAQ item bar -->
-								<div class="schedule-item-block faq-item-block schedule-item-block-top">
-									<div class="schedule-item-bar schedule-item-bar-top"></div>
-								</div>
-								<!-- /FAQ item bar -->
-							</div>
-							<div class="col-sm-10">
-							</div>
-						</div>
-					</div>
-					<!-- /FAQ itens header -->
-
-					<!-- FAQ item -->
-					<div class="schedule-item">
-						<div class="row">
-							<div class="col-sm-2">
-								<!-- FAQ item bar -->
-								<div class="schedule-item-block faq-item-block">
-									<div class="schedule-item-bar"></div>
-								</div>
-								<!-- /FAQ item bar -->
-							</div>
-							<div class="col-sm-10 schedule-item-content-wrapper">
-								<!-- FAQ item content -->
-								<div class="schedule-item-content faq-item-content">
-									<div class="row">
-										<!-- col -->
-										<div class="col-sm-12">
-											<div class="schedule-item-infos">
-												<!-- FAQ Question -->
-												<h3 class="schedule-item-title faq-item-title">Can I Do A Spot Registration For Each Event?</h3>
-												<!-- /FAQ Question -->
-												<!-- FAQ reply -->
-												<div class="schedule-item-text">
-													<p>Yes you can. You can not do this process through our website. At the inital stage, you have to register for yourself to ensure that your information are stored in our database. And on the event, you can register yourself for a particular event</p>
-												</div>
-												<!-- /FAQ reply -->
-											</div>
-										</div>
-										<!-- /col -->
-									</div>
-								</div>
-								<!-- FAQ item content -->
-							</div>
-						</div>
-					</div>
-					<!-- /FAQ item -->
-
-					<!-- FAQ item -->
-					<div class="schedule-item">
-						<div class="row">
-							<div class="col-sm-2">
-								<!-- FAQ item bar -->
-								<div class="schedule-item-block faq-item-block">
-									<div class="schedule-item-bar"></div>
-								</div>
-								<!-- /FAQ item bar -->
-							</div>
-							<div class="col-sm-10 schedule-item-content-wrapper">
-								<!-- FAQ item content -->
-								<div class="schedule-item-content faq-item-content">
-									<div class="row">
-										<!-- col -->
-										<div class="col-sm-12">
-											<div class="schedule-item-infos">
-												<!-- FAQ Question -->
-												<h3 class="schedule-item-title faq-item-title">How Much Should I Pay For An Event?</h3>
-												<!-- /FAQ Question -->
-												<!-- FAQ reply -->
-												<div class="schedule-item-text">
-													<p>It varies. For some event, the registration fee is 50 and some are 100. The Amount paid is valid only for individual event</p>
-												</div>
-												<!-- /FAQ reply -->
-											</div>
-										</div>
-										<!-- /col -->
-									</div>
-								</div>
-								<!-- FAQ item content -->
-							</div>
-						</div>
-					</div>
-					<!-- /FAQ item -->
-
-					<!-- FAQ item -->
-					<div class="schedule-item">
-						<div class="row">
-							<div class="col-sm-2">
-								<!-- FAQ item bar -->
-								<div class="schedule-item-block faq-item-block">
-									<div class="schedule-item-bar"></div>
-								</div>
-								<!-- /FAQ item bar -->
-							</div>
-							<div class="col-sm-10 schedule-item-content-wrapper">
-								<!-- FAQ item content -->
-								<div class="schedule-item-content faq-item-content">
-									<div class="row">
-										<!-- col -->
-										<div class="col-sm-12">
-											<div class="schedule-item-infos">
-												<!-- FAQ Question -->
-												<h3 class="schedule-item-title faq-item-title">To Whom and when should I Submit My Paper Presentation?</h3>
-												<!-- /FAQ Question -->
-												<!-- FAQ reply -->
-												<div class="schedule-item-text">
-													<p>You can submit your paper presentation to our <strong>Email:hitsrevelation@gmail.com</strong>. It should be submitted on or before 15th September 2016. And the topic for the paper presentation is "<strong>Any Emerging Technology In IT</strong>"</p>
-												</div>
-												<!-- /FAQ reply -->
-											</div>
-										</div>
-										<!-- /col -->
-									</div>
-								</div>
-								<!-- FAQ item content -->
-							</div>
-						</div>
-					</div>
-					<!-- /FAQ item -->
-
-
-
-					<!-- FAQ itens footer -->
-					<div class="schedule-item-footer">
-						<div class="row">
-							<div class="col-sm-2">
-								<!-- FAQ item bar -->
-								<div class="schedule-item-block faq-item-block schedule-item-block-bottom">
-									<div class="schedule-item-bar schedule-item-bar-bottom"></div>
-								</div>
-								<!-- /FAQ item bar -->
-							</div>
-							<div class="col-sm-10">
-							</div>
-						</div>
-					</div>
-					<!-- /FAQ itens footer -->
-				</div>
-	    		<!-- /FAQ list -->
-			</div>
-
-		</div>
-		<!-- /SECTION: FAQ
-		================================================== -->
-
 		<!-- SECTION: Blog
 		================================================== -->
 		<div class="section-blog section-padding inverted-section2" id="section-blog">
@@ -2038,6 +1874,170 @@ $Name = $_GET['name'];
 		</div>
 		<!-- /SECTION: Blog
 		================================================== -->
+		
+		<!-- SECTION: FAQ
+		================================================== -->
+		<div class="section-faq section-padding section-bg-right" id="section-faq">
+			<div class="container">
+				<!-- Section title -->
+				<div class="section-title-wrapper">
+					<h2 class="title-section">Faq</h2>
+					<p>Do you have questions in your mind? Here are the questions which we were frequently asked..... </p>
+				</div>
+				<!-- /Section title -->
+
+				<!-- FAQ list -->
+	    		<div class="schedule-list">
+
+					<!-- FAQ itens header -->
+					<div class="schedule-item-header">
+						<div class="row">
+							<div class="col-sm-2">
+								<!-- FAQ item bar -->
+								<div class="schedule-item-block faq-item-block schedule-item-block-top">
+									<div class="schedule-item-bar schedule-item-bar-top"></div>
+								</div>
+								<!-- /FAQ item bar -->
+							</div>
+							<div class="col-sm-10">
+							</div>
+						</div>
+					</div>
+					<!-- /FAQ itens header -->
+
+					<!-- FAQ item -->
+					<div class="schedule-item">
+						<div class="row">
+							<div class="col-sm-2">
+								<!-- FAQ item bar -->
+								<div class="schedule-item-block faq-item-block">
+									<div class="schedule-item-bar"></div>
+								</div>
+								<!-- /FAQ item bar -->
+							</div>
+							<div class="col-sm-10 schedule-item-content-wrapper">
+								<!-- FAQ item content -->
+								<div class="schedule-item-content faq-item-content">
+									<div class="row">
+										<!-- col -->
+										<div class="col-sm-12">
+											<div class="schedule-item-infos">
+												<!-- FAQ Question -->
+												<h3 class="schedule-item-title faq-item-title">Can I Do A Spot Registration For Each Event?</h3>
+												<!-- /FAQ Question -->
+												<!-- FAQ reply -->
+												<div class="schedule-item-text">
+													<p>Yes you can. You can not do this process through our website. At the inital stage, you have to register for yourself to ensure that your information are stored in our database. And on the event, you can register yourself for a particular event</p>
+												</div>
+												<!-- /FAQ reply -->
+											</div>
+										</div>
+										<!-- /col -->
+									</div>
+								</div>
+								<!-- FAQ item content -->
+							</div>
+						</div>
+					</div>
+					<!-- /FAQ item -->
+
+					<!-- FAQ item -->
+					<div class="schedule-item">
+						<div class="row">
+							<div class="col-sm-2">
+								<!-- FAQ item bar -->
+								<div class="schedule-item-block faq-item-block">
+									<div class="schedule-item-bar"></div>
+								</div>
+								<!-- /FAQ item bar -->
+							</div>
+							<div class="col-sm-10 schedule-item-content-wrapper">
+								<!-- FAQ item content -->
+								<div class="schedule-item-content faq-item-content">
+									<div class="row">
+										<!-- col -->
+										<div class="col-sm-12">
+											<div class="schedule-item-infos">
+												<!-- FAQ Question -->
+												<h3 class="schedule-item-title faq-item-title">How Much Should I Pay For An Event?</h3>
+												<!-- /FAQ Question -->
+												<!-- FAQ reply -->
+												<div class="schedule-item-text">
+													<p>It varies. For some event, the registration fee is 50 and some are 100. The Amount paid is valid only for individual event</p>
+												</div>
+												<!-- /FAQ reply -->
+											</div>
+										</div>
+										<!-- /col -->
+									</div>
+								</div>
+								<!-- FAQ item content -->
+							</div>
+						</div>
+					</div>
+					<!-- /FAQ item -->
+
+					<!-- FAQ item -->
+					<div class="schedule-item">
+						<div class="row">
+							<div class="col-sm-2">
+								<!-- FAQ item bar -->
+								<div class="schedule-item-block faq-item-block">
+									<div class="schedule-item-bar"></div>
+								</div>
+								<!-- /FAQ item bar -->
+							</div>
+							<div class="col-sm-10 schedule-item-content-wrapper">
+								<!-- FAQ item content -->
+								<div class="schedule-item-content faq-item-content">
+									<div class="row">
+										<!-- col -->
+										<div class="col-sm-12">
+											<div class="schedule-item-infos">
+												<!-- FAQ Question -->
+												<h3 class="schedule-item-title faq-item-title">To Whom and when should I Submit My Paper Presentation?</h3>
+												<!-- /FAQ Question -->
+												<!-- FAQ reply -->
+												<div class="schedule-item-text">
+													<p>You can submit your paper presentation to our <strong>Email:hitsrevelation@gmail.com</strong>. It should be submitted on or before 15th September 2016. And the topic for the paper presentation is "<strong>Any Emerging Technology In IT</strong>"</p>
+												</div>
+												<!-- /FAQ reply -->
+											</div>
+										</div>
+										<!-- /col -->
+									</div>
+								</div>
+								<!-- FAQ item content -->
+							</div>
+						</div>
+					</div>
+					<!-- /FAQ item -->
+
+
+
+					<!-- FAQ itens footer -->
+					<div class="schedule-item-footer">
+						<div class="row">
+							<div class="col-sm-2">
+								<!-- FAQ item bar -->
+								<div class="schedule-item-block faq-item-block schedule-item-block-bottom">
+									<div class="schedule-item-bar schedule-item-bar-bottom"></div>
+								</div>
+								<!-- /FAQ item bar -->
+							</div>
+							<div class="col-sm-10">
+							</div>
+						</div>
+					</div>
+					<!-- /FAQ itens footer -->
+				</div>
+	    		<!-- /FAQ list -->
+			</div>
+
+		</div>
+		<!-- /SECTION: FAQ
+		================================================== -->
+
 
 		<!-- SECTION: Prices
 		================================================== -->
