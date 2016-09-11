@@ -2234,18 +2234,18 @@ $Name = $_GET['name'];
 					<form method="post" class="form register-form" action="php/contact-form.php">
 						<div class="row row-nopr">
 						<div class="col-sm-4">
-							<input name="name" id="name" title="Please type in your name" type="text" class="form-control" placeholder="Name" required>
+							<input pattern=".{3,}" oninput="validateAlpha();" name="name" id="vName" title="Minimum of 3 Characters" type="text" class="form-control" placeholder="Name" required>
 						</div>
 					</div>
 					<div class="row row-nopr">
 					<div class="col-sm-4">
-						<input name="college" id="college" title="Please type in your college name" type="text" class="form-control" placeholder="College" required>
+						<input name="college" oninput="validateAlpha1();" pattern=".{8,}" id="vName1" maxlength="20" title="Minimum of 8 Characters" type="text" class="form-control" placeholder="College" required>
 					</div>
 				</div>
 				<div class="row row-nopr">
 				<div class="col-sm-4">
 					<select name="year" required title="Please Select Your Year" class="form-control">
-						<option disabled selected>Select Your Year</option>
+						<option value="" disabled selected>Select Your Year</option>
 						<option value="1">1st Year</option>
 					  <option value="2">2nd Year</option>
 					  <option value="3">3rd Year</option>
@@ -2256,7 +2256,7 @@ $Name = $_GET['name'];
 			</div>
 			<div class="row row-nopr">
 			<div class="col-sm-4">
-				<input name="dept" id="dept" title="Please type in your Department" type="text" class="form-control" placeholder="Department" required>
+				<input name="dept" oninput="validateAlpha2();" id="vName2" pattern=".{3,}" max="20" title="Minimum of 3 Characters" type="text" class="form-control" placeholder="Department" required>
 			</div>
 		</div>
 					<div class="row row-nopr">
@@ -2266,7 +2266,7 @@ $Name = $_GET['name'];
 					</div>
 					<div class="row row-nopr">
 						<div class="col-sm-4">
-							<input name="tele" id="telephone" title="Please type in your contact No" class="form-control" type="tel" placeholder="Contact No" required>
+							<input name="tele" id="telephone" title="Please type in your contact No" class="form-control" type="text" min="10" maxlength="15" placeholder="Contact No" required>
 						</div>
 					</div>
 					<div class="row row-nopr">
@@ -2410,6 +2410,23 @@ $(document).ready(function(){
 	$str = window.location.hash;
     $($str).trigger("click");
 });
+</script>
+<script>
+function validateAlpha(){
+	var textInput = document.getElementById("vName").value;
+	textInput = textInput.replace(/[^A-Za-z]/g, "");
+	document.getElementById("vName").value = textInput;
+}
+function validateAlpha1(){
+	var textInput = document.getElementById("vName1").value;
+	textInput = textInput.replace(/[^A-Za-z]/g, "");
+	document.getElementById("vName1").value = textInput;
+}
+function validateAlpha2(){
+	var textInput = document.getElementById("vName2").value;
+	textInput = textInput.replace(/[^A-Za-z]/g, "");
+	document.getElementById("vName2").value = textInput;
+}
 </script>
 
 </body>
