@@ -1,16 +1,8 @@
-<!-- Blog Posts -->
 <div id="sp" class="blog-single-post">
-	<!-- post image -->
 	<div class="post-header-image">
 		<img src="img/ws.jpg" style="height:300px;width:300px;margin-left:260px;" alt="">
 	</div>
-	<!-- /post-image -->
-
-	<!-- post title -->
 	<h2 class="blog-single-title">Web Search</h2>
-	<!-- /post title -->
-
-	<!-- post content -->
 	<div class="blog-single-content">
 		<p>Rules for Google It!</p>
 		<p>Contestants will be given images and have to search for exact image in the browser and search engine provided.</p>
@@ -31,6 +23,4 @@
 			<li>Winners will be decided based on number of images found and completion time.</li>
 		</ul>
 	</div>
-	<!-- /post content -->
 </div>
-<!-- /Blog Posts -->
