@@ -137,6 +137,9 @@
 									<div class="intro-register-form-text">
 										<p>- Register now -</p>
 									</div>
+										<div class="ic-buttons">
+											<a href="#section-blog" class="btn"><i class="fa fa-paper-plane"></i> &nbsp; register now</a> <a href="https://www.youtube.com/embed/dorZ3vag5PI?autoplay=1" class="fancybox btn"><i class="fa fa-play"></i> &nbsp;Watch Video</a>
+										</div>
 								</div>
 								<!-- /col -->
 							</div>
