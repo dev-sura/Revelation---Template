@@ -2066,7 +2066,7 @@
 				</div>
 				<!-- /Section title -->
 
-					<form id="register-form" method="post" class="form register-form" action="">
+					<form method="post" class="form register-form" action="contact-form.php">
 						<div class="row row-nopr">
 						<div class="col-sm-4">
 							<input name="name" id="name" title="Please type in your name" type="text" class="form-control" placeholder="Name" required>
@@ -2074,7 +2074,7 @@
 					</div>
 					<div class="row row-nopr">
 					<div class="col-sm-4">
-						<input name="college" id="name" title="Please type in your college name" type="text" class="form-control" placeholder="College" required>
+						<input name="college" id="college" title="Please type in your college name" type="text" class="form-control" placeholder="College" required>
 					</div>
 				</div>
 				<div class="row row-nopr">
@@ -2089,6 +2089,11 @@
 					</select>
 				</div>
 			</div>
+			<div class="row row-nopr">
+			<div class="col-sm-4">
+				<input name="college" id="dept" title="Please type in your Department" type="text" class="form-control" placeholder="Department" required>
+			</div>
+		</div>
 					<div class="row row-nopr">
 						<div class="col-sm-4">
 							<input name="email" id="email" title="Please type in your Email ID" class="form-control" type="email" placeholder="Email" required>
@@ -2096,16 +2101,16 @@
 					</div>
 					<div class="row row-nopr">
 						<div class="col-sm-4">
-							<input name="telephone" id="telephone" title="Please type in your contact No" class="form-control" type="tel" placeholder="Contact No" required>
+							<input name="tele" id="telephone" title="Please type in your contact No" class="form-control" type="tel" placeholder="Contact No" required>
 						</div>
 					</div>
 					<div class="row row-nopr">
 						<label style="margin-left:20px;">Your Food Preference</label>&nbsp;
-										<label class="radio-inline"><input type="radio" name="fp">Veg</label>
-										<label class="radio-inline"><input type="radio" name="fp">Non-Veg</label>
+										<label class="radio-inline"><input type="radio" name="fp" value="Veg">Veg</label>
+										<label class="radio-inline"><input type="radio" name="fp" value="Non-Veg">Non-Veg</label>
 							</div>
 						<div class="row row-nopr">
-							<label style="margin-left:20px;"class="checkbox-inline"><input type="checkbox" value="">Accomodation Needed? Not Applicable for Chennai Citizens</label>
+							<label style="margin-left:20px;"class="checkbox-inline"><input type="checkbox" name="ac" value="true">Accomodation Needed? Not Applicable for Chennai Citizens</label>
 						</div>
 					<div class="row row-nopr">
 						<div class="col-sm-3">
