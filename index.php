@@ -1717,24 +1717,24 @@
 						<div class="blog-item-wrapper">
 							<!-- blog item thumbnail -->
 							<div class="blog-item-thumb">
-								<a href="Events.php#" class=""><img src="img/re.jpg" alt=""></a>
+								<a href="re.php" class=""><img src="img/re.jpg" alt=""></a>
 							</div>
 							<!-- /blog item thumbnail -->
 							<!-- Blog item - infos -->
 							<div class="blog-item-infos">
 								<!-- blog-item-title -->
 								<div class="blog-item-title-wrapper">
-									<h2 class="blog-item-title title-border"><a href="Events.php#" class="">Reverse Engineering</a></h2>
+									<h2 class="blog-item-title title-border"><a href="re.php" class="">Reverse Engineering</a></h2>
 								</div>
 								<!-- /blog-item-title -->
 								<!-- blog item - description -->
 								<div class="blog-item-description">
-									<p><a href="Events.php#" class="">Output Prediction</a></p>
+									<p><a href="re.php" class="">Output Prediction</a></p>
 								</div>
 								<!-- /blog-item-description -->
 								<!-- blog item - link -->
 								<div class="blog-item-link">
-									<a href="Events.php#" class="btn btn-nobg">Learn More >></a>
+									<a href="re.php" class="btn btn-nobg">Learn More >></a>
 								</div>
 								<!-- /blog item - link -->
 							</div>
@@ -1748,24 +1748,24 @@
 						<div class="blog-item-wrapper">
 							<!-- blog item thumbnail -->
 							<div class="blog-item-thumb">
-								<a href="Events.php#" class=""><img src="img/ms.jpg" alt=""></a>
+								<a href="ms.php" class=""><img src="img/ms.jpg" alt=""></a>
 							</div>
 							<!-- /blog item thumbnail -->
 							<!-- Blog item - infos -->
 							<div class="blog-item-infos">
 								<!-- blog-item-title -->
 								<div class="blog-item-title-wrapper">
-									<h2 class="blog-item-title title-border"><a href="Events.php#" class="">Mind Sweeper</a></h2>
+									<h2 class="blog-item-title title-border"><a href="ms.php" class="">Mind Sweeper</a></h2>
 								</div>
 								<!-- /blog-item-title -->
 								<!-- blog item - description -->
 								<div class="blog-item-description">
-									<p><a href="Events.php#" class="">Tech Quiz</a></p>
+									<p><a href="ms.php" class="">Tech Quiz</a></p>
 								</div>
 								<!-- /blog-item-description -->
 								<!-- blog item - link -->
 								<div class="blog-item-link">
-									<a href="Events.php#" class="btn btn-nobg">Learn More >></a>
+									<a href="ms.php" class="btn btn-nobg">Learn More >></a>
 								</div>
 								<!-- /blog item - link -->
 							</div>
