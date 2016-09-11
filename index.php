@@ -2266,7 +2266,7 @@ $Name = $_GET['name'];
 					</div>
 					<div class="row row-nopr">
 						<div class="col-sm-4">
-							<input name="tele" id="telephone" title="Please type in your contact No" class="form-control" type="text" min="10" maxlength="15" placeholder="Contact No" required>
+							<input name="tele" id="telephone" title="Please type in your contact No" class="form-control" type="text" pattern=".{10,}" maxlength="15" placeholder="Contact No" onkeypress="return isNumber(event)" required>
 						</div>
 					</div>
 					<div class="row row-nopr">
@@ -2426,6 +2426,16 @@ function validateAlpha2(){
 	var textInput = document.getElementById("vName2").value;
 	textInput = textInput.replace(/[^A-Za-z]/g, "");
 	document.getElementById("vName2").value = textInput;
+}
+</script>
+<script>
+function isNumber(evt) {
+	evt = (evt) ? evt : window.event;
+	var charCode = (evt.which) ? evt.which : evt.keyCode;
+	if (charCode > 31 && (charCode < 48 || charCode > 57)) {
+			return false;
+	}
+	return true;
 }
 </script>
 
