@@ -2396,81 +2396,9 @@ $Name = $_GET['name'];
 		</div>
 		<!-- /SECTION: Location
 		================================================== -->
-<<<<<<< HEAD
 
 				<!-- SECTION: Sponsors
 		================================================== -->
-		<div class="section-sponsors inverted-section2 section-padding " id="section-sponsors">
-			<div class="container">
-				<!-- Section title -->
-				<div class="section-title-wrapper">
-					<h2 class="title-section">Proudly sponsored by</h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias esse cumque quae, perferendis neque voluptate recusandae, rem soluta quam error reiciendis consequuntur. Officia delectus quidem blanditiis eum incidunt temporibus nobis</p>
-				</div>
-				<!-- /Section title -->
-
-				<div class="sponsors-list-wrapper">
-					<div class="sponsors-list" id="sponsors-carousel">
-						<!-- item -->
-						<div class="sponsor-item">
-							<img src="img/partner-1.png" alt="">
-						</div>
-						<!-- /item -->
-						<!-- item -->
-						<div class="sponsor-item">
-							<img src="img/partner-2.png" alt="">
-						</div>
-						<!-- /item -->
-						<!-- item -->
-						<div class="sponsor-item">
-							<img src="img/partner-3.png" alt="">
-						</div>
-						<!-- /item -->
-						<!-- item -->
-						<div class="sponsor-item">
-							<img src="img/partner-4.png" alt="">
-						</div>
-						<!-- /item -->
-						<!-- item -->
-						<div class="sponsor-item">
-							<img src="img/partner-5.png" alt="">
-						</div>
-						<!-- /item -->
-					</div>
-				</div>
-			</div>
-		</div>
-		<!-- /SECTION: Sponsors
-		================================================== -->
-
-=======
->>>>>>> parent of 4ebe93a... 7:53PM Srk
-	</div>
-</div>
-
-<!-- Contact Form - Ajax Messages
-========================================================= -->
-<!-- Form Sucess -->
-<div class="form-result modal-wrap" id="contactSuccess">
-  <div class="modal-bg"></div>
-  <div class="modal-content">
-    <h4 class="modal-title"><i class="fa fa-check-circle"></i> Success!</h4>
-    <p>Your Registration Has Completed</p>
-  </div>
-</div>
-<!-- /Form Sucess -->
-<!-- form-error -->
-<div class="form-result modal-wrap" id="contactError">
-  <div class="modal-bg"></div>
-  <div class="modal-content">
-    <h4 class="modal-title"><i class="fa fa-times"></i> Error</h4>
-    <p>There was an error sending your message.</p>
-  </div>
-</div>
-<!-- /form-error -->
-<!-- / Contact Form - Ajax Messages
-========================================================= -->
-
 <!-- Footer
 ================================================== -->
 <footer id="footer" class="jumb-footer">
