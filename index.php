@@ -213,35 +213,6 @@
 				</div>
 			</div>
 			<!-- /slide -->
-
-			<!-- slide -->
-			<div class="main-intro" style="background-image: url('img/bg3b.jpg');">
-				<div class="container">
-					<div class="intro-content-wrapper viewport">
-						<!-- Adjust the margin-top in css according to content to keep always centered vertically-->
-						<div class="intro-content intro-content-slide3">
-							<!-- row -->
-							<div class="row">
-								<!-- col -->
-								<div class="col-md-10 col-md-offset-1">
-									<img src="img/globe.png" alt="">
-									<h1 class="intro-title1">The largest global<br/> conference of developers</h1>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eu neque nulla. In vitae mollis neque. Sed scelerisque mollis metus. In dolor lectus, tincidunt congue porttitor vitae, consequat in eros. Phasellus dapibus eget libero et lobortis. Pellentesque tempus elit sed ultrices fringilla. Quisque feugiat eros lorem, vel egestas eros ultricies a.</p>
-									<!-- Buttons -->
-									<div class="ic-buttons">
-										<a href="https://www.youtube.com/embed/dorZ3vag5PI?autoplay=1" class="fancybox btn"><i class="fa fa-play"></i> &nbsp;Watch Video</a> <a href="#" class="btn"><i class="fa fa-paper-plane"></i> &nbsp; register now</a>
-									</div>
-									<!-- /Buttons -->
-								</div>
-								<!-- /col -->
-							</div>
-
-							<!-- /row -->
-						</div>
-					</div>
-				</div>
-			</div>
-			<!-- /slide -->
 		</div>
 		<!-- /SECTION: Intro
 		================================================== -->
@@ -2191,22 +2162,6 @@
 
 <!-- >> /JS
 ============================================================================= -->
-<script>
-$('#countdow').countdown('2016/10/10 8:30:00')
-.on('update.countdown', function(event) {
-  var format = '%H:%M:%S';
-  if(event.offset.totalDays > 0) {
-    format = '%-d %!d ' + format;
-  }
-  if(event.offset.weeks > 0) {
-    format = '%-w %!w ' + format;
-  }
-  $(this).html(event.strftime(format));
-})
-.on('finish.countdown', function(event) {
-  $(this).html('This offer has not expired!')
-    .parent().addClass('disabled');
-});
 </script>
 </body>
 </html>
