@@ -1732,6 +1732,37 @@ $Name = $_GET['name'];
 					</div>
 					<!-- /blog-item -->
 
+					<!-- blog-item -->
+			<div class="blog-item">
+				<div class="blog-item-wrapper">
+					<!-- blog item thumbnail -->
+					<div class="blog-item-thumb">
+						<a href="gs.php" class=""><img src="img/gs.jpg" alt=""></a>
+					</div>
+					<!-- /blog item thumbnail -->
+					<!-- Blog item - infos -->
+					<div class="blog-item-infos">
+						<!-- blog-item-title -->
+						<div class="blog-item-title-wrapper">
+							<h2 class="blog-item-title title-border"><a href="gs.php" class="">Game Of Selfies</a></h2>
+						</div>
+						<!-- /blog-item-title -->
+						<!-- blog item - description -->
+						<div class="blog-item-description">
+							<p><a href="gs.php" class="">Photography</a></p>
+						</div>
+						<!-- /blog-item-description -->
+						<!-- blog item - link -->
+						<div class="blog-item-link">
+							<a href="gs.php" class="btn btn-nobg">Learn More >></a>
+						</div>
+						<!-- /blog item - link -->
+					</div>
+					<!-- /blog item - infos -->
+				</div>
+			</div>
+			<!-- /blog-item -->
+
 							<!-- blog-item -->
 					<div class="blog-item">
 						<div class="blog-item-wrapper">
@@ -1762,6 +1793,37 @@ $Name = $_GET['name'];
 						</div>
 					</div>
 					<!-- /blog-item -->
+
+					<!-- blog-item -->
+			<div class="blog-item">
+				<div class="blog-item-wrapper">
+					<!-- blog item thumbnail -->
+					<div class="blog-item-thumb">
+						<a href="ib.php" class=""><img src="img/ib.jpg" alt=""></a>
+					</div>
+					<!-- /blog item thumbnail -->
+					<!-- Blog item - infos -->
+					<div class="blog-item-infos">
+						<!-- blog-item-title -->
+						<div class="blog-item-title-wrapper">
+							<h2 class="blog-item-title title-border"><a href="ib.php" class="">Captain Cold</a></h2>
+						</div>
+						<!-- /blog-item-title -->
+						<!-- blog item - description -->
+						<div class="blog-item-description">
+							<p><a href="ib.php" class="">Ice Bucket Challenge</a></p>
+						</div>
+						<!-- /blog-item-description -->
+						<!-- blog item - link -->
+						<div class="blog-item-link">
+							<a href="ib.php" class="btn btn-nobg">Learn More >></a>
+						</div>
+						<!-- /blog item - link -->
+					</div>
+					<!-- /blog item - infos -->
+				</div>
+			</div>
+			<!-- /blog-item -->
 
 							<!-- blog-item -->
 					<div class="blog-item">
@@ -1799,6 +1861,37 @@ $Name = $_GET['name'];
 				<div class="blog-item-wrapper">
 					<!-- blog item thumbnail -->
 					<div class="blog-item-thumb">
+						<a href="mt.php" class=""><img src="img/mt.jpg" alt=""></a>
+					</div>
+					<!-- /blog item thumbnail -->
+					<!-- Blog item - infos -->
+					<div class="blog-item-infos">
+						<!-- blog-item-title -->
+						<div class="blog-item-title-wrapper">
+							<h2 class="blog-item-title title-border"><a href="mt.php" class="">Minute To Win It</a></h2>
+						</div>
+						<!-- /blog-item-title -->
+						<!-- blog item - description -->
+						<div class="blog-item-description">
+							<p><a href="mt.php" class="">Minute To Win It</a></p>
+						</div>
+						<!-- /blog-item-description -->
+						<!-- blog item - link -->
+						<div class="blog-item-link">
+							<a href="mt.php" class="btn btn-nobg">Learn More >></a>
+						</div>
+						<!-- /blog item - link -->
+					</div>
+					<!-- /blog item - infos -->
+				</div>
+			</div>
+			<!-- /blog-item -->
+
+					<!-- blog-item -->
+			<div class="blog-item">
+				<div class="blog-item-wrapper">
+					<!-- blog item thumbnail -->
+					<div class="blog-item-thumb">
 						<a href="pl.php" class=""><img style="height:330px;"src="img/pl.jpg" alt=""></a>
 					</div>
 					<!-- /blog item thumbnail -->
@@ -1829,7 +1922,7 @@ $Name = $_GET['name'];
 		</div>
 		<!-- /SECTION: Events
 		================================================== -->
-		
+
 		<!-- SECTION: FAQ
 		================================================== -->
 		<div class="section-faq section-padding section-bg-right" id="section-faq">
