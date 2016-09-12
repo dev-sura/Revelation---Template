@@ -1614,7 +1614,6 @@ $Name = $_GET['name'];
 				<!-- Section title -->
 				<div class="section-title-wrapper">
 					<h2 class="title-section">Proudly sponsored by</h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias esse cumque quae, perferendis neque voluptate recusandae, rem soluta quam error reiciendis consequuntur. Officia delectus quidem blanditiis eum incidunt temporibus nobis</p>
 				</div>
 				<!-- /Section title -->
 
