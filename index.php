@@ -96,7 +96,6 @@ $Name = $_GET['name'];
 	        <li><a href="#section-event-infos">About </a></li>
 	        <li><a href="#section-schedule">Schedule</a></li>
 	        <li><a href="#section-speakers">Members</a></li>
-	        <li><a href="#section-testimonials">Testimonials</a></li>
 	        <li><a href="#section-sponsors">Sponsors</a></li>
 	        <li><a href="#section-blog">Events</a></li>
 	        <li><a href="#section-faq">FAQ</a></li>
