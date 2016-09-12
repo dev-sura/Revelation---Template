@@ -1082,7 +1082,7 @@ $Name = $_GET['name'];
 										<!-- overlay content -->
 										<div class="team-member-find-content">
 											<a href="https://www.facebook.com/Ahmednrda" class="block-link"><span class="fa fa-facebook"></span></a>
-											<a href="mailto:harimanju@live.com" class="block-link"><span class="fa fa-envelope"></span></a>
+											<a href="mailto:seyadian@gmail.com" class="block-link"><span class="fa fa-envelope"></span></a>
 											<a href="tel: 8807839709" class="block-link"><span class="fa fa-phone"></span></a>
 										</div>
 										<!-- /overlay content -->
@@ -1146,7 +1146,7 @@ $Name = $_GET['name'];
 									<div class="team-member-find-overlay">
 										<!-- overlay content -->
 										<div class="team-member-find-content">
-											<a href="#" class="block-link"><span class="fa fa-facebook"></span></a>
+											<a href="https://www.facebook.com/akash.sanjeev.16?ref=br_rs" class="block-link"><span class="fa fa-facebook"></span></a>
 											<a href="mail to: akash.sanjeev10@gmail.com" class="block-link"><span class="fa fa-envelope"></span></a>
 											<a href="tel: 98941608999" class="block-link"><span class="fa fa-phone"></span></a>
 										</div>
