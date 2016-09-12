@@ -1113,7 +1113,7 @@ $Name = $_GET['name'];
 									<div class="team-member-find-overlay">
 										<!-- overlay content -->
 										<div class="team-member-find-content">
-											<a href="www.facebook.com/surakshit.kumar" class="block-link"><span class="fa fa-facebook"></span></a>
+											<a href="https://www.facebook.com/surakshit.kumar" target="_blank"class="block-link"><span class="fa fa-facebook"></span></a>
 											<a href="mail to:inbox.surakshit@gmail.com" class="block-link"><span class="fa fa-envelope"></span></a>
 											<a href="tel: 9840357517" class="block-link"><span class="fa fa-phone"></span></a>
 										</div>
@@ -1146,7 +1146,7 @@ $Name = $_GET['name'];
 									<div class="team-member-find-overlay">
 										<!-- overlay content -->
 										<div class="team-member-find-content">
-											<a href="https://www.facebook.com/akash.sanjeev.16?ref=br_rs" class="block-link"><span class="fa fa-facebook"></span></a>
+											<a href="https://www.facebook.com/akash.sanjeev.16?ref=br_rs" target="_blank" class="block-link"><span class="fa fa-facebook"></span></a>
 											<a href="mail to: akash.sanjeev10@gmail.com" class="block-link"><span class="fa fa-envelope"></span></a>
 											<a href="tel: 98941608999" class="block-link"><span class="fa fa-phone"></span></a>
 										</div>
@@ -1179,8 +1179,8 @@ $Name = $_GET['name'];
 									<div class="team-member-find-overlay">
 										<!-- overlay content -->
 										<div class="team-member-find-content">
-											<a href="#" class="block-link"><span class="fa fa-facebook"></span></a>
-											<a href="" class="block-link"><span class="fa fa-envelope"></span></a>
+											<a href="#" class="block-link" target="_blank"><span class="fa fa-facebook"></span></a>
+											<a href="mailto:" class="block-link"><span class="fa fa-envelope"></span></a>
 											<a href="tel: 8939425010" class="block-link"><span class="fa fa-phone"></span></a>
 										</div>
 										<!-- /overlay content -->
