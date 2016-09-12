@@ -325,7 +325,7 @@ $Name = $_GET['name'];
 													<!-- col -->
 													<div class="col-sm-2">
 														<div class="schedule-item-img">
-															<img src="img/schedule-img1.jpg" alt="">
+															<img src="img/schedule-img1.png" alt="">
 														</div>
 													</div>
 													<!-- /col -->
@@ -365,7 +365,7 @@ $Name = $_GET['name'];
 													<!-- col -->
 													<div class="col-sm-2">
 														<div class="schedule-item-img">
-															<img src="img/schedule-img2.jpg" alt="">
+															<img src="img/schedule-img1.jpg" alt="">
 														</div>
 													</div>
 													<!-- /col -->
@@ -405,7 +405,7 @@ $Name = $_GET['name'];
 													<!-- col -->
 													<div class="col-sm-2">
 														<div class="schedule-item-img">
-															<img src="img/schedule-img3.jpg" alt="">
+															<img src="img/schedule-img2.jpg" alt="">
 														</div>
 													</div>
 													<!-- /col -->
@@ -459,81 +459,131 @@ $Name = $_GET['name'];
 															</div>
 														</div>
 													</div>
-													
-													<!-- /col -->
-												</div>
-											</div>
-											<div class="schedule-item-content">
-												<div class="row">
-													<!-- col -->
-													<div class="col-sm-2">
-														<div class="schedule-item-img">
-															<img src="img/schedule-img4.jpg" alt="">
-														</div>
-													</div>
-													<!-- /col -->
-													<!-- col -->
-													<div class="col-sm-10">
-														<div class="schedule-item-infos">
-															<h4 class="schedule-item-date">1:40PM - 2:30PM</h4>
-															<h3 class="schedule-item-title">DOTA 2</h3>
-															<div class="schedule-item-text">
-																<p>The Legendry DOTA 2 Comes here. </p>
-															</div>
-														</div>
-													</div>
-													<div class="schedule-item-content">
-												<div class="row">
-													<!-- col -->
-													<div class="col-sm-2">
-														<div class="schedule-item-img">
-															<img src="img/schedule-img4.jpg" alt="">
-														</div>
-													</div>
-													<!-- /col -->
-													<!-- col -->
-													<div class="col-sm-10">
-														<div class="schedule-item-infos">
-															<h4 class="schedule-item-date">2.30PM - 3:15PM</h4>
-															<h3 class="schedule-item-title">Need For Speed - MW</h3>
-															<div class="schedule-item-text">
-																<p>Let's Race! Chase up only on Chaos Unchained.</p>
-															</div>
-														</div>
-													</div>
-													<div class="schedule-item-content">
-												<div class="row">
-													<!-- col -->
-													<div class="col-sm-2">
-														<div class="schedule-item-img">
-															<img src="img/schedule-img4.jpg" alt="">
-														</div>
-													</div>
-													<!-- /col -->
-													<!-- col -->
-													<div class="col-sm-10">
-														<div class="schedule-item-infos">
-															<h4 class="schedule-item-date">3:15PM - 4:00PM</h4>
-															<h3 class="schedule-item-title">Prize Distribution</h3>
-															<div class="schedule-item-text">
-																<p>The most awaited time. Get honoured with Cash.</p>
-															</div>
-														</div>
-													</div>
-													
-													<!-- /col -->
-												</div>
-											</div>
-													<!-- /col -->
-												</div>
-											</div>
-													<!-- /col -->
 												</div>
 											</div>
 										</div>
 									</div>
 								</div>
-								<!-- /Schedule item -->
+
+													<!-- Schedule item -->
+													<div class="schedule-item">
+														<div class="row">
+															<div class="col-sm-2">
+																<!-- schedule item bar -->
+																<div class="schedule-item-block">
+																	<div class="schedule-item-bar"></div>
+																</div>
+																<!-- /schedule item bar -->
+															</div>
+															<div class="col-sm-10 schedule-item-content-wrapper">
+																<!-- schedule item content -->
+																<div class="schedule-item-content">
+																	<div class="row">
+																		<!-- col -->
+																		<div class="col-sm-2">
+																			<div class="schedule-item-img">
+																				<img src="img/schedule-img3.png" alt="">
+																			</div>
+																		</div>
+																		<!-- /col -->
+																		<!-- col -->
+																		<div class="col-sm-10">
+																			<div class="schedule-item-infos">
+																				<h4 class="schedule-item-date">1:40PM - 2:30PM</h4>
+																				<h3 class="schedule-item-title">Dota 2</h3>
+																				<div class="schedule-item-text">
+																					<p>The Legendry DOTA 2 Comes here.</p>
+																				</div>
+																			</div>
+																		</div>
+																		<!-- /col -->
+																	</div>
+																</div>
+																<!-- schedule item content -->
+															</div>
+														</div>
+													</div>
+													<!-- /Schedule item -->
+
+													<!-- Schedule item -->
+													<div class="schedule-item">
+														<div class="row">
+															<div class="col-sm-2">
+																<!-- schedule item bar -->
+																<div class="schedule-item-block">
+																	<div class="schedule-item-bar"></div>
+																</div>
+																<!-- /schedule item bar -->
+															</div>
+															<div class="col-sm-10 schedule-item-content-wrapper">
+																<!-- schedule item content -->
+																<div class="schedule-item-content">
+																	<div class="row">
+																		<!-- col -->
+																		<div class="col-sm-2">
+																			<div class="schedule-item-img">
+																				<img src="img/schedule-img5.jpg" alt="">
+																			</div>
+																		</div>
+																		<!-- /col -->
+																		<!-- col -->
+																		<div class="col-sm-10">
+																			<div class="schedule-item-infos">
+																				<h4 class="schedule-item-date">2.30PM - 3:15PM</h4>
+																				<h3 class="schedule-item-title">Need For Speed - MW</h3>
+																				<div class="schedule-item-text">
+																					<p>Let's Race! Chase up only on Chaos Unchained.</p>
+																				</div>
+																			</div>
+																		</div>
+																		<!-- /col -->
+																	</div>
+																</div>
+																<!-- schedule item content -->
+															</div>
+														</div>
+													</div>
+													<!-- /Schedule item -->
+
+													<!-- Schedule item -->
+													<div class="schedule-item">
+														<div class="row">
+															<div class="col-sm-2">
+																<!-- schedule item bar -->
+																<div class="schedule-item-block">
+																	<div class="schedule-item-bar"></div>
+																</div>
+																<!-- /schedule item bar -->
+															</div>
+															<div class="col-sm-10 schedule-item-content-wrapper">
+																<!-- schedule item content -->
+																<div class="schedule-item-content">
+																	<div class="row">
+																		<!-- col -->
+																		<div class="col-sm-2">
+																			<div class="schedule-item-img">
+																				<img src="img/schedule-img6.jpg" alt="">
+																			</div>
+																		</div>
+																		<!-- /col -->
+																		<!-- col -->
+																		<div class="col-sm-10">
+																			<div class="schedule-item-infos">
+																				<h4 class="schedule-item-date">3:15PM - 4:00PM</h4>
+																				<h3 class="schedule-item-title">Prize Distribution</h3>
+																				<div class="schedule-item-text">
+																					<p>The most awaited time. Get honoured with Cash.</p>
+																				</div>
+																			</div>
+																		</div>
+																		<!-- /col -->
+																	</div>
+																</div>
+																<!-- schedule item content -->
+															</div>
+														</div>
+													</div>
+													<!-- /Schedule item -->
 
 								<!-- Schedule itens footer -->
 								<div class="schedule-item-footer">
@@ -1287,7 +1337,7 @@ $Name = $_GET['name'];
 		</div>
 		<!-- /SECTION: Team
 		================================================== -->
-		
+
 				<!-- SECTION: Prices
 		================================================== -->
 		<div class="section-prices section-padding section-bg-left" id="section-prices">
@@ -1296,7 +1346,7 @@ $Name = $_GET['name'];
 				<!-- Section title -->
 				<div class="section-title-wrapper">
 					<h2 class="title-section">Staffs</h2>
-					<p><h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio at mollitia, nam obcaecati veniam provident laboriosam harum ab quod beatae explicabo, dicta voluptates natus sed aspernatur sapiente, nostrum iste quis.</h3></p>
+					<p><h3>People who helped us in supporting the event</h3></p>
 				</div>
 				<!-- /Section title -->
 
@@ -1463,6 +1513,170 @@ $Name = $_GET['name'];
 					<!-- /item -->
 				</div>
 				<!-- /Princing Tickets -->
+
+				<div style="margin-top:10px;" class="row">
+
+					<!-- item -->
+					<div class="col-sm-4">
+						<!-- price ticket -->
+						<a href="#" class="price-ticket-item">
+							<div class="price-ticket-item-wrapper">
+								<!-- Front card -->
+								<div class="price-ticket-item-front">
+									<div class="price-ticket-item-border">
+										<!-- row -->
+										<div class="row">
+											<!-- col -->
+											<div class="col-sm-6">
+												<!-- ticket price -->
+												<h3 class="price-ticket-title">$50</h3>
+												<p class="price-ticket-type">1x person pass</p>
+												<!-- /ticket-price -->
+											</div>
+											<!-- /col -->
+											<!-- col -->
+											<div class="col-sm-6 no-spadding">
+												<div class="price-ticket-infos-wrapper">
+													<p><strong>This Includes:</strong></p>
+													<ul class="clean-list">
+														<li><i class="fa fa-check"></i>&nbsp; free entrance</li>
+														<li><i class="fa fa-check"></i>&nbsp; free checkout</li>
+														<li><i class="fa fa-check"></i>&nbsp; 1x speech listening</li>
+														<li><i class="fa fa-check"></i>&nbsp; 1x Lunch</li>
+													</ul>
+												</div>
+											</div>
+											<!-- /col -->
+										</div>
+										<!-- /row -->
+									</div>
+								</div>
+								<!-- /front-card -->
+								<!-- Back Card -->
+								<div class="price-ticket-item-back">
+									<div class="price-ticket-item-border">
+										<div class="price-ticket-buy">
+											<p class="ticket-item-buy-ico"><i class="fa fa-ticket"></i></p>
+											<h3 class="ticket-item-buy-text">Register Now!</h3>
+											<p><i>just 1 click away!</i></p>
+										</div>
+									</div>
+								</div>
+								<!-- /Back Card -->
+							</div>
+						</a>
+						<!-- /price ticket -->
+					</div>
+					<!-- /item -->
+
+					<!-- item -->
+					<div class="col-sm-4">
+						<!-- price ticket -->
+						<a href="#" class="price-ticket-item">
+							<div class="price-ticket-item-wrapper">
+								<!-- Front card -->
+								<div class="price-ticket-item-front">
+									<div class="price-ticket-item-border">
+										<!-- row -->
+										<div class="row">
+											<!-- col -->
+											<div class="col-sm-6">
+												<!-- ticket price -->
+												<h3 class="price-ticket-title">$90</h3>
+												<p class="price-ticket-type">2x person pass</p>
+												<!-- /ticket-price -->
+											</div>
+											<!-- /col -->
+											<!-- col -->
+											<div class="col-sm-6 no-spadding">
+												<div class="price-ticket-infos-wrapper">
+													<p><strong>This Includes:</strong></p>
+													<ul class="clean-list">
+														<li><i class="fa fa-check"></i>&nbsp; free entrance</li>
+														<li><i class="fa fa-check"></i>&nbsp; free checkout</li>
+														<li><i class="fa fa-check"></i>&nbsp; 1x speech listening</li>
+														<li><i class="fa fa-check"></i>&nbsp; 1x Lunch</li>
+													</ul>
+												</div>
+											</div>
+											<!-- /col -->
+										</div>
+										<!-- /row -->
+									</div>
+								</div>
+								<!-- /front-card -->
+								<!-- Back Card -->
+								<div class="price-ticket-item-back">
+									<div class="price-ticket-item-border">
+										<div class="price-ticket-buy">
+											<p class="ticket-item-buy-ico"><i class="fa fa-ticket"></i></p>
+											<h3 class="ticket-item-buy-text">Register Now!</h3>
+											<p><i>just 1 click away!</i></p>
+										</div>
+									</div>
+								</div>
+								<!-- /Back Card -->
+							</div>
+						</a>
+						<!-- /price ticket -->
+					</div>
+					<!-- /item -->
+
+					<!-- item -->
+					<div class="col-sm-4">
+						<!-- price ticket -->
+						<a href="#" class="price-ticket-item">
+							<div class="price-ticket-item-wrapper">
+								<!-- Front card -->
+								<div class="price-ticket-item-front">
+									<div class="price-ticket-item-border">
+										<!-- row -->
+										<div class="row">
+											<!-- col -->
+											<div class="col-sm-6">
+												<!-- ticket price -->
+												<h3 class="price-ticket-title">$145</h3>
+												<p class="price-ticket-type">1x person vip pass</p>
+												<!-- /ticket-price -->
+											</div>
+											<!-- /col -->
+											<!-- col -->
+											<div class="col-sm-6 no-spadding">
+												<div class="price-ticket-infos-wrapper">
+													<p><strong>This Includes:</strong></p>
+													<ul class="clean-list">
+														<li><i class="fa fa-check"></i>&nbsp; 5 days free entrance</li>
+														<li><i class="fa fa-check"></i>&nbsp; free checkout</li>
+														<li><i class="fa fa-check"></i>&nbsp; free speech listening</li>
+														<li><i class="fa fa-check"></i>&nbsp; free food and drinks</li>
+													</ul>
+												</div>
+											</div>
+											<!-- /col -->
+										</div>
+										<!-- /row -->
+									</div>
+								</div>
+								<!-- /front-card -->
+								<!-- Back Card -->
+								<div class="price-ticket-item-back">
+									<div class="price-ticket-item-border">
+										<div class="price-ticket-buy">
+											<p class="ticket-item-buy-ico"><i class="fa fa-ticket"></i></p>
+											<h3 class="ticket-item-buy-text">Register Now!</h3>
+											<p><i>just 1 click away!</i></p>
+										</div>
+									</div>
+								</div>
+								<!-- /Back Card -->
+							</div>
+						</a>
+						<!-- /price ticket -->
+					</div>
+					<!-- /item -->
+				</div>
+				<!-- /Princing Tickets -->
+
 
 			</div>
 		</div>
