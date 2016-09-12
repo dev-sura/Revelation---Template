@@ -2,9 +2,9 @@
 	<div class="post-header-image">
 		<img src="img/ws.jpg" style="height:300px;width:300px;margin-left:260px;" alt="">
 	</div>
-	<h2 class="blog-single-title">Web Search</h2>
+	<h2 class="blog-single-title">Web Search - Google It</h2>
 	<div class="blog-single-content">
-		<p>Rules for Google It!</p>
+		<p><strong>Rules:</strong></p>
 		<p>Contestants will be given images and have to search for exact image in the browser and search engine provided.</p>
 		<ul>
 			<li>Max of 2 per team.</li>
