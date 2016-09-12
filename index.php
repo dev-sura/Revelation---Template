@@ -1366,8 +1366,7 @@ $Name = $_GET['name'];
 											<!-- col -->
 											<div class="col-sm-6">
 												<!-- ticket price -->
-												<h3 class="price-ticket-title">$50</h3>
-												<p class="price-ticket-type">1x person pass</p>
+												<img src="img/1.jpg">
 												<!-- /ticket-price -->
 											</div>
 											<!-- /col -->
