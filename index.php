@@ -1346,7 +1346,7 @@ $Name = $_GET['name'];
 				<!-- Section title -->
 				<div class="section-title-wrapper">
 					<h2 class="title-section">Staffs</h2>
-					<p><h3>People who helped us in supporting the event</h3></p>
+					<!--<p><h3>People who helped us in supporting the event</h3></p>-->
 				</div>
 				<!-- /Section title -->
 
@@ -1366,21 +1366,49 @@ $Name = $_GET['name'];
 											<!-- col -->
 											<div class="col-sm-6">
 												<!-- ticket price -->
-												<img src="img/1.jpg">
+												<img style="margin-top:-10px;margin-left:70px;" src="img/1.jpg">
 												<!-- /ticket-price -->
 											</div>
 											<!-- /col -->
 											<!-- col -->
-											<div class="col-sm-6 no-spadding">
-												<div class="price-ticket-infos-wrapper">
-													<p><strong>This Includes:</strong></p>
-													<ul class="clean-list">
-														<li><i class="fa fa-check"></i>&nbsp; free entrance</li>
-														<li><i class="fa fa-check"></i>&nbsp; free checkout</li>
-														<li><i class="fa fa-check"></i>&nbsp; 1x speech listening</li>
-														<li><i class="fa fa-check"></i>&nbsp; 1x Lunch</li>
-													</ul>
-												</div>
+											<!-- /col -->
+										</div>
+										<!-- /row -->
+									</div>
+								</div>
+								<!-- /front-card -->
+								<!-- Back Card -->
+								<div class="price-ticket-item-back">
+									<div class="price-ticket-item-border">
+										<div class="price-ticket-buy">
+											<p class="ticket-item-buy-ico"><i class="fa fa-male"></i></p>
+											<h3 class="ticket-item-buy-text">Dr. D. Venkat Subramaniam</h3>
+											<p><i>Dean(SCS)</i></p>
+										</div>
+									</div>
+								</div>
+								<!-- /Back Card -->
+							</div>
+						</a>
+						<!-- /price ticket -->
+					</div>
+					<!-- /item -->
+
+					<!-- item -->
+					<div class="col-sm-4">
+						<!-- price ticket -->
+						<a href="#" class="price-ticket-item">
+							<div class="price-ticket-item-wrapper">
+								<!-- Front card -->
+								<div class="price-ticket-item-front">
+									<div class="price-ticket-item-border">
+										<!-- row -->
+										<div class="row">
+											<!-- col -->
+											<div class="col-sm-12">
+												<!-- ticket price -->
+												<p style="margin-top:60px;" class="price-ticket-type">People who helped us in supporting the event</p>
+												<!-- /ticket-price -->
 											</div>
 											<!-- /col -->
 										</div>
@@ -1392,9 +1420,8 @@ $Name = $_GET['name'];
 								<div class="price-ticket-item-back">
 									<div class="price-ticket-item-border">
 										<div class="price-ticket-buy">
-											<p class="ticket-item-buy-ico"><i class="fa fa-ticket"></i></p>
-											<h3 class="ticket-item-buy-text">Register Now!</h3>
-											<p><i>just 1 click away!</i></p>
+											<p class="ticket-item-buy-ico"><i class="fa fa-users"></i></p>
+											<h4 class="ticket-item-buy-text">Approval & Co-Ordination Team</h4>
 										</div>
 									</div>
 								</div>
@@ -1418,23 +1445,11 @@ $Name = $_GET['name'];
 											<!-- col -->
 											<div class="col-sm-6">
 												<!-- ticket price -->
-												<h3 class="price-ticket-title">$90</h3>
-												<p class="price-ticket-type">2x person pass</p>
+											<img style="margin-top:-10px;margin-left:70px;" src="img/hod.jpg">
 												<!-- /ticket-price -->
 											</div>
 											<!-- /col -->
 											<!-- col -->
-											<div class="col-sm-6 no-spadding">
-												<div class="price-ticket-infos-wrapper">
-													<p><strong>This Includes:</strong></p>
-													<ul class="clean-list">
-														<li><i class="fa fa-check"></i>&nbsp; free entrance</li>
-														<li><i class="fa fa-check"></i>&nbsp; free checkout</li>
-														<li><i class="fa fa-check"></i>&nbsp; 1x speech listening</li>
-														<li><i class="fa fa-check"></i>&nbsp; 1x Lunch</li>
-													</ul>
-												</div>
-											</div>
 											<!-- /col -->
 										</div>
 										<!-- /row -->
@@ -1445,62 +1460,9 @@ $Name = $_GET['name'];
 								<div class="price-ticket-item-back">
 									<div class="price-ticket-item-border">
 										<div class="price-ticket-buy">
-											<p class="ticket-item-buy-ico"><i class="fa fa-ticket"></i></p>
-											<h3 class="ticket-item-buy-text">Register Now!</h3>
-											<p><i>just 1 click away!</i></p>
-										</div>
-									</div>
-								</div>
-								<!-- /Back Card -->
-							</div>
-						</a>
-						<!-- /price ticket -->
-					</div>
-					<!-- /item -->
-
-					<!-- item -->
-					<div class="col-sm-4">
-						<!-- price ticket -->
-						<a href="#" class="price-ticket-item">
-							<div class="price-ticket-item-wrapper">
-								<!-- Front card -->
-								<div class="price-ticket-item-front">
-									<div class="price-ticket-item-border">
-										<!-- row -->
-										<div class="row">
-											<!-- col -->
-											<div class="col-sm-6">
-												<!-- ticket price -->
-												<h3 class="price-ticket-title">$145</h3>
-												<p class="price-ticket-type">1x person vip pass</p>
-												<!-- /ticket-price -->
-											</div>
-											<!-- /col -->
-											<!-- col -->
-											<div class="col-sm-6 no-spadding">
-												<div class="price-ticket-infos-wrapper">
-													<p><strong>This Includes:</strong></p>
-													<ul class="clean-list">
-														<li><i class="fa fa-check"></i>&nbsp; 5 days free entrance</li>
-														<li><i class="fa fa-check"></i>&nbsp; free checkout</li>
-														<li><i class="fa fa-check"></i>&nbsp; free speech listening</li>
-														<li><i class="fa fa-check"></i>&nbsp; free food and drinks</li>
-													</ul>
-												</div>
-											</div>
-											<!-- /col -->
-										</div>
-										<!-- /row -->
-									</div>
-								</div>
-								<!-- /front-card -->
-								<!-- Back Card -->
-								<div class="price-ticket-item-back">
-									<div class="price-ticket-item-border">
-										<div class="price-ticket-buy">
-											<p class="ticket-item-buy-ico"><i class="fa fa-ticket"></i></p>
-											<h3 class="ticket-item-buy-text">Register Now!</h3>
-											<p><i>just 1 click away!</i></p>
+											<p class="ticket-item-buy-ico"><i class="fa fa-female"></i></p>
+											<h3 class="ticket-item-buy-text">Dr. RAJESWARI MUKESH</h3>
+											<p><i>Professor and Head - Computing Sciences</i></p>
 										</div>
 									</div>
 								</div>
@@ -1528,23 +1490,11 @@ $Name = $_GET['name'];
 											<!-- col -->
 											<div class="col-sm-6">
 												<!-- ticket price -->
-												<h3 class="price-ticket-title">$50</h3>
-												<p class="price-ticket-type">1x person pass</p>
+												<img style="margin-top:-10px;margin-left:70px;" src="img/3.jpg">
 												<!-- /ticket-price -->
 											</div>
 											<!-- /col -->
 											<!-- col -->
-											<div class="col-sm-6 no-spadding">
-												<div class="price-ticket-infos-wrapper">
-													<p><strong>This Includes:</strong></p>
-													<ul class="clean-list">
-														<li><i class="fa fa-check"></i>&nbsp; free entrance</li>
-														<li><i class="fa fa-check"></i>&nbsp; free checkout</li>
-														<li><i class="fa fa-check"></i>&nbsp; 1x speech listening</li>
-														<li><i class="fa fa-check"></i>&nbsp; 1x Lunch</li>
-													</ul>
-												</div>
-											</div>
 											<!-- /col -->
 										</div>
 										<!-- /row -->
@@ -1555,9 +1505,9 @@ $Name = $_GET['name'];
 								<div class="price-ticket-item-back">
 									<div class="price-ticket-item-border">
 										<div class="price-ticket-buy">
-											<p class="ticket-item-buy-ico"><i class="fa fa-ticket"></i></p>
-											<h3 class="ticket-item-buy-text">Register Now!</h3>
-											<p><i>just 1 click away!</i></p>
+											<p class="ticket-item-buy-ico"><i class="fa fa-male"></i></p>
+											<h3 class="ticket-item-buy-text">Mr. B.V.Baiju</h3>
+											<p><i>Staff-Co-Ordinator (SCS)</i></p>
 										</div>
 									</div>
 								</div>
@@ -1581,23 +1531,11 @@ $Name = $_GET['name'];
 											<!-- col -->
 											<div class="col-sm-6">
 												<!-- ticket price -->
-												<h3 class="price-ticket-title">$90</h3>
-												<p class="price-ticket-type">2x person pass</p>
+												<img style="margin-top:-10px;margin-left:70px;" src="img/4.jpg">
 												<!-- /ticket-price -->
 											</div>
 											<!-- /col -->
 											<!-- col -->
-											<div class="col-sm-6 no-spadding">
-												<div class="price-ticket-infos-wrapper">
-													<p><strong>This Includes:</strong></p>
-													<ul class="clean-list">
-														<li><i class="fa fa-check"></i>&nbsp; free entrance</li>
-														<li><i class="fa fa-check"></i>&nbsp; free checkout</li>
-														<li><i class="fa fa-check"></i>&nbsp; 1x speech listening</li>
-														<li><i class="fa fa-check"></i>&nbsp; 1x Lunch</li>
-													</ul>
-												</div>
-											</div>
 											<!-- /col -->
 										</div>
 										<!-- /row -->
@@ -1608,9 +1546,9 @@ $Name = $_GET['name'];
 								<div class="price-ticket-item-back">
 									<div class="price-ticket-item-border">
 										<div class="price-ticket-buy">
-											<p class="ticket-item-buy-ico"><i class="fa fa-ticket"></i></p>
-											<h3 class="ticket-item-buy-text">Register Now!</h3>
-											<p><i>just 1 click away!</i></p>
+											<p class="ticket-item-buy-ico"><i class="fa fa-male"></i></p>
+											<h3 class="ticket-item-buy-text">Mr. Praveen Kumar</h3>
+											<p><i>Staff Co-Ordinator(SCS)</i></p>
 										</div>
 									</div>
 								</div>
@@ -1634,23 +1572,11 @@ $Name = $_GET['name'];
 											<!-- col -->
 											<div class="col-sm-6">
 												<!-- ticket price -->
-												<h3 class="price-ticket-title">$145</h3>
-												<p class="price-ticket-type">1x person vip pass</p>
+												<img style="margin-top:-10px;margin-left:70px;" src="img/5.jpg">
 												<!-- /ticket-price -->
 											</div>
 											<!-- /col -->
 											<!-- col -->
-											<div class="col-sm-6 no-spadding">
-												<div class="price-ticket-infos-wrapper">
-													<p><strong>This Includes:</strong></p>
-													<ul class="clean-list">
-														<li><i class="fa fa-check"></i>&nbsp; 5 days free entrance</li>
-														<li><i class="fa fa-check"></i>&nbsp; free checkout</li>
-														<li><i class="fa fa-check"></i>&nbsp; free speech listening</li>
-														<li><i class="fa fa-check"></i>&nbsp; free food and drinks</li>
-													</ul>
-												</div>
-											</div>
 											<!-- /col -->
 										</div>
 										<!-- /row -->
@@ -1661,9 +1587,9 @@ $Name = $_GET['name'];
 								<div class="price-ticket-item-back">
 									<div class="price-ticket-item-border">
 										<div class="price-ticket-buy">
-											<p class="ticket-item-buy-ico"><i class="fa fa-ticket"></i></p>
-											<h3 class="ticket-item-buy-text">Register Now!</h3>
-											<p><i>just 1 click away!</i></p>
+											<p class="ticket-item-buy-ico"><i class="fa fa-male"></i></p>
+											<h3 class="ticket-item-buy-text">Mr. Sanju Rajan</h3>
+											<p><i>Staff-Co-Ordinator (SCS)</i></p>
 										</div>
 									</div>
 								</div>
