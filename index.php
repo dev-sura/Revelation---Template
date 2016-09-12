@@ -1695,7 +1695,7 @@ $Name = $_GET['name'];
 								<!-- /blog-item-description -->
 								<!-- blog item - link -->
 								<div class="blog-item-link">
-									<a href="pp.php" class="btn btn-nobg">Learn More >></a>
+									<a href="pp.php" class="btn btn-nobg">Know More >></a>
 								</div>
 								<!-- /blog item - link -->
 							</div>
@@ -1726,7 +1726,7 @@ $Name = $_GET['name'];
 								<!-- /blog-item-description -->
 								<!-- blog item - link -->
 								<div class="blog-item-link">
-									<a href="cu.php" class=" btn btn-nobg">Learn More >></a>
+									<a href="cu.php" class=" btn btn-nobg">Know More >></a>
 								</div>
 								<!-- /blog item - link -->
 							</div>
@@ -1757,7 +1757,7 @@ $Name = $_GET['name'];
 								<!-- /blog-item-description -->
 								<!-- blog item - link -->
 								<div class="blog-item-link">
-									<a href="sp.php" class=" btn btn-nobg">Learn More >></a>
+									<a href="sp.php" class=" btn btn-nobg">Know More >></a>
 								</div>
 								<!-- /blog item - link -->
 							</div>
@@ -1787,7 +1787,7 @@ $Name = $_GET['name'];
 								<!-- /blog-item-description -->
 								<!-- blog item - link -->
 								<div class="blog-item-link">
-									<a href="dz.php" class=" btn btn-nobg">Learn More >></a>
+									<a href="dz.php" class=" btn btn-nobg">Know More >></a>
 								</div>
 								<!-- /blog item - link -->
 							</div>
@@ -1818,7 +1818,7 @@ $Name = $_GET['name'];
 								<!-- /blog-item-description -->
 								<!-- blog item - link -->
 								<div class="blog-item-link">
-									<a href="cs.php" class=" btn btn-nobg">Learn More >></a>
+									<a href="cs.php" class=" btn btn-nobg">Know More >></a>
 								</div>
 								<!-- /blog item - link -->
 							</div>
@@ -1849,7 +1849,7 @@ $Name = $_GET['name'];
 								<!-- /blog-item-description -->
 								<!-- blog item - link -->
 								<div class="blog-item-link">
-									<a href="sc.php" class=" btn btn-nobg">Learn More >></a>
+									<a href="sc.php" class=" btn btn-nobg">Know More >></a>
 								</div>
 								<!-- /blog item - link -->
 							</div>
@@ -1880,7 +1880,7 @@ $Name = $_GET['name'];
 								<!-- /blog-item-description -->
 								<!-- blog item - link -->
 								<div class="blog-item-link">
-									<a href="db.php" class=" btn btn-nobg">Learn More >></a>
+									<a href="db.php" class=" btn btn-nobg">Know More >></a>
 								</div>
 								<!-- /blog item - link -->
 							</div>
@@ -1911,7 +1911,7 @@ $Name = $_GET['name'];
 								<!-- /blog-item-description -->
 								<!-- blog item - link -->
 								<div class="blog-item-link">
-									<a href="az.php" class=" btn btn-nobg">Learn More >></a>
+									<a href="az.php" class=" btn btn-nobg">Know More >></a>
 								</div>
 								<!-- /blog item - link -->
 							</div>
@@ -1942,7 +1942,7 @@ $Name = $_GET['name'];
 								<!-- /blog-item-description -->
 								<!-- blog item - link -->
 								<div class="blog-item-link">
-									<a href="re.php" class="btn btn-nobg">Learn More >></a>
+									<a href="re.php" class="btn btn-nobg">Know More >></a>
 								</div>
 								<!-- /blog item - link -->
 							</div>
@@ -1973,7 +1973,7 @@ $Name = $_GET['name'];
 								<!-- /blog-item-description -->
 								<!-- blog item - link -->
 								<div class="blog-item-link">
-									<a href="dc.php" class="btn btn-nobg">Learn More >></a>
+									<a href="dc.php" class="btn btn-nobg">Know More >></a>
 								</div>
 								<!-- /blog item - link -->
 							</div>
@@ -2004,7 +2004,7 @@ $Name = $_GET['name'];
 								<!-- /blog-item-description -->
 								<!-- blog item - link -->
 								<div class="blog-item-link">
-									<a href="ms.php" class="btn btn-nobg">Learn More >></a>
+									<a href="ms.php" class="btn btn-nobg">Know More >></a>
 								</div>
 								<!-- /blog item - link -->
 							</div>
@@ -2035,7 +2035,7 @@ $Name = $_GET['name'];
 						<!-- /blog-item-description -->
 						<!-- blog item - link -->
 						<div class="blog-item-link">
-							<a href="cf.php" class="btn btn-nobg">Learn More >></a>
+							<a href="cf.php" class="btn btn-nobg">Know More >></a>
 						</div>
 						<!-- /blog item - link -->
 					</div>
@@ -2066,7 +2066,7 @@ $Name = $_GET['name'];
 								<!-- /blog-item-description -->
 								<!-- blog item - link -->
 								<div class="blog-item-link">
-									<a href="ap.php" class="btn btn-nobg">Learn More >></a>
+									<a href="ap.php" class="btn btn-nobg">Know More >></a>
 								</div>
 								<!-- /blog item - link -->
 							</div>
@@ -2097,7 +2097,7 @@ $Name = $_GET['name'];
 						<!-- /blog-item-description -->
 						<!-- blog item - link -->
 						<div class="blog-item-link">
-							<a href="gs.php" class="btn btn-nobg">Learn More >></a>
+							<a href="gs.php" class="btn btn-nobg">Know More >></a>
 						</div>
 						<!-- /blog item - link -->
 					</div>
@@ -2128,7 +2128,7 @@ $Name = $_GET['name'];
 								<!-- /blog-item-description -->
 								<!-- blog item - link -->
 								<div class="blog-item-link">
-									<a href="ws.php" class="btn btn-nobg">Learn More >></a>
+									<a href="ws.php" class="btn btn-nobg">Know More >></a>
 								</div>
 								<!-- /blog item - link -->
 							</div>
@@ -2159,7 +2159,7 @@ $Name = $_GET['name'];
 						<!-- /blog-item-description -->
 						<!-- blog item - link -->
 						<div class="blog-item-link">
-							<a href="ib.php" class="btn btn-nobg">Learn More >></a>
+							<a href="ib.php" class="btn btn-nobg">Know More >></a>
 						</div>
 						<!-- /blog item - link -->
 					</div>
@@ -2190,7 +2190,7 @@ $Name = $_GET['name'];
 								<!-- /blog-item-description -->
 								<!-- blog item - link -->
 								<div class="blog-item-link">
-									<a href="th.php" class="btn btn-nobg">Learn More >></a>
+									<a href="th.php" class="btn btn-nobg">Know More >></a>
 								</div>
 								<!-- /blog item - link -->
 							</div>
@@ -2221,7 +2221,7 @@ $Name = $_GET['name'];
 						<!-- /blog-item-description -->
 						<!-- blog item - link -->
 						<div class="blog-item-link">
-							<a href="mt.php" class="btn btn-nobg">Learn More >></a>
+							<a href="mt.php" class="btn btn-nobg">Know More >></a>
 						</div>
 						<!-- /blog item - link -->
 					</div>
@@ -2252,7 +2252,7 @@ $Name = $_GET['name'];
 						<!-- /blog-item-description -->
 						<!-- blog item - link -->
 						<div class="blog-item-link">
-							<a href="pl.php" class="btn btn-nobg">Learn More >></a>
+							<a href="pl.php" class="btn btn-nobg">Know More >></a>
 						</div>
 						<!-- /blog item - link -->
 					</div>
