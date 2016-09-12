@@ -7,12 +7,12 @@
 	<!-- /post-image -->
 
 	<!-- post title -->
-	<h2 class="blog-single-title">Debogage</h2>
+	<h2 class="blog-single-title">Debogage - Debugging</h2>
 	<!-- /post title -->
 
 	<!-- post content -->
 	<div class="blog-single-content">
-		<p>Rules for Debugging</p>
+		<p><strong>Rules:</strong></p>
     <p>Prelims:-</p>
 		<ul>
 			<li>Time limit : 10 min</li>

@@ -4,7 +4,7 @@
 	</div>
 	<h2 class="blog-single-title">Innovative Minds - Paper Presentation</h2>
 	<div class="blog-single-content">
-		<p><strong>Rules</strong>:</p>
+		<p><strong>Rules:</strong>:</p>
 		<ul>
 			<li>Only <strong>Computer Sciences</strong> domains are encouraged.</li>
 			<li>Maximum of 3 authors and only student authors allowed.</li>

@@ -1,6 +1,4 @@
 <?php
-$dbcon1=@mysql_connect("localhost","revelation","revelation123",true);
-	mysql_select_db('revelation',$dbcon1);
 class Database
 {
     private static $dbName = 'revelation' ;
@@ -38,6 +36,8 @@ class Database
 }
 ?>
 <?php
+$dbcon1=@mysql_connect("localhost","revelation","revelation123",true);
+	mysql_select_db('revelation',$dbcon1);
 if(!empty($_POST))
 {
 	$food = 'No Preferences';
@@ -56,17 +56,19 @@ if(!empty($_POST))
 	$acc = $_POST['ac']; }
 	$valid = null;
 	$token =  substr(md5(microtime()),rand(0,26),5);
-
-	$sql1 = @mysql_query("SELECT email from members where email = '$email'");
-	if(mysql_num_rows($sql1) >= 1)
-	{
-		$valid = false;
-		header("location:../Error.php?name=$name#error");
-	}
-
-error_reporting(E_ALL);
-
 	$valid = true;
+	$sql2 = "SELECT email from members where email = '$email'";
+    	$result = mysql_query($sql2);
+    	$num = mysql_num_rows($result);
+    	if($num >= 1)
+    	{
+    		$valid = false;
+    	}
+
+    	if($valid === false)
+    	{
+    	header("location:../index.php?name=$name#error");
+    	}
 	if ($valid) {
     		$pdo = Database::connect();
     		$pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);

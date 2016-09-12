@@ -3,9 +3,9 @@
 	<div class="post-header-image">
 		<img src="img/sp.jpg" style="height:300px;width:300px;margin-left:260px;" alt="">
 	</div>
-	<h2 class="blog-single-title">Spideys</h2>
+	<h2 class="blog-single-title">Spideys - Web Development</h2>
 	<div class="blog-single-content">
-		<p>Rules for Web Development</p>
+		<p><strong>Rules:</strong></p>
 		<ul>
 			<li>Adhere to the given topic.</li>
 			<li>Team Size: 1 or 2 per team</li>

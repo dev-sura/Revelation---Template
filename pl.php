@@ -12,7 +12,7 @@
 
 	<!-- post content -->
 	<div class="blog-single-content">
-		<p>Rules for pixelate</p>
+		<p><strong>Rules:</strong></p>
 		<p>Let your imaginations out. Mix some colours. And design your own world. Be a creative geek.</p>
 		<ul>
 			<li>Individual participation.</li>

@@ -7,12 +7,12 @@
 	<!-- /post-image -->
 
 	<!-- post title -->
-	<h2 class="blog-single-title">Droid Zone</h2>
+	<h2 class="blog-single-title">Droid Zone - Mobile Gaming</h2>
 	<!-- /post title -->
 
 	<!-- post content -->
 	<div class="blog-single-content">
-		<p>Rules for Mobile Gaming</p>
+		<p><strong>Rules:</strong></p>
     <p>Compete with others and win your prize.</p>
     <p>Games you can play:-
 		<ul>

@@ -7,12 +7,12 @@
 	<!-- /post-image -->
 
 	<!-- post title -->
-	<h2 class="blog-single-title">Code Sense</h2>
+	<h2 class="blog-single-title">Code Sense - Coding</h2>
 	<!-- /post title -->
 
 	<!-- post content -->
 	<div class="blog-single-content">
-		<p>Rules for Coding</p>
+		<p><strong>Rules</strong></p>
     <p>Contestants are supposed to solve all the given programmes.</p>
 		<ul>
 			<li>Maximum of 3 per team.</li>

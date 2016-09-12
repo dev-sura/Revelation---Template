@@ -7,12 +7,12 @@
 	<!-- /post-image -->
 
 	<!-- post title -->
-	<h2 class="blog-single-title">Stage Craft</h2>
+	<h2 class="blog-single-title">Stage Craft -  Dramatics</h2>
 	<!-- /post title -->
 
 	<!-- post content -->
 	<div class="blog-single-content">
-		<p>Rules for Dramatics</p>
+		<p><strong>Rules:</strong></p>
     <p>Rules for the event will be updated soon!</p>
  </div>
 	<!-- /post content -->

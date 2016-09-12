@@ -12,7 +12,7 @@
 
 	<!-- post content -->
 	<div class="blog-single-content">
-		<p>Rules for Minute To Win It</p>
+		<p><strong>Rules:</strong></p>
     <p>Go through the series of challenges and claim your prize.</p>
     <ul>
       <li>A task will be given and it has to be completed in Less than a Minute.</li>

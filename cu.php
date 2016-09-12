@@ -7,12 +7,12 @@
 	<!-- /post-image -->
 
 	<!-- post title -->
-	<h2 class="blog-single-title">Chaos Unchained</h2>
+	<h2 class="blog-single-title">Chaos Unchained - Gaming</h2>
 	<!-- /post title -->
 
 	<!-- post content -->
 	<div class="blog-single-content">
-		<p>Rules for Gaming</p>
+		<p><strong>Rules:</strong></p>
     <p>Games Available:-</p>
 		<ul>
 			<li>NFS</li>

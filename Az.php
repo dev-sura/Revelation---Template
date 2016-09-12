@@ -7,12 +7,12 @@
 	<!-- /post-image -->
 
 	<!-- post title -->
-	<h2 class="blog-single-title">Adzap</h2>
+	<h2 class="blog-single-title">Adzap - Advertisement</h2>
 	<!-- /post title -->
 
 	<!-- post content -->
 	<div class="blog-single-content">
-		<p>Rules for Advertising</p>
+		<p><strong>Rules:</strong></p>
     <p>Come with your best acting crew and pull the crowd’s attention with your marketing skills. Join this exciting event to showcase your talent.</p>
     <ul>
       <li>Topic will be provided on spot.</li>

@@ -7,12 +7,12 @@
 	<!-- /post-image -->
 
 	<!-- post title -->
-	<h2 class="blog-single-title">APK Mania</h2>
+	<h2 class="blog-single-title">APK Mania - App Presentation</h2>
 	<!-- /post title -->
 
 	<!-- post content -->
 	<div class="blog-single-content">
-		<p>Rules for App Presentation</p>
+		<p><strong>Rules:</strong></p>
 		<ul>
 			<li>Android App’s are encouraged.</li>
       <li>Time limits:

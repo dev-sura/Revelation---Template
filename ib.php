@@ -7,12 +7,12 @@
 	<!-- /post-image -->
 
 	<!-- post title -->
-	<h2 class="blog-single-title">Captain Cold</h2>
+	<h2 class="blog-single-title">Captain Cold - Ice Bucket Challenge</h2>
 	<!-- /post title -->
 
 	<!-- post content -->
 	<div class="blog-single-content">
-		<p>Rules for Ice Bucket Challenge</p>
+		<p><strong>Rules:</strong></p>
     <p>Freeze your feet till you can and go home with cold and gold.</p>
     <ul>
       <li>No time limit.</li>

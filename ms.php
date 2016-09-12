@@ -7,12 +7,12 @@
 	<!-- /post-image -->
 
 	<!-- post title -->
-	<h2 class="blog-single-title">Mind Sweeper</h2>
+	<h2 class="blog-single-title">Mind Sweeper - Tech Quiz</h2>
 	<!-- /post title -->
 
 	<!-- post content -->
 	<div class="blog-single-content">
-		<p>Rules for Tech Quiz</p>
+		<p><strong>Rules:</strong></p>
     <p>Test your Technical Knowledge, explore your mind and compete with other techies.</p>
 		<ul>
 			<li>Max of 3 per team, teammates can be from different colleges.</li>

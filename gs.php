@@ -12,7 +12,7 @@
 
 	<!-- post content -->
 	<div class="blog-single-content">
-		<p>Rules for Game of Selfies</p>
+		<p><strong>Rules:</strong></p>
     <p>‘Beauty is nothing without brains’. Join this exciting group event where you will tour the college in search of an answer for taking amazing selfies.</p>
     <ul>
       <li>No gadgets will be provided.</li>

@@ -7,12 +7,12 @@
 	<!-- /post-image -->
 
 	<!-- post title -->
-	<h2 class="blog-single-title">Click Flickz</h2>
+	<h2 class="blog-single-title">Click Flickz - Photography</h2>
 	<!-- /post title -->
 
 	<!-- post content -->
 	<div class="blog-single-content">
-		<p>Rules for Photography</p>
+		<p><strong>Rules:</strong></p>
     <p>Cause actions speak louder than words’. It is a crazy word guessing game. So, be the next best dumb charade king!</p>
     <ul>
       <li>Category of secret phrase will be given on spot.</li>
