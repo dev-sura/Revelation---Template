@@ -94,12 +94,12 @@ $Name = $_GET['name'];
 	      <ul class="hd-list-menu">
 	        <li class="active"><a href="#main-carousel">Home</a></li>
 	        <li><a href="#section-event-infos">About </a></li>
-	        <li><a href="#section-schedule">Schedule</a></li>
+	        <!--<li><a href="#section-schedule">Schedule</a></li>-->
 	        <li><a href="#section-speakers">Members</a></li>
-	        <li><a href="#section-sponsors">Sponsors</a></li>
+	        <!--<li><a href="#section-sponsors">Sponsors</a></li>-->
 	        <li><a href="#section-blog">Events</a></li>
 	        <li><a href="#section-faq">FAQ</a></li>
-	        <li><a href="#section-prices">Prices</a></li>
+	        <li><a href="#section-prices">Staff</a></li>
 	        <li><a href="#section-register">Register</a></li>
 	      </ul>
 	    </nav>
@@ -254,808 +254,7 @@ $Name = $_GET['name'];
 				</div>
 			</div>
 		</div>
-		<!-- /SECTION: Event Description
-		================================================== -->
 
-		<!-- SECTION: Event Schedule
-		================================================== -->
-		<div class="section-schedule section-bg-left" id="section-schedule">
-			<div class="container">
-
-				<!-- Section title -->
-				<div class="section-title-wrapper">
-					<h2 class="title-section"><span class="title-section-bg">Event Schedule <small></small></span></h2>
-				</div>
-				<!-- /Section title -->
-
-
-
-				<!-- TABS -->
-				<div class="tabs">
-					<div class="row">
-						<div class="col-sm-10 col-sm-offset-2 schedule-tab-links-wrapper">
-							<!-- Tab links -->
-							<ul class="tab-links schedule-tab-links">
-						        <li class="active"><a href="#schedule-tab1"><span class="fa fa-calendar"></span>&nbsp;&nbsp; 16th Sept</a></li>
-						        <li><a href="#schedule-tab2"><span class="fa fa-calendar"></span>&nbsp;&nbsp; 17th Sept</a></li>
-						    </ul>
-						    <!-- /Tab Links -->
-						</div>
-					</div>
-
-
-					<!-- Schedule Tabs -->
-				    <div class="schedule-tabs">
-				    	<!-- Schedule Tab -->
-				    	<div class="schedule-tab tab" id="schedule-tab1">
-				    		<!-- schedule list -->
-				    		<div class="schedule-list">
-
-								<!-- Schedule itens header -->
-								<div class="schedule-item-header">
-									<div class="row">
-										<div class="col-sm-2">
-											<!-- schedule item bar -->
-											<div class="schedule-item-block schedule-item-block-top">
-												<div class="schedule-item-bar schedule-item-bar-top"></div>
-											</div>
-											<!-- /schedule item bar -->
-										</div>
-										<div class="col-sm-10">
-										</div>
-									</div>
-								</div>
-								<!-- /Schedule itens header -->
-
-								<!-- Schedule item -->
-								<div class="schedule-item">
-									<div class="row">
-										<div class="col-sm-2">
-											<!-- schedule item bar -->
-											<div class="schedule-item-block">
-												<div class="schedule-item-bar"></div>
-											</div>
-											<!-- /schedule item bar -->
-										</div>
-										<div class="col-sm-10 schedule-item-content-wrapper">
-											<!-- schedule item content -->
-											<div class="schedule-item-content">
-												<div class="row">
-													<!-- col -->
-													<div class="col-sm-2">
-														<div class="schedule-item-img">
-															<img src="img/schedule-img1.png" alt="">
-														</div>
-													</div>
-													<!-- /col -->
-													<!-- col -->
-													<div class="col-sm-10">
-														<div class="schedule-item-infos">
-															<h4 class="schedule-item-date">9:30AM</h4>
-															<h3 class="schedule-item-title">Registration</h3>
-															<div class="schedule-item-text">
-																<p>This event marks the beginning of E-Revelation. This event is brought to light by inginting the blaze within us to make the symposium a great hit. We make sure each and every participant who comes to the event goes back with a smile on their face.</p>
-															</div>
-														</div>
-													</div>
-													<!-- /col -->
-												</div>
-											</div>
-											<!-- schedule item content -->
-										</div>
-									</div>
-								</div>
-								<!-- /Schedule item -->
-
-								<!-- Schedule item -->
-								<div class="schedule-item">
-									<div class="row">
-										<div class="col-sm-2">
-											<!-- schedule item bar -->
-											<div class="schedule-item-block">
-												<div class="schedule-item-bar"></div>
-											</div>
-											<!-- /schedule item bar -->
-										</div>
-										<div class="col-sm-10 schedule-item-content-wrapper">
-											<!-- schedule item content -->
-											<div class="schedule-item-content">
-												<div class="row">
-													<!-- col -->
-													<div class="col-sm-2">
-														<div class="schedule-item-img">
-															<img src="img/schedule-img1.jpg" alt="">
-														</div>
-													</div>
-													<!-- /col -->
-													<!-- col -->
-													<div class="col-sm-10">
-														<div class="schedule-item-infos">
-															<h4 class="schedule-item-date">11.00AM - 11:45AM</h4>
-															<h3 class="schedule-item-title">Counter Srike 1.6</h3>
-															<div class="schedule-item-text">
-																<p>Let's Fight the LAN - Chaos Unchained</p>
-															</div>
-														</div>
-													</div>
-													<!-- /col -->
-												</div>
-											</div>
-											<!-- schedule item content -->
-										</div>
-									</div>
-								</div>
-								<!-- /Schedule item -->
-
-								<!-- Schedule item -->
-								<div class="schedule-item">
-									<div class="row">
-										<div class="col-sm-2">
-											<!-- schedule item bar -->
-											<div class="schedule-item-block">
-												<div class="schedule-item-bar"></div>
-											</div>
-											<!-- /schedule item bar -->
-										</div>
-										<div class="col-sm-10 schedule-item-content-wrapper">
-											<!-- schedule item content -->
-											<div class="schedule-item-content">
-												<div class="row">
-													<!-- col -->
-													<div class="col-sm-2">
-														<div class="schedule-item-img">
-															<img src="img/schedule-img2.jpg" alt="">
-														</div>
-													</div>
-													<!-- /col -->
-													<!-- col -->
-													<div class="col-sm-10">
-														<div class="schedule-item-infos">
-															<h4 class="schedule-item-date">11:50AM - 12:30PM</h4>
-															<h3 class="schedule-item-title">FIFA 15</h3>
-															<div class="schedule-item-text">
-																<p>Let's Football, </p>
-															</div>
-														</div>
-													</div>
-													<!-- /col -->
-												</div>
-											</div>
-											<!-- schedule item content -->
-										</div>
-									</div>
-								</div>
-								<!-- /Schedule item -->
-
-								<!-- Schedule item -->
-								<div class="schedule-item">
-									<div class="row">
-										<div class="col-sm-2">
-											<!-- schedule item bar -->
-											<div class="schedule-item-block">
-												<div class="schedule-item-bar"></div>
-											</div>
-											<!-- /schedule item bar -->
-										</div>
-										<div class="col-sm-10 schedule-item-content-wrapper">
-											<!-- schedule item content -->
-											<div class="schedule-item-content">
-												<div class="row">
-													<!-- col -->
-													<div class="col-sm-2">
-														<div class="schedule-item-img">
-															<img src="img/schedule-img4.jpg" alt="">
-														</div>
-													</div>
-													<!-- /col -->
-													<!-- col -->
-													<div class="col-sm-10">
-														<div class="schedule-item-infos">
-															<h4 class="schedule-item-date">12:40PM - 1:40PM</h4>
-															<h3 class="schedule-item-title">Lunch Time</h3>
-															<div class="schedule-item-text">
-																<p>Remove the Gaming Stress and Let's give some time to our stomach!.</p>
-															</div>
-														</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-
-													<!-- Schedule item -->
-													<div class="schedule-item">
-														<div class="row">
-															<div class="col-sm-2">
-																<!-- schedule item bar -->
-																<div class="schedule-item-block">
-																	<div class="schedule-item-bar"></div>
-																</div>
-																<!-- /schedule item bar -->
-															</div>
-															<div class="col-sm-10 schedule-item-content-wrapper">
-																<!-- schedule item content -->
-																<div class="schedule-item-content">
-																	<div class="row">
-																		<!-- col -->
-																		<div class="col-sm-2">
-																			<div class="schedule-item-img">
-																				<img src="img/schedule-img3.png" alt="">
-																			</div>
-																		</div>
-																		<!-- /col -->
-																		<!-- col -->
-																		<div class="col-sm-10">
-																			<div class="schedule-item-infos">
-																				<h4 class="schedule-item-date">1:40PM - 2:30PM</h4>
-																				<h3 class="schedule-item-title">Dota 2</h3>
-																				<div class="schedule-item-text">
-																					<p>The Legendry DOTA 2 Comes here.</p>
-																				</div>
-																			</div>
-																		</div>
-																		<!-- /col -->
-																	</div>
-																</div>
-																<!-- schedule item content -->
-															</div>
-														</div>
-													</div>
-													<!-- /Schedule item -->
-
-													<!-- Schedule item -->
-													<div class="schedule-item">
-														<div class="row">
-															<div class="col-sm-2">
-																<!-- schedule item bar -->
-																<div class="schedule-item-block">
-																	<div class="schedule-item-bar"></div>
-																</div>
-																<!-- /schedule item bar -->
-															</div>
-															<div class="col-sm-10 schedule-item-content-wrapper">
-																<!-- schedule item content -->
-																<div class="schedule-item-content">
-																	<div class="row">
-																		<!-- col -->
-																		<div class="col-sm-2">
-																			<div class="schedule-item-img">
-																				<img src="img/schedule-img5.jpg" alt="">
-																			</div>
-																		</div>
-																		<!-- /col -->
-																		<!-- col -->
-																		<div class="col-sm-10">
-																			<div class="schedule-item-infos">
-																				<h4 class="schedule-item-date">2.30PM - 3:15PM</h4>
-																				<h3 class="schedule-item-title">Need For Speed - MW</h3>
-																				<div class="schedule-item-text">
-																					<p>Let's Race! Chase up only on Chaos Unchained.</p>
-																				</div>
-																			</div>
-																		</div>
-																		<!-- /col -->
-																	</div>
-																</div>
-																<!-- schedule item content -->
-															</div>
-														</div>
-													</div>
-													<!-- /Schedule item -->
-
-													<!-- Schedule item -->
-													<div class="schedule-item">
-														<div class="row">
-															<div class="col-sm-2">
-																<!-- schedule item bar -->
-																<div class="schedule-item-block">
-																	<div class="schedule-item-bar"></div>
-																</div>
-																<!-- /schedule item bar -->
-															</div>
-															<div class="col-sm-10 schedule-item-content-wrapper">
-																<!-- schedule item content -->
-																<div class="schedule-item-content">
-																	<div class="row">
-																		<!-- col -->
-																		<div class="col-sm-2">
-																			<div class="schedule-item-img">
-																				<img src="img/schedule-img6.jpg" alt="">
-																			</div>
-																		</div>
-																		<!-- /col -->
-																		<!-- col -->
-																		<div class="col-sm-10">
-																			<div class="schedule-item-infos">
-																				<h4 class="schedule-item-date">3:15PM - 4:00PM</h4>
-																				<h3 class="schedule-item-title">Prize Distribution</h3>
-																				<div class="schedule-item-text">
-																					<p>The most awaited time. Get honoured with Cash.</p>
-																				</div>
-																			</div>
-																		</div>
-																		<!-- /col -->
-																	</div>
-																</div>
-																<!-- schedule item content -->
-															</div>
-														</div>
-													</div>
-													<!-- /Schedule item -->
-
-								<!-- Schedule itens footer -->
-								<div class="schedule-item-footer">
-									<div class="row">
-										<div class="col-sm-2">
-											<!-- schedule item bar -->
-											<div class="schedule-item-block schedule-item-block-bottom">
-												<div class="schedule-item-bar schedule-item-bar-bottom"></div>
-											</div>
-											<!-- /schedule item bar -->
-										</div>
-										<div class="col-sm-10">
-										</div>
-									</div>
-								</div>
-								<!-- /Schedule itens footer -->
-							</div>
-				    		<!-- /schedule list -->
-				    	</div>
-				    	<!-- /Schedule Tab -->
-
-				    	<!-- Schedule Tab -->
-				    	<div class="schedule-tab tab" id="schedule-tab2">
-				    		<!-- schedule list -->
-				    		<div class="schedule-list">
-
-								<!-- Schedule itens header -->
-								<div class="schedule-item-header">
-									<div class="row">
-										<div class="col-sm-2">
-											<!-- schedule item bar -->
-											<div class="schedule-item-block schedule-item-block-top">
-												<div class="schedule-item-bar schedule-item-bar-top"></div>
-											</div>
-											<!-- /schedule item bar -->
-										</div>
-										<div class="col-sm-10">
-										</div>
-									</div>
-								</div>
-								<!-- /Schedule itens header -->
-
-								<!-- Schedule item -->
-								<div class="schedule-item">
-									<div class="row">
-										<div class="col-sm-2">
-											<!-- schedule item bar -->
-											<div class="schedule-item-block">
-												<div class="schedule-item-bar"></div>
-											</div>
-											<!-- /schedule item bar -->
-										</div>
-										<div class="col-sm-10 schedule-item-content-wrapper">
-											<!-- schedule item content -->
-											<div class="schedule-item-content">
-												<div class="row">
-													<!-- col -->
-													<div class="col-sm-2">
-														<div class="schedule-item-img">
-															<img src="img/schedule-img5.jpg" alt="">
-														</div>
-													</div>
-													<!-- /col -->
-													<!-- col -->
-													<div class="col-sm-10">
-														<div class="schedule-item-infos">
-															<h4 class="schedule-item-date">16:30 - 18:00</h4>
-															<h3 class="schedule-item-title">Welcome Breakfast</h3>
-															<div class="schedule-item-text">
-																<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.</p>
-															</div>
-														</div>
-													</div>
-													<!-- /col -->
-												</div>
-											</div>
-											<!-- schedule item content -->
-										</div>
-									</div>
-								</div>
-								<!-- /Schedule item -->
-
-								<!-- Schedule item -->
-								<div class="schedule-item">
-									<div class="row">
-										<div class="col-sm-2">
-											<!-- schedule item bar -->
-											<div class="schedule-item-block">
-												<div class="schedule-item-bar"></div>
-											</div>
-											<!-- /schedule item bar -->
-										</div>
-										<div class="col-sm-10 schedule-item-content-wrapper">
-											<!-- schedule item content -->
-											<div class="schedule-item-content">
-												<div class="row">
-													<!-- col -->
-													<div class="col-sm-2">
-														<div class="schedule-item-img">
-															<img src="img/schedule-img6.jpg" alt="">
-														</div>
-													</div>
-													<!-- /col -->
-													<!-- col -->
-													<div class="col-sm-10">
-														<div class="schedule-item-infos">
-															<h4 class="schedule-item-date">9:30 - 11:30</h4>
-															<h3 class="schedule-item-title">Angular JS workshop</h3>
-															<div class="schedule-item-text">
-																<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.</p>
-															</div>
-														</div>
-													</div>
-													<!-- /col -->
-												</div>
-											</div>
-											<!-- schedule item content -->
-										</div>
-									</div>
-								</div>
-								<!-- /Schedule item -->
-
-								<!-- Schedule item -->
-								<div class="schedule-item">
-									<div class="row">
-										<div class="col-sm-2">
-											<!-- schedule item bar -->
-											<div class="schedule-item-block">
-												<div class="schedule-item-bar"></div>
-											</div>
-											<!-- /schedule item bar -->
-										</div>
-										<div class="col-sm-10 schedule-item-content-wrapper">
-											<!-- schedule item content -->
-											<div class="schedule-item-content">
-												<div class="row">
-													<!-- col -->
-													<div class="col-sm-2">
-														<div class="schedule-item-img">
-															<img src="img/schedule-img1.jpg" alt="">
-														</div>
-													</div>
-													<!-- /col -->
-													<!-- col -->
-													<div class="col-sm-10">
-														<div class="schedule-item-infos">
-															<h4 class="schedule-item-date">9:30 - 11:30</h4>
-															<h3 class="schedule-item-title">How to be a successful freelancer</h3>
-															<div class="schedule-item-text">
-																<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.</p>
-															</div>
-														</div>
-													</div>
-													<!-- /col -->
-												</div>
-											</div>
-											<!-- schedule item content -->
-										</div>
-									</div>
-								</div>
-								<!-- /Schedule item -->
-
-								<!-- Schedule itens footer -->
-								<div class="schedule-item-footer">
-									<div class="row">
-										<div class="col-sm-2">
-											<!-- schedule item bar -->
-											<div class="schedule-item-block schedule-item-block-bottom">
-												<div class="schedule-item-bar schedule-item-bar-bottom"></div>
-											</div>
-											<!-- /schedule item bar -->
-										</div>
-										<div class="col-sm-10">
-										</div>
-									</div>
-								</div>
-								<!-- /Schedule itens footer -->
-							</div>
-				    		<!-- /schedule list -->
-				    	</div>
-				    	<!-- /Schedule Tab -->
-
-				    	<!-- Schedule Tab -->
-				    	<div class="schedule-tab tab" id="schedule-tab3">
-				    		<!-- schedule list -->
-				    		<div class="schedule-list">
-
-								<!-- Schedule itens header -->
-								<div class="schedule-item-header">
-									<div class="row">
-										<div class="col-sm-2">
-											<!-- schedule item bar -->
-											<div class="schedule-item-block schedule-item-block-top">
-												<div class="schedule-item-bar schedule-item-bar-top"></div>
-											</div>
-											<!-- /schedule item bar -->
-										</div>
-										<div class="col-sm-10">
-										</div>
-									</div>
-								</div>
-								<!-- /Schedule itens header -->
-
-								<!-- Schedule item -->
-								<div class="schedule-item">
-									<div class="row">
-										<div class="col-sm-2">
-											<!-- schedule item bar -->
-											<div class="schedule-item-block">
-												<div class="schedule-item-bar"></div>
-											</div>
-											<!-- /schedule item bar -->
-										</div>
-										<div class="col-sm-10 schedule-item-content-wrapper">
-											<!-- schedule item content -->
-											<div class="schedule-item-content">
-												<div class="row">
-													<!-- col -->
-													<div class="col-sm-2">
-														<div class="schedule-item-img">
-															<img src="img/schedule-img2.jpg" alt="">
-														</div>
-													</div>
-													<!-- /col -->
-													<!-- col -->
-													<div class="col-sm-10">
-														<div class="schedule-item-infos">
-															<h4 class="schedule-item-date">9:30 - 11:30</h4>
-															<h3 class="schedule-item-title">The power of a team</h3>
-															<div class="schedule-item-text">
-																<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.</p>
-															</div>
-														</div>
-													</div>
-													<!-- /col -->
-												</div>
-											</div>
-											<!-- schedule item content -->
-										</div>
-									</div>
-								</div>
-								<!-- /Schedule item -->
-
-								<!-- Schedule item -->
-								<div class="schedule-item">
-									<div class="row">
-										<div class="col-sm-2">
-											<!-- schedule item bar -->
-											<div class="schedule-item-block">
-												<div class="schedule-item-bar"></div>
-											</div>
-											<!-- /schedule item bar -->
-										</div>
-										<div class="col-sm-10 schedule-item-content-wrapper">
-											<!-- schedule item content -->
-											<div class="schedule-item-content">
-												<div class="row">
-													<!-- col -->
-													<div class="col-sm-2">
-														<div class="schedule-item-img">
-															<img src="img/schedule-img3.jpg" alt="">
-														</div>
-													</div>
-													<!-- /col -->
-													<!-- col -->
-													<div class="col-sm-10">
-														<div class="schedule-item-infos">
-															<h4 class="schedule-item-date">11:30 - 12:30</h4>
-															<h3 class="schedule-item-title">App Development workshop</h3>
-															<div class="schedule-item-text">
-																<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.</p>
-															</div>
-														</div>
-													</div>
-													<!-- /col -->
-												</div>
-											</div>
-											<!-- schedule item content -->
-										</div>
-									</div>
-								</div>
-								<!-- /Schedule item -->
-
-								<!-- Schedule item -->
-								<div class="schedule-item">
-									<div class="row">
-										<div class="col-sm-2">
-											<!-- schedule item bar -->
-											<div class="schedule-item-block">
-												<div class="schedule-item-bar"></div>
-											</div>
-											<!-- /schedule item bar -->
-										</div>
-										<div class="col-sm-10 schedule-item-content-wrapper">
-											<!-- schedule item content -->
-											<div class="schedule-item-content">
-												<div class="row">
-													<!-- col -->
-													<div class="col-sm-2">
-														<div class="schedule-item-img">
-															<img src="img/schedule-img4.jpg" alt="">
-														</div>
-													</div>
-													<!-- /col -->
-													<!-- col -->
-													<div class="col-sm-10">
-														<div class="schedule-item-infos">
-															<h4 class="schedule-item-date">9:30 - 11:30</h4>
-															<h3 class="schedule-item-title">Welcome & Registration</h3>
-															<div class="schedule-item-text">
-																<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.</p>
-															</div>
-														</div>
-													</div>
-													<!-- /col -->
-												</div>
-											</div>
-											<!-- schedule item content -->
-										</div>
-									</div>
-								</div>
-								<!-- /Schedule item -->
-
-								<!-- Schedule item -->
-								<div class="schedule-item">
-									<div class="row">
-										<div class="col-sm-2">
-											<!-- schedule item bar -->
-											<div class="schedule-item-block">
-												<div class="schedule-item-bar"></div>
-											</div>
-											<!-- /schedule item bar -->
-										</div>
-										<div class="col-sm-10 schedule-item-content-wrapper">
-											<!-- schedule item content -->
-											<div class="schedule-item-content">
-												<div class="row">
-													<!-- col -->
-													<div class="col-sm-2">
-														<div class="schedule-item-img">
-															<img src="img/schedule-img5.jpg" alt="">
-														</div>
-													</div>
-													<!-- /col -->
-													<!-- col -->
-													<div class="col-sm-10">
-														<div class="schedule-item-infos">
-															<h4 class="schedule-item-date">14:00 - 15:30</h4>
-															<h3 class="schedule-item-title">How to be the leader</h3>
-															<div class="schedule-item-text">
-																<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.</p>
-															</div>
-														</div>
-													</div>
-													<!-- /col -->
-												</div>
-											</div>
-											<!-- schedule item content -->
-										</div>
-									</div>
-								</div>
-								<!-- /Schedule item -->
-
-								<!-- Schedule item -->
-								<div class="schedule-item">
-									<div class="row">
-										<div class="col-sm-2">
-											<!-- schedule item bar -->
-											<div class="schedule-item-block">
-												<div class="schedule-item-bar"></div>
-											</div>
-											<!-- /schedule item bar -->
-										</div>
-										<div class="col-sm-10 schedule-item-content-wrapper">
-											<!-- schedule item content -->
-											<div class="schedule-item-content">
-												<div class="row">
-													<!-- col -->
-													<div class="col-sm-2">
-														<div class="schedule-item-img">
-															<img src="img/schedule-img6.jpg" alt="">
-														</div>
-													</div>
-													<!-- /col -->
-													<!-- col -->
-													<div class="col-sm-10">
-														<div class="schedule-item-infos">
-															<h4 class="schedule-item-date">15:30 - 17:00</h4>
-															<h3 class="schedule-item-title">MEAN Workshop</h3>
-															<div class="schedule-item-text">
-																<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.</p>
-															</div>
-														</div>
-													</div>
-													<!-- /col -->
-												</div>
-											</div>
-											<!-- schedule item content -->
-										</div>
-									</div>
-								</div>
-								<!-- /Schedule item -->
-
-								<!-- Schedule item -->
-								<div class="schedule-item">
-									<div class="row">
-										<div class="col-sm-2">
-											<!-- schedule item bar -->
-											<div class="schedule-item-block">
-												<div class="schedule-item-bar"></div>
-											</div>
-											<!-- /schedule item bar -->
-										</div>
-										<div class="col-sm-10 schedule-item-content-wrapper">
-											<!-- schedule item content -->
-											<div class="schedule-item-content">
-												<div class="row">
-													<!-- col -->
-													<div class="col-sm-2">
-														<div class="schedule-item-img">
-															<img src="img/schedule-img1.jpg" alt="">
-														</div>
-													</div>
-													<!-- /col -->
-													<!-- col -->
-													<div class="col-sm-10">
-														<div class="schedule-item-infos">
-															<h4 class="schedule-item-date">17:00 - 18:00</h4>
-															<h3 class="schedule-item-title">Closing party</h3>
-															<div class="schedule-item-text">
-																<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.</p>
-															</div>
-														</div>
-													</div>
-													<!-- /col -->
-												</div>
-											</div>
-											<!-- schedule item content -->
-										</div>
-									</div>
-								</div>
-								<!-- /Schedule item -->
-
-								<!-- Schedule itens footer -->
-								<div class="schedule-item-footer">
-									<div class="row">
-										<div class="col-sm-2">
-											<!-- schedule item bar -->
-											<div class="schedule-item-block schedule-item-block-bottom">
-												<div class="schedule-item-bar schedule-item-bar-bottom"></div>
-											</div>
-											<!-- /schedule item bar -->
-										</div>
-										<div class="col-sm-10">
-										</div>
-									</div>
-								</div>
-								<!-- /Schedule itens footer -->
-
-							</div>
-				    		<!-- /schedule list -->
-				    	</div>
-				   		<!-- / Schedule Tab -->
-				    </div>
-					<!-- /Schedule Tabs -->
-
-				</div>
-				<!-- /TABS -->
-
-			</div>
-		</div>
-		<!-- /SECTION: Event Schedule
-		================================================== -->
 
 		<!-- SECTION: Team
 		================================================== -->
@@ -1140,7 +339,7 @@ $Name = $_GET['name'];
 							<!-- team-member pic -->
 							<div class="team-member-picture-wrapper">
 								<div class="team-item-picture">
-									<img src="img/team3.jpg" alt=""/>
+									<img style="height:263px;" src="img/team3.jpg" alt=""/>
 								</div>
 								<div class="team-member-find">
 									<div class="team-member-find-overlay">
@@ -1179,8 +378,8 @@ $Name = $_GET['name'];
 									<div class="team-member-find-overlay">
 										<!-- overlay content -->
 										<div class="team-member-find-content">
-											<a href="#" class="block-link" target="_blank"><span class="fa fa-facebook"></span></a>
-											<a href="mailto:" class="block-link"><span class="fa fa-envelope"></span></a>
+											<a href="https://www.facebook.com/profile.php?id=100000609489006" class="block-link" target="_blank"><span class="fa fa-facebook"></span></a>
+											<a href="mailto:iamnarey@gmail.com" class="block-link"><span class="fa fa-envelope"></span></a>
 											<a href="tel: 8939425010" class="block-link"><span class="fa fa-phone"></span></a>
 										</div>
 										<!-- /overlay content -->
@@ -1608,47 +807,34 @@ $Name = $_GET['name'];
 		================================================== -->
 
 		<!-- SECTION: Sponsors
-		================================================== -->
+		==================================================
 		<div class="section-sponsors inverted-section2 section-padding " id="section-sponsors">
 			<div class="container">
-				<!-- Section title -->
 				<div class="section-title-wrapper">
 					<h2 class="title-section">Proudly sponsored by</h2>
 				</div>
-				<!-- /Section title -->
 
 				<div class="sponsors-list-wrapper">
 					<div class="sponsors-list" id="sponsors-carousel">
-						<!-- item -->
 						<div class="sponsor-item">
 							<img src="img/partner-1.png" alt="">
 						</div>
-						<!-- /item -->
-						<!-- item -->
 						<div class="sponsor-item">
 							<img src="img/partner-2.png" alt="">
 						</div>
-						<!-- /item -->
-						<!-- item -->
 						<div class="sponsor-item">
 							<img src="img/partner-3.png" alt="">
 						</div>
-						<!-- /item -->
-						<!-- item -->
 						<div class="sponsor-item">
 							<img src="img/partner-4.png" alt="">
 						</div>
-						<!-- /item -->
-						<!-- item -->
 						<div class="sponsor-item">
 							<img src="img/partner-5.png" alt="">
 						</div>
-						<!-- /item -->
 					</div>
 				</div>
 			</div>
 		</div>
-		<!-- /SECTION: Sponsors
 		================================================== -->
 
 		<!-- SECTION: Blog
@@ -2331,42 +1517,43 @@ $Name = $_GET['name'];
 					</div>
 					<!-- /FAQ item -->
 
-					<!-- FAQ item -->
+					<!--
+					<!- FAQ item
 					<div class="schedule-item">
 						<div class="row">
 							<div class="col-sm-2">
-								<!-- FAQ item bar -->
+								<!- FAQ item bar
 								<div class="schedule-item-block faq-item-block">
 									<div class="schedule-item-bar"></div>
 								</div>
-								<!-- /FAQ item bar -->
+								<!- /FAQ item bar
 							</div>
 							<div class="col-sm-10 schedule-item-content-wrapper">
-								<!-- FAQ item content -->
+								<!- FAQ item content
 								<div class="schedule-item-content faq-item-content">
 									<div class="row">
-										<!-- col -->
+										<!- col
 										<div class="col-sm-12">
 											<div class="schedule-item-infos">
-												<!-- FAQ Question -->
+												<!- FAQ Question
 												<h3 class="schedule-item-title faq-item-title">How Much Should I Pay For An Event?</h3>
-												<!-- /FAQ Question -->
-												<!-- FAQ reply -->
+												<!- /FAQ Question
+												<!- FAQ reply
 												<div class="schedule-item-text">
 													<p>It varies. For some event, the registration fee is 50 and some are 100. The Amount paid is valid only for individual event</p>
 												</div>
-												<!-- /FAQ reply -->
+												<!- /FAQ reply
 											</div>
 										</div>
-										<!-- /col -->
+										<!- /col -
 									</div>
 								</div>
-								<!-- FAQ item content -->
+								<!- FAQ item content
 							</div>
 						</div>
 					</div>
-					<!-- /FAQ item -->
-
+					<!- /FAQ item 
+				-->
 					<!-- FAQ item -->
 					<div class="schedule-item">
 						<div class="row">
@@ -2522,7 +1709,7 @@ $Name = $_GET['name'];
 		<div class="row">
 			<!-- col -->
 			<div class="col-sm-6">
-				E-Revelation'16 - Designed and Developed by <strong><i><a href="www.hashinc.in">HashInclude</a></i></strong>
+				E-Revelation'16 - Designed and Developed by <strong><i><a href="https://www.hashinc.in">HashInclude</a></i></strong>
 			</div>
 			<!-- /col -->
 			<!-- col -->
@@ -2623,6 +1810,11 @@ function isNumber(evt) {
 	return true;
 }
 </script>
-
+<script language="javascript">
+function red()
+{
+	window.location="index.php";
+}
+</script>
 </body>
 </html>
